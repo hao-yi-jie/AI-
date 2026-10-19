@@ -1,0 +1,7665 @@
+{
+ "source": "证监会《合格境外投资者名录》（2026年7月，999家）",
+ "generated": "2026-09-18",
+ "note": "通道类（北向资金/HKSCC）非 QFII 名录主体，单独保留；名录条目按品牌归并，未归并者用官方中文名；左侧 banner 仅展示实际有持仓者。",
+ "exclude_keywords": [
+  "证券投资基金",
+  "混合型",
+  "股票型",
+  "债券型",
+  "指数型",
+  "基金管理",
+  "资产管理计划",
+  "FOF",
+  "信托计划",
+  "员工持股",
+  "全国社保",
+  "基本养老保险",
+  "社保基金",
+  "年金",
+  "养老金产品",
+  "集合理财",
+  "银行理财产品",
+  "工银瑞信",
+  "国投瑞银",
+  "上投摩根",
+  "交银施罗德",
+  "汇丰晋信",
+  "景顺长城",
+  "摩根士丹利数字经济",
+  "摩根新兴动力",
+  "摩根中国优势",
+  "南方东英"
+ ],
+ "shareholders": [
+  {
+   "group": "香港中央结算(北向)",
+   "category": "北向资金",
+   "aliases": [
+    "香港中央结算有限公司"
+   ]
+  },
+  {
+   "group": "HKSCC(港股托管)",
+   "category": "港股托管",
+   "aliases": [
+    "HKSCC NOMINEES LIMITED",
+    "HKSCC Nominees Limited",
+    "香港中央结算(代理人)有限公司",
+    "香港中央结算代理人有限公司"
+   ]
+  },
+  {
+   "group": "阿布达比投资局",
+   "category": "主权基金",
+   "aliases": [
+    "阿布达比投资局",
+    "ABU Dhabi Investment Authority"
+   ]
+  },
+  {
+   "group": "科威特政府投资局",
+   "category": "主权基金",
+   "aliases": [
+    "科威特政府投资局",
+    "Kuwait Investment Authority",
+    "科威特投资办公室",
+    "Kuwait Investment Office"
+   ]
+  },
+  {
+   "group": "新加坡政府投资公司(GIC)",
+   "category": "主权基金",
+   "aliases": [
+    "新加坡政府投资有限公司",
+    "GIC Private Limited"
+   ]
+  },
+  {
+   "group": "挪威中央银行",
+   "category": "主权基金",
+   "aliases": [
+    "挪威中央银行",
+    "Norges Bank"
+   ]
+  },
+  {
+   "group": "文莱投资局",
+   "category": "主权基金",
+   "aliases": [
+    "文莱投资局",
+    "Brunei Investment Agency"
+   ]
+  },
+  {
+   "group": "卡塔尔投资局",
+   "category": "主权基金",
+   "aliases": [
+    "卡塔尔控股有限责任公司",
+    "Qatar Holding LLC",
+    "卡塔尔国民银行公众股份公司",
+    "Qatar National Bank （QNB）"
+   ]
+  },
+  {
+   "group": "沙特公共投资基金",
+   "category": "主权基金",
+   "aliases": [
+    "公共投资基金",
+    "Public Investment Fund"
+   ]
+  },
+  {
+   "group": "澳门金融管理局",
+   "category": "其他QFII",
+   "aliases": [
+    "澳门金融管理局",
+    "Monetary Authority of Macao"
+   ]
+  },
+  {
+   "group": "三菱日联摩根士丹利",
+   "category": "外资投行",
+   "aliases": [
+    "三菱日联摩根士丹利证券股份有限公司",
+    "Mitsubishi UFJ Morgan Stanley Securities Co., Ltd."
+   ]
+  },
+  {
+   "group": "高盛",
+   "category": "外资投行",
+   "aliases": [
+    "高盛公司有限责任公司",
+    "Goldman Sachs&Co. LLC",
+    "高盛国际资产管理公司",
+    "Goldman Sachs Asset Management International",
+    "高盛国际",
+    "Goldman Sachs International",
+    "高盛欧洲银行",
+    "Goldman Sachs Bank Europe SE",
+    "GOLDMAN SACHS"
+   ]
+  },
+  {
+   "group": "摩根士丹利",
+   "category": "外资投行",
+   "aliases": [
+    "摩根士丹利国际股份有限公司",
+    "Morgan Stanley & Co. International PLC",
+    "摩根士丹利投资管理公司",
+    "Morgan Stanley Investment Management Inc.",
+    "摩根士丹利投资管理企业",
+    "Morgan Stanley Investment Management Company"
+   ]
+  },
+  {
+   "group": "摩根大通",
+   "category": "外资投行",
+   "aliases": [
+    "摩根大通银行",
+    "JPMorgan Chase Bank, National Association",
+    "摩根资产管理（英国）有限公司",
+    "JPMorgan Asset Management (UK) Limited",
+    "摩根证券投资信托股份有限公司",
+    "JPMorgan Asset Management Taiwan",
+    "摩根资产管理（亚太）有限公司",
+    "JPMorgan Asset Management (Asia Pacific）Limited",
+    "摩根资产管理（新加坡）有限公司",
+    "JPMorgan Asset Management (Singapore) Limited",
+    "摩根大通证券股份有限公司",
+    "J.P. Morgan Securities plc",
+    "摩根大通基石有限公司",
+    "JPMorgan Chase Funding Inc."
+   ]
+  },
+  {
+   "group": "瑞银",
+   "category": "外资投行",
+   "aliases": [
+    "瑞士银行",
+    "UBS AG",
+    "瑞银资产管理（新加坡）有限公司",
+    "UBS Asset Management (Singapore) Ltd",
+    "瑞银资产管理（香港）有限公司",
+    "UBS Asset Management (Hong Kong ) Ltd",
+    "瑞银资产管理瑞士股份公司",
+    "UBS Asset Management Switzerland AG",
+    "UBS (LUX)"
+   ]
+  },
+  {
+   "group": "花旗",
+   "category": "外资投行",
+   "aliases": [
+    "花旗环球金融有限公司",
+    "Citigroup Global Markets Limited",
+    "花旗集团基金管理有限公司",
+    "Citigroup First Investment Management Limited",
+    "CITIBANK"
+   ]
+  },
+  {
+   "group": "汇丰",
+   "category": "外资投行",
+   "aliases": [
+    "香港上海汇丰银行有限公司",
+    "The Hongkong and Shanghai Banking Corporation Limited",
+    "汇丰环球投资管理（香港）有限公司",
+    "HSBC Global Asset Management (Hong Kong) Limited",
+    "汇丰证券投资信托股份有限公司",
+    "HSBC Global Asset Management (Taiwan) Limited",
+    "汇丰环球资产管理（英国）有限公司",
+    "HSBC Global Asset Management (UK) Limited"
+   ]
+  },
+  {
+   "group": "德意志银行",
+   "category": "外资投行",
+   "aliases": [
+    "德意志银行",
+    "Deutsche Bank Aktiengesellschaft"
+   ]
+  },
+  {
+   "group": "渣打银行",
+   "category": "外资投行",
+   "aliases": [
+    "渣打银行（香港）有限公司",
+    "Standard Chartered Bank (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "巴克莱银行",
+   "category": "外资投行",
+   "aliases": [
+    "巴克莱银行",
+    "Barclays Bank PLC"
+   ]
+  },
+  {
+   "group": "法国巴黎银行",
+   "category": "外资投行",
+   "aliases": [
+    "法国巴黎银行",
+    "BNP Paribas",
+    "法国巴黎投资管理亚洲有限公司",
+    "BNP Paribas Investment Partners Asia Limited",
+    "法国巴黎资产管理（欧洲）",
+    "BNP PARIBAS ASSET MANAGEMENT Europe"
+   ]
+  },
+  {
+   "group": "法国兴业银行",
+   "category": "外资投行",
+   "aliases": [
+    "法国兴业银行",
+    "Société Générale"
+   ]
+  },
+  {
+   "group": "东方汇理银行",
+   "category": "外资投行",
+   "aliases": [
+    "东方汇理银行",
+    "Credit Agrigole Corporate and Investment Bank",
+    "东方汇理资产管理香港有限公司",
+    "Amundi Hong Kong Limited",
+    "东方汇理资产管理新加坡有限公司",
+    "Amundi Singapore Limited",
+    "东方汇理资产管理",
+    "Amundi Asset Management",
+    "东方汇理资产管理（卢森堡）公司",
+    "Amundi Luxembourg S.A.",
+    "东方汇理意大利有限公司",
+    "Amundi SGR S.p.A."
+   ]
+  },
+  {
+   "group": "野村",
+   "category": "外资投行",
+   "aliases": [
+    "野村证券株式会社",
+    "Nomura Securities Co.,Ltd.",
+    "野村资产管理株式会社",
+    "Nomura Asset Management CO., LTD",
+    "野村资产管理欧洲有限公司",
+    "Nomura Asset Management Europe KVG mbH",
+    "野村新加坡有限公司",
+    "Nomura Singapore Limited",
+    "NOMURA"
+   ]
+  },
+  {
+   "group": "大和证券",
+   "category": "外资投行",
+   "aliases": [
+    "大和证券株式会社",
+    "Daiwa Securities Co. Ltd.",
+    "大和资产管理株式会社",
+    "Daiwa Asset Management Co. Ltd."
+   ]
+  },
+  {
+   "group": "三菱日联",
+   "category": "外资投行",
+   "aliases": [
+    "三菱日联资产管理公司",
+    "Mitsubishi UFJ Asset Management Co., Ltd.",
+    "三菱日联银行股份有限公司",
+    "MUFG Bank, Ltd."
+   ]
+  },
+  {
+   "group": "三井住友",
+   "category": "外资投行",
+   "aliases": [
+    "三井住友德思资产管理股份有限公司",
+    "Sumitomo Mitsui DS Asset Management Company, Limited",
+    "三井住友信托银行股份有限公司",
+    "The Sumitomo Trust & Banking Co., Ltd.",
+    "三井住友银行股份有限公司",
+    "Sumitomo Mitsui Banking Corporation",
+    "三井住友信托资产管理股份有限公司",
+    "Sumitomo Mitsui Trust Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "瑞穗",
+   "category": "外资投行",
+   "aliases": [
+    "瑞穗证券株式会社",
+    "Mizuho Securities Co.,Ltd"
+   ]
+  },
+  {
+   "group": "新加坡华侨银行",
+   "category": "外资投行",
+   "aliases": [
+    "新加坡华侨银行股份有限公司",
+    "Oversea-Chinese Banking Corporation Limited"
+   ]
+  },
+  {
+   "group": "新加坡星展银行",
+   "category": "外资投行",
+   "aliases": [
+    "星展银行有限公司",
+    "DBS Bank Ltd"
+   ]
+  },
+  {
+   "group": "大华银行",
+   "category": "外资投行",
+   "aliases": [
+    "大华银行有限公司",
+    "United Overseas Bank Limited",
+    "大华资产管理有限公司",
+    "UOB Asset Management Ltd"
+   ]
+  },
+  {
+   "group": "上海商业银行",
+   "category": "外资投行",
+   "aliases": [
+    "上海商业银行有限公司",
+    "Shanghai Commercial Bank Limited"
+   ]
+  },
+  {
+   "group": "恒生银行",
+   "category": "外资投行",
+   "aliases": [
+    "恒生银行有限公司",
+    "Hang Seng Bank Limited"
+   ]
+  },
+  {
+   "group": "贝莱德",
+   "category": "外资资管",
+   "aliases": [
+    "贝莱德机构信托公司",
+    "BlackRock Institutional Trust Company, N.A.",
+    "贝莱德资产管理北亚有限公司",
+    "BlackRock Asset Management North Asia Limited",
+    "贝莱德顾问（英国）有限公司",
+    "BlackRock Advisors (UK) Limited",
+    "贝莱德（新加坡）有限公司",
+    "BlackRock (Singapore) Limited",
+    "贝莱德基金顾问公司",
+    "BlackRock Fund Advisors",
+    "BLACKROCK"
+   ]
+  },
+  {
+   "group": "先锋领航",
+   "category": "外资资管",
+   "aliases": [
+    "领航投资澳洲有限公司",
+    "Vanguard Investment Australia Ltd",
+    "领航集团有限公司",
+    "The Vanguard Group, Inc.",
+    "VANGUARD"
+   ]
+  },
+  {
+   "group": "道富",
+   "category": "外资资管",
+   "aliases": [
+    "道富环球投资管理亚洲有限公司",
+    "State Street Global Advisors Asia Limited",
+    "道富环球投资爱尔兰有限公司",
+    "State Street Global Advisors Ireland Limited",
+    "道富环球投资信托公司",
+    "State Street Global Advisors Trust Company",
+    "道富环球投资资产管理有限公司",
+    "SSGA Funds Management, Inc.",
+    "道富环球投资有限公司",
+    "State Street Global Advisors Limited",
+    "STATE STREET"
+   ]
+  },
+  {
+   "group": "施罗德",
+   "category": "外资资管",
+   "aliases": [
+    "施罗德投资管理有限公司",
+    "Schroder Investment Mangement Limited",
+    "施罗德投资管理（香港）有限公司",
+    "Schroder Investment Management (Hong Kong) Limited",
+    "施罗德投资管理（新加坡）有限公司",
+    "Schroder Investment Management  (Singapore) Ltd"
+   ]
+  },
+  {
+   "group": "景顺",
+   "category": "外资资管",
+   "aliases": [
+    "景顺资产管理有限公司",
+    "INVESCO Asset Management Limited",
+    "Invesco PowerShares资产管理有限公司",
+    "Invesco PowerShares Capital Management LLC",
+    "景顺投资管理有限公司",
+    "Invesco Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "安本",
+   "category": "外资资管",
+   "aliases": [
+    "安本亚洲有限公司",
+    "Abrdn Asia Limited",
+    "安本香港有限公司",
+    "abrdn Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "富达",
+   "category": "外资资管",
+   "aliases": [
+    "富达基金（香港）有限公司",
+    "FIL Investment Management (Hong Kong) Limited",
+    "富达投资管理（新加坡）有限公司",
+    "Fidelity Investments (Singapore) Limited",
+    "富达管理及研究公司有限责任公司",
+    "Fidelity Management & Research Company LLC"
+   ]
+  },
+  {
+   "group": "普徕仕",
+   "category": "外资资管",
+   "aliases": [
+    "普徕仕投资公司",
+    "T. Rowe Price Associates, Inc.",
+    "普徕仕国际有限公司",
+    "T. Rowe Price International Ltd"
+   ]
+  },
+  {
+   "group": "首源",
+   "category": "外资资管",
+   "aliases": [
+    "首源投资（英国）有限公司",
+    "First Sentier Investors （UK）IM Limited",
+    "首源投资（香港）有限公司",
+    "First Sentier Investors（Hong Kong）Limited",
+    "首源投资（新加坡）",
+    "First Sentier Investors (Singapore)",
+    "首源投资RQI私人有限公司",
+    "First Sentier Investors RQI Pty Ltd",
+    "首源投资（澳大利亚）IM有限公司",
+    "First Sentier Investors (Australia) IM Ltd",
+    "首源投资（澳大利亚）RE有限公司",
+    "First Sentier Investors (Australia) RE Ltd"
+   ]
+  },
+  {
+   "group": "联博",
+   "category": "外资资管",
+   "aliases": [
+    "联博有限公司",
+    "AllianceBernstein Limited",
+    "联博香港有限公司",
+    "AllianceBernstein Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "荷宝",
+   "category": "外资资管",
+   "aliases": [
+    "荷宝基金管理公司",
+    "Robeco Institutional Asset management B.V.",
+    "荷宝卢森堡股份有限公司",
+    "Robeco Luxembourg S.A."
+   ]
+  },
+  {
+   "group": "景林",
+   "category": "外资资管",
+   "aliases": [
+    "景林资产管理香港有限公司",
+    "Greenwoods Asset Management Hong Kong Limited",
+    "GREENWOODS"
+   ]
+  },
+  {
+   "group": "太白投资",
+   "category": "外资资管",
+   "aliases": [
+    "太白投资有限公司",
+    "Taibai Investments Pte. Ltd."
+   ]
+  },
+  {
+   "group": "安耐德",
+   "category": "外资资管",
+   "aliases": [
+    "安耐德合伙人有限公司",
+    "EARNEST Partners LLC"
+   ]
+  },
+  {
+   "group": "盖茨基金会信托",
+   "category": "其他外资机构",
+   "aliases": [
+    "盖茨基金会信托",
+    "Gates Foundation Trust"
+   ]
+  },
+  {
+   "group": "伟华电子",
+   "category": "其他外资机构",
+   "aliases": [
+    "伟华电子有限公司",
+    "AVA International Limited"
+   ]
+  },
+  {
+   "group": "奥明资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "奥明资产管理有限公司",
+    "Amova Asset Management Co.,Ltd."
+   ]
+  },
+  {
+   "group": "美林国际",
+   "category": "其他QFII",
+   "aliases": [
+    "美林国际",
+    "Merrill Lynch International"
+   ]
+  },
+  {
+   "group": "德国商业银行",
+   "category": "其他QFII",
+   "aliases": [
+    "德国商业银行",
+    "Commerzbank AG"
+   ]
+  },
+  {
+   "group": "加拿大鲍尔公司",
+   "category": "其他QFII",
+   "aliases": [
+    "加拿大鲍尔公司",
+    "Power Corporation of Canada"
+   ]
+  },
+  {
+   "group": "马丁可利投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "马丁可利投资管理有限公司",
+    "Martin Currie Investment Management Ltd"
+   ]
+  },
+  {
+   "group": "浩景投资有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "浩景投资有限责任公司",
+    "Heron View Partners LLC"
+   ]
+  },
+  {
+   "group": "淡马锡富敦投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "淡马锡富敦投资有限公司",
+    "Temasek Fullerton Alpha Pte Ltd"
+   ]
+  },
+  {
+   "group": "日本第一生命保险株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "日本第一生命保险株式会社",
+    "The Dai-ichi Life Insurance Company，Limited"
+   ]
+  },
+  {
+   "group": "加拿大丰业银行",
+   "category": "其他QFII",
+   "aliases": [
+    "加拿大丰业银行",
+    "The Bank of Nova Scotia"
+   ]
+  },
+  {
+   "group": "比联金融产品英国有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "比联金融产品英国有限公司",
+    "KBC Financial Products UK Limited"
+   ]
+  },
+  {
+   "group": "爱德蒙得洛希尔（法国）",
+   "category": "其他QFII",
+   "aliases": [
+    "爱德蒙得洛希尔（法国）",
+    "Edmond de Rothschild（France）"
+   ]
+  },
+  {
+   "group": "耶鲁大学",
+   "category": "其他QFII",
+   "aliases": [
+    "耶鲁大学",
+    "Yale University"
+   ]
+  },
+  {
+   "group": "瀚亚投资（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瀚亚投资（香港）有限公司",
+    "Eastspring Investment(Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "斯坦福大学",
+   "category": "其他QFII",
+   "aliases": [
+    "斯坦福大学",
+    "Stanford University"
+   ]
+  },
+  {
+   "group": "百达资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "百达资产管理有限公司",
+    "Pictet Asset Management Limited"
+   ]
+  },
+  {
+   "group": "哥伦比亚大学",
+   "category": "其他QFII",
+   "aliases": [
+    "哥伦比亚大学",
+    "The Trustees of Columbia University in the City of New York"
+   ]
+  },
+  {
+   "group": "比利时联合资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "比利时联合资产管理有限公司",
+    "KBC Asset Management N.V."
+   ]
+  },
+  {
+   "group": "铂金投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "铂金投资管理有限公司",
+    "Platinum Investment Management Limited"
+   ]
+  },
+  {
+   "group": "未来资产基金管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "未来资产基金管理公司",
+    "Mirae Asset Global Investments Co., Ltd."
+   ]
+  },
+  {
+   "group": "安达国际控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安达国际控股有限公司",
+    "Chubb INA International Holdings Ltd."
+   ]
+  },
+  {
+   "group": "魁北克储蓄投资集团",
+   "category": "其他QFII",
+   "aliases": [
+    "魁北克储蓄投资集团",
+    "Caisse de dépôt et placement du Québec"
+   ]
+  },
+  {
+   "group": "哈佛大学",
+   "category": "其他QFII",
+   "aliases": [
+    "哈佛大学",
+    "President and Fellows of Harvard College"
+   ]
+  },
+  {
+   "group": "三星资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "三星资产运用株式会社",
+    "Samsung Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "壳牌资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "壳牌资产管理有限公司",
+    "Shell Asset Management Company B.V."
+   ]
+  },
+  {
+   "group": "安联环球投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安联环球投资有限公司",
+    "Allianz Global Investors GmbH"
+   ]
+  },
+  {
+   "group": "资本国际公司",
+   "category": "其他QFII",
+   "aliases": [
+    "资本国际公司",
+    "Capital International, Inc."
+   ]
+  },
+  {
+   "group": "韩华资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "韩华资产运用株式会社",
+    "Hanwha Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "韩国产业银行",
+   "category": "其他QFII",
+   "aliases": [
+    "韩国产业银行",
+    "The Korea Development Bank"
+   ]
+  },
+  {
+   "group": "韩国友利银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "韩国友利银行股份有限公司",
+    "Woori Bank Co., Ltd"
+   ]
+  },
+  {
+   "group": "马来西亚国家银行",
+   "category": "其他QFII",
+   "aliases": [
+    "马来西亚国家银行",
+    "Bank Negara Malaysia"
+   ]
+  },
+  {
+   "group": "邓普顿投资顾问有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "邓普顿投资顾问有限公司",
+    "Templeton Investment Counsel, LLC"
+   ]
+  },
+  {
+   "group": "东亚联丰投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东亚联丰投资管理有限公司",
+    "BEA Union Investment Management Limited"
+   ]
+  },
+  {
+   "group": "韩国投资信托运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "韩国投资信托运用株式会社",
+    "Korea Investment Management Co., Ltd"
+   ]
+  },
+  {
+   "group": "霸菱资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "霸菱资产管理有限公司",
+    "Baring Asset Management Limited"
+   ]
+  },
+  {
+   "group": "安石投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安石投资管理有限公司",
+    "Ashmore Investment Management Limited"
+   ]
+  },
+  {
+   "group": "纽约梅隆资产管理国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "纽约梅隆资产管理国际有限公司",
+    "BNY Mellon Asset Management International Limited"
+   ]
+  },
+  {
+   "group": "宏利投资管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "宏利投资管理（香港）有限公司",
+    "Manulife Investment Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "友利资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "友利资产运用株式会社",
+    "Woori Asset Management Corp."
+   ]
+  },
+  {
+   "group": "加拿大皇家银行",
+   "category": "其他QFII",
+   "aliases": [
+    "加拿大皇家银行",
+    "Royal Bank of Canada"
+   ]
+  },
+  {
+   "group": "英杰华投资集团全球服务有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "英杰华投资集团全球服务有限公司",
+    "Aviva Investors Global Services Limited"
+   ]
+  },
+  {
+   "group": "顶峰资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "顶峰资产管理有限公司",
+    "Asset Management One Co., Ltd."
+   ]
+  },
+  {
+   "group": "欧菲资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "欧菲资产管理公司",
+    "OFI INVEST ASSET MANAGEMENT"
+   ]
+  },
+  {
+   "group": "KB资产运用",
+   "category": "其他QFII",
+   "aliases": [
+    "KB资产运用",
+    "KB Asset Management Co., Ltd"
+   ]
+  },
+  {
+   "group": "香港金融管理局",
+   "category": "其他QFII",
+   "aliases": [
+    "香港金融管理局",
+    "Hong Kong Monetary Authority"
+   ]
+  },
+  {
+   "group": "富邦证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富邦证券投资信托股份有限公司",
+    "Fubon Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "群益证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "群益证券投资信托股份有限公司",
+    "Capital Investment Trust Corporation"
+   ]
+  },
+  {
+   "group": "蒙特利尔银行投资公司",
+   "category": "其他QFII",
+   "aliases": [
+    "蒙特利尔银行投资公司",
+    "BMO Investments Inc."
+   ]
+  },
+  {
+   "group": "瑞士宝盛银行",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞士宝盛银行",
+    "Bank Julius Bear & Co.,Ltd"
+   ]
+  },
+  {
+   "group": "科提比资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "科提比资产运用株式会社",
+    "KTB Asset Management Co.,Ltd"
+   ]
+  },
+  {
+   "group": "领先资产管理",
+   "category": "其他QFII",
+   "aliases": [
+    "领先资产管理",
+    "Lyxor Asset Management"
+   ]
+  },
+  {
+   "group": "元大证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "元大证券投资信托股份有限公司",
+    "Yuanta Securities Investment Trust Co.,Ltd."
+   ]
+  },
+  {
+   "group": "忠利保险有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "忠利保险有限公司",
+    "Assicurazioni Generali S.p.A."
+   ]
+  },
+  {
+   "group": "西班牙对外银行有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "西班牙对外银行有限公司",
+    "Banco Bilbao Vizcaya Argentaria, S.A."
+   ]
+  },
+  {
+   "group": "复华证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "复华证券投资信托股份有限公司",
+    "Fuh Hwa Securities Investment Trust Co. Ltd."
+   ]
+  },
+  {
+   "group": "亢简资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亢简资产管理公司",
+    "Comgest S.A."
+   ]
+  },
+  {
+   "group": "GMO有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "GMO有限责任公司",
+    "Grantham, Mayo, Van Otterloo & Co.LLC"
+   ]
+  },
+  {
+   "group": "新加坡金融管理局",
+   "category": "其他QFII",
+   "aliases": [
+    "新加坡金融管理局",
+    "Monetary Authority of Singapore"
+   ]
+  },
+  {
+   "group": "凯基人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯基人寿保险股份有限公司",
+    "KGI LIFE INSURANCE CO. LTD"
+   ]
+  },
+  {
+   "group": "新光人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新光人寿保险股份有限公司",
+    "Shin Kong Life Insurance Co., Ltd."
+   ]
+  },
+  {
+   "group": "普林斯顿大学",
+   "category": "其他QFII",
+   "aliases": [
+    "普林斯顿大学",
+    "Princeton University"
+   ]
+  },
+  {
+   "group": "泛达公司",
+   "category": "其他QFII",
+   "aliases": [
+    "泛达公司",
+    "Van Eck Associates Corporation"
+   ]
+  },
+  {
+   "group": "加拿大年金计划投资委员会",
+   "category": "其他QFII",
+   "aliases": [
+    "加拿大年金计划投资委员会",
+    "Canada Pension Plan Investment Board"
+   ]
+  },
+  {
+   "group": "瀚博环球投资公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瀚博环球投资公司",
+    "Hansberger Global Investors, Inc."
+   ]
+  },
+  {
+   "group": "泰国银行",
+   "category": "其他QFII",
+   "aliases": [
+    "泰国银行",
+    "The Bank of Thailand"
+   ]
+  },
+  {
+   "group": "北美信托环球投资公司",
+   "category": "其他QFII",
+   "aliases": [
+    "北美信托环球投资公司",
+    "Northern Trust Global Investments Limited"
+   ]
+  },
+  {
+   "group": "台湾人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "台湾人寿保险股份有限公司",
+    "Taiwan Life Insurance Co., Ltd."
+   ]
+  },
+  {
+   "group": "韩国银行",
+   "category": "其他QFII",
+   "aliases": [
+    "韩国银行",
+    "Bank of Korea"
+   ]
+  },
+  {
+   "group": "广发控股（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "广发控股（香港）有限公司",
+    "GF Holdings (Hong Kong) Corporation Limited"
+   ]
+  },
+  {
+   "group": "国投证券国际金融控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "国投证券国际金融控股有限公司",
+    "SDIC Securities International Financial Holdings Limited"
+   ]
+  },
+  {
+   "group": "国元国际控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "国元国际控股有限公司"
+   ]
+  },
+  {
+   "group": "安大略省教师养老金计划委员会",
+   "category": "其他QFII",
+   "aliases": [
+    "安大略省教师养老金计划委员会",
+    "Ontario Teachers' Pension Plan Board"
+   ]
+  },
+  {
+   "group": "罗素投资爱尔兰有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "罗素投资爱尔兰有限公司",
+    "Russell Investments Ireland Limited"
+   ]
+  },
+  {
+   "group": "韩国投资公司",
+   "category": "其他QFII",
+   "aliases": [
+    "韩国投资公司",
+    "Korea Investment Corporation"
+   ]
+  },
+  {
+   "group": "迈世勒资产管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "迈世勒资产管理有限责任公司",
+    "Metzler Asset Management GmbH"
+   ]
+  },
+  {
+   "group": "华宜资产运用有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华宜资产运用有限公司",
+    "VI Asset Management Co., Ltd"
+   ]
+  },
+  {
+   "group": "国民年金公团（韩国）",
+   "category": "其他QFII",
+   "aliases": [
+    "国民年金公团（韩国）",
+    "National Pension Service"
+   ]
+  },
+  {
+   "group": "新韩资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "新韩资产运用株式会社",
+    "Shinhan Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "三商美邦人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "三商美邦人寿保险股份有限公司",
+    "Mercuries Life Insurance Co,Ltd"
+   ]
+  },
+  {
+   "group": "玉山证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "玉山证券投资信托股份有限公司",
+    "E.Sun Asset Management Co.,Ltd."
+   ]
+  },
+  {
+   "group": "信安环球投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "信安环球投资有限公司",
+    "Principal Global Investors LLC"
+   ]
+  },
+  {
+   "group": "全球人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "全球人寿保险股份有限公司",
+    "TransGlobe Life Insurance Inc."
+   ]
+  },
+  {
+   "group": "大众信托基金有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "大众信托基金有限公司",
+    "Public Mutual Berhad"
+   ]
+  },
+  {
+   "group": "明治安田资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "明治安田资产管理有限公司",
+    "Meiji Yasuda Asset Management Company Ltd."
+   ]
+  },
+  {
+   "group": "富邦人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富邦人寿保险股份有限公司",
+    "Fubon Life Insurance Co. Ltd"
+   ]
+  },
+  {
+   "group": "友邦保险有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "友邦保险有限公司",
+    "AIA Company Limited"
+   ]
+  },
+  {
+   "group": "纽伯格伯曼欧洲有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "纽伯格伯曼欧洲有限公司",
+    "Neuberger Berman Europe Limited"
+   ]
+  },
+  {
+   "group": "马来西亚国库控股公司",
+   "category": "其他QFII",
+   "aliases": [
+    "马来西亚国库控股公司",
+    "KHAZANAH NASIONAL BERHAD"
+   ]
+  },
+  {
+   "group": "资本研究与管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "资本研究与管理公司",
+    "Capital Research and Management Company"
+   ]
+  },
+  {
+   "group": "日本东京海上资产管理株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "日本东京海上资产管理株式会社",
+    "Tokio Marine Asset Management Co.,Ltd"
+   ]
+  },
+  {
+   "group": "韩亚证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "韩亚证券株式会社",
+    "HANA SECURITIES CO., LTD"
+   ]
+  },
+  {
+   "group": "兴元资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "兴元资产管理有限公司",
+    "Genesis Asset Managers,LLP"
+   ]
+  },
+  {
+   "group": "伦敦市投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "伦敦市投资管理有限公司",
+    "City of London Investment Managementi Company Limited"
+   ]
+  },
+  {
+   "group": "思佰益冈三资产管理股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "思佰益冈三资产管理股份有限公司",
+    "SBI Okasan Asset Management Co.,Ltd"
+   ]
+  },
+  {
+   "group": "预知投资管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "预知投资管理公司",
+    "Prescient Investment Management PTY LTD"
+   ]
+  },
+  {
+   "group": "DB资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "DB资产运用株式会社",
+    "Dongbu Asset Management Co.,Ltd."
+   ]
+  },
+  {
+   "group": "骏利亨德森投资英国有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "骏利亨德森投资英国有限公司",
+    "JANUS HENDERSON INVESTORS UK LIMITED"
+   ]
+  },
+  {
+   "group": "欧利盛资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "欧利盛资产管理有限公司",
+    "Eurizon Capital S.A."
+   ]
+  },
+  {
+   "group": "富敦资金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富敦资金管理有限公司",
+    "Fullerton Fund Management Company Ltd"
+   ]
+  },
+  {
+   "group": "利安资金管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "利安资金管理公司",
+    "Lion Global Investors Limited"
+   ]
+  },
+  {
+   "group": "忠利银行基金管理卢森堡有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "忠利银行基金管理卢森堡有限责任公司",
+    "BG FUND MANAGEMENT LUXEMBOURG S.A."
+   ]
+  },
+  {
+   "group": "威廉-博莱公司",
+   "category": "其他QFII",
+   "aliases": [
+    "威廉-博莱公司",
+    "William Blair & Company,L.L.C."
+   ]
+  },
+  {
+   "group": "晋达英国有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "晋达英国有限公司",
+    "Ninety One UK Limited"
+   ]
+  },
+  {
+   "group": "安智投资管理亚太（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安智投资管理亚太（香港）有限公司",
+    "ING Investment Management Aisa Pacific (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "派斯通家族基金办公室有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "派斯通家族基金办公室有限责任公司",
+    "Pathstone Family Office, LLC"
+   ]
+  },
+  {
+   "group": "得克萨斯大学体系董事会",
+   "category": "其他QFII",
+   "aliases": [
+    "得克萨斯大学体系董事会",
+    "Board of Regents of The University of Texas System"
+   ]
+  },
+  {
+   "group": "南山人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "南山人寿保险股份有限公司",
+    "Nan Shan Life Insurance Company,Ltd."
+   ]
+  },
+  {
+   "group": "SUVA瑞士国家工伤保险机构",
+   "category": "其他QFII",
+   "aliases": [
+    "SUVA瑞士国家工伤保险机构",
+    "Suva"
+   ]
+  },
+  {
+   "group": "不列颠哥伦比亚省投资管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "不列颠哥伦比亚省投资管理公司",
+    "British Columbia Investment Management Corporation"
+   ]
+  },
+  {
+   "group": "惠理基金管理香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "惠理基金管理香港有限公司",
+    "Value Partners Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "安大略退休金管理委员会",
+   "category": "其他QFII",
+   "aliases": [
+    "安大略退休金管理委员会",
+    "Ontario Pension Board"
+   ]
+  },
+  {
+   "group": "教会养老基金",
+   "category": "其他QFII",
+   "aliases": [
+    "教会养老基金",
+    "The Church Pension Fund"
+   ]
+  },
+  {
+   "group": "麦格理银行有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "麦格理银行有限公司",
+    "Macquarie Bank Limited"
+   ]
+  },
+  {
+   "group": "IDG资本管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "IDG资本管理（香港）有限公司",
+    "IDG CAPITAL MANAGEMENT (HK) LIMITED"
+   ]
+  },
+  {
+   "group": "瑞典第二国家养老基金",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞典第二国家养老基金",
+    "Andra AP-fonden"
+   ]
+  },
+  {
+   "group": "杜克大学",
+   "category": "其他QFII",
+   "aliases": [
+    "杜克大学",
+    "Duke University"
+   ]
+  },
+  {
+   "group": "瑞士盈丰银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞士盈丰银行股份有限公司",
+    "EFG Bank AG"
+   ]
+  },
+  {
+   "group": "海拓投资管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "海拓投资管理公司",
+    "Cutwater Investor Services Corporation"
+   ]
+  },
+  {
+   "group": "奥博医疗顾问有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "奥博医疗顾问有限公司",
+    "OrbiMed Advisors LLC"
+   ]
+  },
+  {
+   "group": "全球保险集团美国投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "全球保险集团美国投资管理有限公司",
+    "AEGON USA Investment Management, LLC"
+   ]
+  },
+  {
+   "group": "鼎晖投资咨询新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "鼎晖投资咨询新加坡有限公司",
+    "CDH Investment Advisory Private Limited"
+   ]
+  },
+  {
+   "group": "瑞典北欧斯安银行有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞典北欧斯安银行有限公司",
+    "Skandinaviska Enskilda Banken AB(publ)"
+   ]
+  },
+  {
+   "group": "道明资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "道明资产管理有限公司",
+    "TD Asset Management Inc."
+   ]
+  },
+  {
+   "group": "统一证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "统一证券投资信托股份有限公司",
+    "Uni-President Assets Management Corporation"
+   ]
+  },
+  {
+   "group": "毕盛资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "毕盛资产管理有限公司",
+    "APS Asset Management Pte Ltd"
+   ]
+  },
+  {
+   "group": "太平洋投资策略有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "太平洋投资策略有限公司",
+    "Pacific Alliance Investment Management (HK) Limited"
+   ]
+  },
+  {
+   "group": "HHLR管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "HHLR管理有限公司",
+    "HHLR Management Pte. Ltd"
+   ]
+  },
+  {
+   "group": "永丰证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "永丰证券投资信托股份有限公司",
+    "SinoPac Securities Investment Trust Co.,Ltd"
+   ]
+  },
+  {
+   "group": "宜思投资管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "宜思投资管理有限责任公司",
+    "East Capital AB"
+   ]
+  },
+  {
+   "group": "第一金证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "第一金证券投资信托股份有限公司",
+    "First Securities Investment Trust Co., Ltd."
+   ]
+  },
+  {
+   "group": "太平洋投资管理公司亚洲私营有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "太平洋投资管理公司亚洲私营有限公司",
+    "PIMCO Asia Pte Ltd"
+   ]
+  },
+  {
+   "group": "EJS投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "EJS投资管理有限公司",
+    "EJS Investment Management S.A."
+   ]
+  },
+  {
+   "group": "诺安基金（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "诺安基金（香港）有限公司"
+   ]
+  },
+  {
+   "group": "泰康资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "泰康资产管理（香港）有限公司",
+    "Taikang Asset Management (HK) Company Limited"
+   ]
+  },
+  {
+   "group": "国民证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "国民证券株式会社",
+    "KB Securities co., Ltd."
+   ]
+  },
+  {
+   "group": "Azimut投资股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Azimut投资股份有限公司",
+    "Azimut Investments S.A."
+   ]
+  },
+  {
+   "group": "亚洲资本再保险集团私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亚洲资本再保险集团私人有限公司",
+    "Asia Capital Reinsurance Group Pte. Ltd."
+   ]
+  },
+  {
+   "group": "兴证（香港）金融控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "兴证（香港）金融控股有限公司"
+   ]
+  },
+  {
+   "group": "台新证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "台新证券投资信托股份有限公司",
+    "Taishin Securities Investment Trust Co., Ltd."
+   ]
+  },
+  {
+   "group": "太平资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "太平资产管理（香港）有限公司",
+    "Taiping Assets Management (HK) Company Limited"
+   ]
+  },
+  {
+   "group": "东吴证券（国际）金融控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东吴证券（国际）金融控股有限公司",
+    "Soochow Securities (International) Financial Holding Limited"
+   ]
+  },
+  {
+   "group": "东方金融控股（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东方金融控股（香港）有限公司"
+   ]
+  },
+  {
+   "group": "中国光大资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国光大资产管理有限公司",
+    "China Everbright Assets Management Limited"
+   ]
+  },
+  {
+   "group": "恒生投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "恒生投资管理有限公司",
+    "Hang Seng Investment Management Limited"
+   ]
+  },
+  {
+   "group": "兆丰国际证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "兆丰国际证券投资信托股份有限公司",
+    "Mega International Investment Trust Co., Ltd."
+   ]
+  },
+  {
+   "group": "横华国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "横华国际资产管理有限公司",
+    "HGNH International Asset Management Co.,Limited"
+   ]
+  },
+  {
+   "group": "纽堡亚洲",
+   "category": "其他QFII",
+   "aliases": [
+    "纽堡亚洲",
+    "Newport Asia LLC"
+   ]
+  },
+  {
+   "group": "华南永昌证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华南永昌证券投资信托股份有限公司",
+    "HUA NAN INVESTMENT TRUST CORPORATION"
+   ]
+  },
+  {
+   "group": "中国平安资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国平安资产管理（香港）有限公司",
+    "Ping An of China Asset Management (Hong Kong) Company Limited"
+   ]
+  },
+  {
+   "group": "弘收投资管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "弘收投资管理（香港）有限公司",
+    "Income Partners Asset Management (HK) Limited"
+   ]
+  },
+  {
+   "group": "东亚银行有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东亚银行有限公司",
+    "The Bank of East Asia, Limited"
+   ]
+  },
+  {
+   "group": "永丰金资产管理（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "永丰金资产管理（亚洲）有限公司",
+    "SinoPac Asset Management (Asia) Ltd."
+   ]
+  },
+  {
+   "group": "中国东方国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国东方国际资产管理有限公司",
+    "China Orient International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "中国信托人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国信托人寿保险股份有限公司",
+    "CTBC Life Insurance Co., Ltd."
+   ]
+  },
+  {
+   "group": "凯思博投资管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯思博投资管理（香港）有限公司",
+    "Keywise Capital Management (HK) Limited"
+   ]
+  },
+  {
+   "group": "富邦产物保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富邦产物保险股份有限公司",
+    "FUBON INSURANCE COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "欧特咨询有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "欧特咨询有限公司",
+    "Alta Advisers Limited"
+   ]
+  },
+  {
+   "group": "盛树投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "盛树投资管理有限公司",
+    "Flowering Tree Investment Manangement Pte. Ltd."
+   ]
+  },
+  {
+   "group": "柏瑞投资香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "柏瑞投资香港有限公司",
+    "PineBridge Investments Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "创兴银行有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "创兴银行有限公司",
+    "Chong Hing Bank Limited"
+   ]
+  },
+  {
+   "group": "梅奥诊所",
+   "category": "其他QFII",
+   "aliases": [
+    "梅奥诊所",
+    "Mayo Clinic"
+   ]
+  },
+  {
+   "group": "政府养老基金（泰国）",
+   "category": "其他QFII",
+   "aliases": [
+    "政府养老基金（泰国）",
+    "Government Pension Fund"
+   ]
+  },
+  {
+   "group": "CSAM资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "CSAM资产管理有限公司",
+    "CSAM Asset Management Pte Ltd"
+   ]
+  },
+  {
+   "group": "未来资产环球投资（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "未来资产环球投资（香港）有限公司",
+    "Mirae Asset Global Investments (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "香港沪光国际投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "香港沪光国际投资管理有限公司",
+    "SHANGHAI INTERNATIONAL ASSET MANAGEMENT(HONG KONG) COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "狮诚控股国际私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "狮诚控股国际私人有限公司",
+    "SeaTown Holdings International Pte. Ltd."
+   ]
+  },
+  {
+   "group": "中国人寿富兰克林资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国人寿富兰克林资产管理有限公司",
+    "China Life Franklin Asset Management Co., Limited"
+   ]
+  },
+  {
+   "group": "韩亚资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "韩亚资产运用株式会社",
+    "Hana Asset Management Company Ltd."
+   ]
+  },
+  {
+   "group": "立陶宛银行",
+   "category": "其他QFII",
+   "aliases": [
+    "立陶宛银行",
+    "Bank of Lithuania"
+   ]
+  },
+  {
+   "group": "富兰克林华美证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富兰克林华美证券投资信托股份有限公司",
+    "Franklin Templeton SinoAM SIM Inc."
+   ]
+  },
+  {
+   "group": "中国信托商业银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国信托商业银行股份有限公司",
+    "CTBC Bank Co., Ltd."
+   ]
+  },
+  {
+   "group": "国金证券（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "国金证券（香港）有限公司",
+    "Sinolink Securities (Hong Kong) Company Limited"
+   ]
+  },
+  {
+   "group": "承壹投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "承壹投资管理有限公司",
+    "Veracity Investment Co., Limited"
+   ]
+  },
+  {
+   "group": "易亚投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "易亚投资管理有限公司",
+    "Enhanced Investment Products Limited"
+   ]
+  },
+  {
+   "group": "华盛顿大学",
+   "category": "其他QFII",
+   "aliases": [
+    "华盛顿大学",
+    "The Washington University"
+   ]
+  },
+  {
+   "group": "史帝夫尼可洛司股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "史帝夫尼可洛司股份有限公司",
+    "Stifel Nicolaus & Company, Inc."
+   ]
+  },
+  {
+   "group": "瑞士再保险亚洲私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞士再保险亚洲私人有限公司",
+    "Swiss RE Asia PTE. LTD."
+   ]
+  },
+  {
+   "group": "Nordea投资管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Nordea投资管理公司",
+    "Nordea Investment Management AB"
+   ]
+  },
+  {
+   "group": "嘉理资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "嘉理资产管理有限公司",
+    "Galaxy Asset Management (H.K.) Limited"
+   ]
+  },
+  {
+   "group": "街口证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "街口证券投资信托股份有限公司",
+    "JKO Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "喀斯喀特有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "喀斯喀特有限责任公司",
+    "Cascade Investment, L.L.C."
+   ]
+  },
+  {
+   "group": "铭基国际投资公司",
+   "category": "其他QFII",
+   "aliases": [
+    "铭基国际投资公司",
+    "Matthews International Capital Management, LLC"
+   ]
+  },
+  {
+   "group": "奥本海默基金公司",
+   "category": "其他QFII",
+   "aliases": [
+    "奥本海默基金公司",
+    "Oppenheimer Funds, Inc."
+   ]
+  },
+  {
+   "group": "越秀资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "越秀资产管理有限公司",
+    "Yue Xiu Asset Management Limited"
+   ]
+  },
+  {
+   "group": "润晖投资管理香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "润晖投资管理香港有限公司",
+    "Cephei Capital Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "高观投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "高观投资有限公司",
+    "Overlook Investments Limited"
+   ]
+  },
+  {
+   "group": "赤子之心资本亚洲有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "赤子之心资本亚洲有限公司",
+    "Pureheart Capital Asia Limited"
+   ]
+  },
+  {
+   "group": "奥明资产管理亚洲有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "奥明资产管理亚洲有限公司",
+    "Amova Asset Management Asia Limited"
+   ]
+  },
+  {
+   "group": "辉立资本管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "辉立资本管理（香港）有限公司",
+    "Phillip Capital Management (HK) Ltd"
+   ]
+  },
+  {
+   "group": "台新国际商业银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "台新国际商业银行股份有限公司",
+    "Taishin International Bank"
+   ]
+  },
+  {
+   "group": "中泰金融国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中泰金融国际有限公司",
+    "Zhongtai Financial International Limited"
+   ]
+  },
+  {
+   "group": "三星资产运用（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "三星资产运用（香港）有限公司",
+    "Samsung Asset Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "爱斯普乐基金管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "爱斯普乐基金管理公司",
+    "ASSETPLUS Investment Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "新华资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新华资产管理（香港）有限公司",
+    "New China Asset Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "彭博家族基金会",
+   "category": "其他QFII",
+   "aliases": [
+    "彭博家族基金会",
+    "The Bloomberg Family Foundation Inc."
+   ]
+  },
+  {
+   "group": "石溪集团",
+   "category": "其他QFII",
+   "aliases": [
+    "石溪集团",
+    "The Rock Creek Group, LP."
+   ]
+  },
+  {
+   "group": "财通国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "财通国际资产管理有限公司",
+    "Caitong International Asset Management Co., Limited"
+   ]
+  },
+  {
+   "group": "元大证券（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "元大证券（香港）有限公司",
+    "Yuanta Securities (Hong Kong) Company Limited"
+   ]
+  },
+  {
+   "group": "凯敏雅克资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯敏雅克资产管理公司",
+    "Carmignac Gestion"
+   ]
+  },
+  {
+   "group": "麻省理工学院",
+   "category": "其他QFII",
+   "aliases": [
+    "麻省理工学院",
+    "Massachusetts Institute of Technology"
+   ]
+  },
+  {
+   "group": "万金全球香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "万金全球香港有限公司",
+    "Viking Global Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "融通国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "融通国际资产管理有限公司",
+    "Rongtong Global Investment Limited"
+   ]
+  },
+  {
+   "group": "中诚国际资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中诚国际资本有限公司",
+    "CCTIC International Limited"
+   ]
+  },
+  {
+   "group": "亨茂资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亨茂资产管理有限公司",
+    "Hamon Asset Management Limited"
+   ]
+  },
+  {
+   "group": "赛德堡资本（英国）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "赛德堡资本（英国）有限公司",
+    "Cederberg Capital UK LLP"
+   ]
+  },
+  {
+   "group": "霸菱资产管理（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "霸菱资产管理（亚洲）有限公司",
+    "Baring Asset Management (Asia) Limited"
+   ]
+  },
+  {
+   "group": "信安资金管理（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "信安资金管理（亚洲）有限公司",
+    "Principal Asset Management Company (Asia) Limited"
+   ]
+  },
+  {
+   "group": "未来资产环球投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "未来资产环球投资有限公司",
+    "Mirae Asset Global Investment Co., Ltd"
+   ]
+  },
+  {
+   "group": "威灵顿投资管理国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "威灵顿投资管理国际有限公司",
+    "Wellington Management International Limited"
+   ]
+  },
+  {
+   "group": "NH-AMUNDI资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "NH-AMUNDI资产管理有限公司",
+    "NH-AMUNDI Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "加百利投资管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "加百利投资管理（香港）有限公司",
+    "Total Invest Group Asset Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "宾夕法尼亚大学校董会",
+   "category": "其他QFII",
+   "aliases": [
+    "宾夕法尼亚大学校董会",
+    "Trustees of the University of Pennsylvania"
+   ]
+  },
+  {
+   "group": "广发资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "广发资产管理（香港）有限公司",
+    "GF Asset Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "路博迈新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "路博迈新加坡有限公司",
+    "Neuberger Berman Singapore Pte. Limited"
+   ]
+  },
+  {
+   "group": "TRUSTON资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "TRUSTON资产管理有限公司",
+    "TRUSTON Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "大信资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "大信资产运用株式会社",
+    "Daishin Asset Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "麦盛资产管理（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "麦盛资产管理（亚洲）有限公司",
+    "Munsun Asset Management (Asia) Limited"
+   ]
+  },
+  {
+   "group": "MY Asset投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "MY Asset投资管理有限公司",
+    "MY Asset Investment  Management Co., Ltd."
+   ]
+  },
+  {
+   "group": "新韩投资证券股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新韩投资证券股份有限公司",
+    "Shinhan Securities Co., Ltd."
+   ]
+  },
+  {
+   "group": "兴国资产管理",
+   "category": "其他QFII",
+   "aliases": [
+    "兴国资产管理",
+    "Heungkuk Asset Management"
+   ]
+  },
+  {
+   "group": "英杰华投资亚洲私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "英杰华投资亚洲私人有限公司",
+    "Aviva Investors Asia Pte. Limited"
+   ]
+  },
+  {
+   "group": "玉山商业银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "玉山商业银行股份有限公司",
+    "E.SUN COMMERCIAL BANK, LTD."
+   ]
+  },
+  {
+   "group": "KKR新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "KKR新加坡有限公司",
+    "KKR Singapore Pte. Ltd."
+   ]
+  },
+  {
+   "group": "兴元投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "兴元投资管理有限公司",
+    "Genesis Investment Management, LLP"
+   ]
+  },
+  {
+   "group": "未来资产证券 株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "未来资产证券 株式会社",
+    "MIRAE ASSET SECURITIES CO., LTD."
+   ]
+  },
+  {
+   "group": "加利福尼亚大学校董会",
+   "category": "其他QFII",
+   "aliases": [
+    "加利福尼亚大学校董会",
+    "The Regents of the University of California"
+   ]
+  },
+  {
+   "group": "信诚资产管理（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "信诚资产管理（新加坡）有限公司",
+    "Reliance Asset Management (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "三星生命保险（株）",
+   "category": "其他QFII",
+   "aliases": [
+    "三星生命保险（株）",
+    "Samsung Life Insurance Co., Ltd."
+   ]
+  },
+  {
+   "group": "教保安盛资产运用（株）",
+   "category": "其他QFII",
+   "aliases": [
+    "教保安盛资产运用（株）",
+    "Kyobo AXA Investment Managers Co., Ltd."
+   ]
+  },
+  {
+   "group": "凯济基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯济基金管理有限公司",
+    "KCGI Asset Management Company"
+   ]
+  },
+  {
+   "group": "安联环球投资新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安联环球投资新加坡有限公司",
+    "Allianz Global Investors Singapore Limited"
+   ]
+  },
+  {
+   "group": "方圆基金管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "方圆基金管理（香港）有限公司",
+    "Prudence Investment Management (Hong Kong) Ltd."
+   ]
+  },
+  {
+   "group": "三星证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "三星证券株式会社",
+    "Samsung Securities Co., Ltd"
+   ]
+  },
+  {
+   "group": "GAM国际管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "GAM国际管理有限公司",
+    "GAM International Management Limited"
+   ]
+  },
+  {
+   "group": "华宜资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "华宜资产运用株式会社",
+    "HI Asset Management"
+   ]
+  },
+  {
+   "group": "台湾银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "台湾银行股份有限公司",
+    "Bank of Taiwan"
+   ]
+  },
+  {
+   "group": "淡水泉（香港）投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "淡水泉（香港）投资管理有限公司",
+    "Springs Capital (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "安联证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安联证券投资信托股份有限公司",
+    "Allianz Global Investors Taiwan Limited"
+   ]
+  },
+  {
+   "group": "瑞士再保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞士再保险股份有限公司",
+    "Swiss Reinsurance Company Ltd"
+   ]
+  },
+  {
+   "group": "国投证券资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "国投证券资产管理（香港）有限公司",
+    "SDIC Securities Asset Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "CI投资管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "CI投资管理公司",
+    "CI Investments Inc."
+   ]
+  },
+  {
+   "group": "元大证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "元大证券株式会社",
+    "Yuanta Securities Korea Co., Ltd."
+   ]
+  },
+  {
+   "group": "大信证券（株）",
+   "category": "其他QFII",
+   "aliases": [
+    "大信证券（株）",
+    "Daishin Securities Co., Ltd"
+   ]
+  },
+  {
+   "group": "UBI资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "UBI资产管理公司",
+    "Union Bancaire Gestion Institutionnelle (France) SAS"
+   ]
+  },
+  {
+   "group": "韩国投资证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "韩国投资证券株式会社",
+    "Korea Investment & Securities Co., Ltd."
+   ]
+  },
+  {
+   "group": "IBK投资证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "IBK投资证券株式会社",
+    "IBK Securities Co., Ltd."
+   ]
+  },
+  {
+   "group": "三星火灾海上保险公司",
+   "category": "其他QFII",
+   "aliases": [
+    "三星火灾海上保险公司",
+    "Samsung Fire & Marine Insurance Co., Ltd."
+   ]
+  },
+  {
+   "group": "忠诚保险有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "忠诚保险有限公司",
+    "Fidelidade-Companhia de Seguros, S.A."
+   ]
+  },
+  {
+   "group": "Kiwoom投资资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Kiwoom投资资产管理有限公司",
+    "Kiwoom Asset Management Co., Ltd"
+   ]
+  },
+  {
+   "group": "现代投资公司（株）",
+   "category": "其他QFII",
+   "aliases": [
+    "现代投资公司（株）",
+    "Hyundai Investments Co., Ltd"
+   ]
+  },
+  {
+   "group": "挚信投资顾问（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "挚信投资顾问（香港）有限公司",
+    "TBP Investment Advisory (HK) Limited"
+   ]
+  },
+  {
+   "group": "中国工商银行（欧洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国工商银行（欧洲）有限公司",
+    "Industrial and Commercial Bank of China (Europe) S.A."
+   ]
+  },
+  {
+   "group": "瀚亚证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瀚亚证券投资信托股份有限公司",
+    "Eastspring Securities Investment Trust Co. Ltd."
+   ]
+  },
+  {
+   "group": "中国银行（欧洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国银行（欧洲）有限公司",
+    "Bank of China (Europe) S.A."
+   ]
+  },
+  {
+   "group": "柏瑞证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "柏瑞证券投资信托股份有限公司",
+    "PineBridge Investments Management Taiwan Limited"
+   ]
+  },
+  {
+   "group": "保宁资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "保宁资本有限公司",
+    "Polunin Capital Partners Limited"
+   ]
+  },
+  {
+   "group": "法国工商信贷银行有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "法国工商信贷银行有限公司",
+    "Credit Industriel et Commercial S.A."
+   ]
+  },
+  {
+   "group": "忠利投资卢森堡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "忠利投资卢森堡有限公司",
+    "Generali Investments Luxembourg S.A."
+   ]
+  },
+  {
+   "group": "OCTO资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "OCTO资产管理公司",
+    "OCTO Asset Management"
+   ]
+  },
+  {
+   "group": "Avanda投资管理私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Avanda投资管理私人有限公司",
+    "Avanda Investment Management Pte. Ltd."
+   ]
+  },
+  {
+   "group": "瀚亚投资（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瀚亚投资（新加坡）有限公司",
+    "Eastspring Investments (Singapore) Limited"
+   ]
+  },
+  {
+   "group": "广发金融交易（英国）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "广发金融交易（英国）有限公司",
+    "GF Financial Markets (UK) Limited"
+   ]
+  },
+  {
+   "group": "安盛投资管理有限公司（巴黎）",
+   "category": "其他QFII",
+   "aliases": [
+    "安盛投资管理有限公司（巴黎）",
+    "AXA Investment Managers Paris"
+   ]
+  },
+  {
+   "group": "辉立资金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "辉立资金管理有限公司",
+    "Phillip Capital Management (S) Ltd"
+   ]
+  },
+  {
+   "group": "第一商业银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "第一商业银行股份有限公司",
+    "First Commercial Bank, Ltd."
+   ]
+  },
+  {
+   "group": "迈达思基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "迈达思基金管理有限公司",
+    "Midas International Asset Management Ltd."
+   ]
+  },
+  {
+   "group": "爱德蒙得洛希尔资产管理（法国）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "爱德蒙得洛希尔资产管理（法国）有限公司",
+    "Edmond de Rothschild Asset Management (France)"
+   ]
+  },
+  {
+   "group": "有进投资证券公司",
+   "category": "其他QFII",
+   "aliases": [
+    "有进投资证券公司",
+    "Eugene Investment  & Securities Co., Ltd."
+   ]
+  },
+  {
+   "group": "株式会社新韩银行",
+   "category": "其他QFII",
+   "aliases": [
+    "株式会社新韩银行",
+    "Shinhan Bank Co., Ltd."
+   ]
+  },
+  {
+   "group": "开泰基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "开泰基金管理有限公司",
+    "Kasikorn Asset Management Co., Ltd"
+   ]
+  },
+  {
+   "group": "中邮创业国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中邮创业国际资产管理有限公司",
+    "China Post & Capital Global Asset Management Limited"
+   ]
+  },
+  {
+   "group": "罗素投资管理（澳大利亚）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "罗素投资管理（澳大利亚）有限公司",
+    "Russell Investment Management Limited"
+   ]
+  },
+  {
+   "group": "Lemanik资产管理股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Lemanik资产管理股份有限公司",
+    "Lemanik Asset Management S.A."
+   ]
+  },
+  {
+   "group": "招银国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "招银国际资产管理有限公司",
+    "CMB International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "北银国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "北银国际资产管理有限公司",
+    "BOB International Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "信安资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "信安资产管理有限公司",
+    "Principal Asset Management Berhad"
+   ]
+  },
+  {
+   "group": "Aware养老金私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Aware养老金私人有限公司",
+    "Aware Super Pty Ltd"
+   ]
+  },
+  {
+   "group": "范达投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "范达投资有限公司",
+    "VanEck Investments Limited"
+   ]
+  },
+  {
+   "group": "兴证国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "兴证国际资产管理有限公司",
+    "China Industrial Securities International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "Acadian资产管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Acadian资产管理有限责任公司",
+    "Acadian Asset Management LLC"
+   ]
+  },
+  {
+   "group": "山证国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "山证国际资产管理有限公司",
+    "Shanxi Securities International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "新加坡联盟投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新加坡联盟投资管理有限公司",
+    "Singapore Consortium Investment Management Limited"
+   ]
+  },
+  {
+   "group": "WisdomTree资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "WisdomTree资产管理公司",
+    "WisdomTree Asset Management, Inc."
+   ]
+  },
+  {
+   "group": "荷兰汇盈资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "荷兰汇盈资产管理公司",
+    "APG Asset Management N.V."
+   ]
+  },
+  {
+   "group": "海克利尔国际投资有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "海克利尔国际投资有限责任公司",
+    "Highclere International Investors LLP"
+   ]
+  },
+  {
+   "group": "美国桥水投资公司",
+   "category": "其他QFII",
+   "aliases": [
+    "美国桥水投资公司",
+    "Bridgewater Associates, LP"
+   ]
+  },
+  {
+   "group": "富善国际资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富善国际资产管理（香港）有限公司",
+    "Foresee Global Asset Management (HK) Limited"
+   ]
+  },
+  {
+   "group": "WisdomTree管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "WisdomTree管理有限公司",
+    "WisdomTree Management limited"
+   ]
+  },
+  {
+   "group": "中泰国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中泰国际资产管理有限公司",
+    "Zhongtai International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "耀之国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "耀之国际资产管理有限公司",
+    "Yaozhi Asset Management International Co.,Limited"
+   ]
+  },
+  {
+   "group": "中国人保香港资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国人保香港资产管理有限公司",
+    "PICC Asset Management (Hong Kong) Company Limited"
+   ]
+  },
+  {
+   "group": "世通资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "世通资产管理有限公司",
+    "Market Access Asset Management Limited"
+   ]
+  },
+  {
+   "group": "瑞士嘉盛银行有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞士嘉盛银行有限公司",
+    "Bank J.Safra Sarasin Ltd"
+   ]
+  },
+  {
+   "group": "东吴新加坡资产管理（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东吴新加坡资产管理（亚洲）有限公司",
+    "Soochow Singapore Asset Management (Asia) Pte. Ltd"
+   ]
+  },
+  {
+   "group": "盘谷资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "盘谷资产管理有限公司",
+    "BBL Asset Management Co.,LTD"
+   ]
+  },
+  {
+   "group": "柏瑞投资爱尔兰有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "柏瑞投资爱尔兰有限公司",
+    "PineBridge Investments Ireland Limited"
+   ]
+  },
+  {
+   "group": "思达资本（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "思达资本（香港）有限公司",
+    "Zeta Capital (H.K.) Limited"
+   ]
+  },
+  {
+   "group": "国际货币基金组织",
+   "category": "其他QFII",
+   "aliases": [
+    "国际货币基金组织",
+    "International Monetary Fund"
+   ]
+  },
+  {
+   "group": "乐瑞资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "乐瑞资产管理（香港）有限公司",
+    "Lakefront Asset Management (HK) Co., Limited"
+   ]
+  },
+  {
+   "group": "时和资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "时和资产管理有限公司",
+    "Right Time Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "新分享资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新分享资产管理有限公司",
+    "Weshare Asset Management Limited"
+   ]
+  },
+  {
+   "group": "国际金融公司",
+   "category": "其他QFII",
+   "aliases": [
+    "国际金融公司",
+    "International Finance Corporation"
+   ]
+  },
+  {
+   "group": "泰京资产管理股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "泰京资产管理股份有限公司",
+    "Krung Thai Asset Management Public Company Limited"
+   ]
+  },
+  {
+   "group": "远信资本投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "远信资本投资管理有限公司",
+    "Vision Capital Investment Management Limited"
+   ]
+  },
+  {
+   "group": "方正资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "方正资产管理（香港）有限公司",
+    "Founder Asset Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "新永安国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新永安国际资产管理有限公司",
+    "Xin Yongan International Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "马歇尔·伟世有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "马歇尔·伟世有限责任公司",
+    "Marshall Wace LLP"
+   ]
+  },
+  {
+   "group": "熵一资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "熵一资产管理有限公司",
+    "Entropy Asset Management Limited"
+   ]
+  },
+  {
+   "group": "思佰益资产管理株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "思佰益资产管理株式会社",
+    "SBI Asset Management Co., Ltd"
+   ]
+  },
+  {
+   "group": "同方证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "同方证券有限公司",
+    "Tongfang Securities Limited"
+   ]
+  },
+  {
+   "group": "范德堡大学",
+   "category": "其他QFII",
+   "aliases": [
+    "范德堡大学",
+    "The Vanderbilt University"
+   ]
+  },
+  {
+   "group": "高都管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "高都管理有限责任公司",
+    "Coatue Management, L.L.C."
+   ]
+  },
+  {
+   "group": "复星国际证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "复星国际证券有限公司",
+    "Fosun International Securities Limited"
+   ]
+  },
+  {
+   "group": "喜马拉雅资本管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "喜马拉雅资本管理公司",
+    "Himalaya Capital Management LLC."
+   ]
+  },
+  {
+   "group": "易亚阿尔法投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "易亚阿尔法投资管理有限公司",
+    "EIP Alpha Limited"
+   ]
+  },
+  {
+   "group": "绿洲管理（香港）",
+   "category": "其他QFII",
+   "aliases": [
+    "绿洲管理（香港）",
+    "Oasis Management（Hong Kong）"
+   ]
+  },
+  {
+   "group": "金涌资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金涌资本管理有限公司",
+    "Goldstream Capital Management Limited"
+   ]
+  },
+  {
+   "group": "Join Asset国际资产运用株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "Join Asset国际资产运用株式会社",
+    "Join Asset Global Asset Management. Co. Ltd."
+   ]
+  },
+  {
+   "group": "华德国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华德国际资产管理有限公司",
+    "Wonderland International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "WT资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "WT资产管理有限公司",
+    "WT Asset Management Limited"
+   ]
+  },
+  {
+   "group": "Baillie Gifford Overseas Limited",
+   "category": "其他QFII",
+   "aliases": [
+    "Baillie Gifford Overseas Limited",
+    "Baillie Gifford Overseas Limited"
+   ]
+  },
+  {
+   "group": "亚升资本私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亚升资本私人有限公司",
+    "Astignes Capital Asia Pte. Ltd."
+   ]
+  },
+  {
+   "group": "C.M. 资本顾问公司",
+   "category": "其他QFII",
+   "aliases": [
+    "C.M. 资本顾问公司",
+    "C.M. Capital Advisors, LLC."
+   ]
+  },
+  {
+   "group": "建行证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "建行证券有限公司",
+    "CCB Securities Limited"
+   ]
+  },
+  {
+   "group": "简街香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "简街香港有限公司",
+    "Jane Street Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "九天管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "九天管理（香港）有限公司",
+    "Empyrean Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "浦银国际投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "浦银国际投资管理有限公司",
+    "SPDB International Investment Management Limited"
+   ]
+  },
+  {
+   "group": "AHL有限责任合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "AHL有限责任合伙",
+    "AHL Partners LLP"
+   ]
+  },
+  {
+   "group": "格盛投资管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "格盛投资管理有限责任公司",
+    "Gresham Investment Management LLC"
+   ]
+  },
+  {
+   "group": "晋达北美公司",
+   "category": "其他QFII",
+   "aliases": [
+    "晋达北美公司",
+    "Ninety One North America,Inc."
+   ]
+  },
+  {
+   "group": "弘业国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "弘业国际资产管理有限公司",
+    "Holly International Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "立方科研资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "立方科研资产管理有限公司",
+    "Qube Research and Technologies Limited"
+   ]
+  },
+  {
+   "group": "析理资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "析理资本有限公司",
+    "L&R Capital Limited"
+   ]
+  },
+  {
+   "group": "琅润资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "琅润资本管理有限公司",
+    "Laurion Capital Management LP."
+   ]
+  },
+  {
+   "group": "元盛资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "元盛资产管理有限公司",
+    "Winton Capital Management Limited"
+   ]
+  },
+  {
+   "group": "HardingLoevner有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "HardingLoevner有限合伙",
+    "Harding Loevner LP"
+   ]
+  },
+  {
+   "group": "瑞达国际资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞达国际资产管理（香港）有限公司",
+    "Rui Da International Asset Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "昊青咨询管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "昊青咨询管理有限公司",
+    "Hao Advisors Management Limited"
+   ]
+  },
+  {
+   "group": "LAV环球管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "LAV环球管理有限公司",
+    "LAV Global Management Company Limited"
+   ]
+  },
+  {
+   "group": "三星风险投资株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "三星风险投资株式会社",
+    "Samsung Venture Investment Corporation"
+   ]
+  },
+  {
+   "group": "澳帝桦澳大利亚有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "澳帝桦澳大利亚有限公司",
+    "Optiver Australia Pty Limited"
+   ]
+  },
+  {
+   "group": "立鼎证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "立鼎证券有限公司",
+    "Leading Securities Company Limited"
+   ]
+  },
+  {
+   "group": "开域资本（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "开域资本（新加坡）有限公司",
+    "Neo-Criterion Capital Singapore Pte Ltd"
+   ]
+  },
+  {
+   "group": "博裕资本投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博裕资本投资管理有限公司",
+    "Boyu Capital Investment Management Co., Limited"
+   ]
+  },
+  {
+   "group": "ArtisanPartners有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "ArtisanPartners有限合伙",
+    "Artisan Partners Limited Partnership"
+   ]
+  },
+  {
+   "group": "西北投资管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "西北投资管理（香港）有限公司",
+    "Northwest Investment Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "璞林资本（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "璞林资本（香港）有限公司",
+    "Valliance Asset Management Limited"
+   ]
+  },
+  {
+   "group": "布洛德峰投资顾问有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "布洛德峰投资顾问有限公司",
+    "Broad Peak Investment Advisers Pte Ltd"
+   ]
+  },
+  {
+   "group": "金信期盈证券（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金信期盈证券（香港）有限公司",
+    "JQ Securities (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "联威投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "联威投资有限公司",
+    "United Gain Investment Limited"
+   ]
+  },
+  {
+   "group": "瑞士经纬投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞士经纬投资有限公司",
+    "Longitude Asia Limited"
+   ]
+  },
+  {
+   "group": "嘉谟证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "嘉谟证券有限公司",
+    "Gamma Securities Limited"
+   ]
+  },
+  {
+   "group": "瑞明资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞明资本有限公司",
+    "Solomon Capital Management Limited"
+   ]
+  },
+  {
+   "group": "利臻投资顾问有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "利臻投资顾问有限公司",
+    "Legend Arb Advisors Limited"
+   ]
+  },
+  {
+   "group": "未来资产证券（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "未来资产证券（香港）有限公司",
+    "Mirae Asset Securities (HK) Limited"
+   ]
+  },
+  {
+   "group": "中国银行（新西兰）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国银行（新西兰）有限公司",
+    "Bank of China (New Zealand) Limited"
+   ]
+  },
+  {
+   "group": "民银资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "民银资产管理有限公司",
+    "CMBC Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "美国华平有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "美国华平有限公司",
+    "Warburg Pincus LLC"
+   ]
+  },
+  {
+   "group": "维世资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "维世资产管理（香港）有限公司",
+    "VS Partners (Hong Kong) Co., Limited"
+   ]
+  },
+  {
+   "group": "巨柏资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "巨柏资产管理（香港）有限公司",
+    "Greatpage Capital Company Limited"
+   ]
+  },
+  {
+   "group": "雅典娜私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "雅典娜私人有限公司",
+    "Athenaeum Private Limited"
+   ]
+  },
+  {
+   "group": "建信资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "建信资产管理（香港）有限公司",
+    "CCB Principal Asset Management(Hong Kong)Co.Limited"
+   ]
+  },
+  {
+   "group": "德弘美元基金管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "德弘美元基金管理公司",
+    "DCP Management, Ltd."
+   ]
+  },
+  {
+   "group": "彬元资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "彬元资本有限公司",
+    "Bin Yuan Capital Limited"
+   ]
+  },
+  {
+   "group": "凯雷毛里求斯CIS投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯雷毛里求斯CIS投资管理有限公司",
+    "Carlyle Mauritius CIS Investment Management Limited"
+   ]
+  },
+  {
+   "group": "BFAM合伙（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "BFAM合伙（香港）有限公司",
+    "BFAM Partners (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "幻方资本管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "幻方资本管理（香港）有限公司",
+    "High-Flyer Capital Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "红杉中国投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "红杉中国投资管理有限公司",
+    "HongShan Capital Advisors Limited"
+   ]
+  },
+  {
+   "group": "山河资本管理香港咨询有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "山河资本管理香港咨询有限公司",
+    "MY.Alpha Management HK Advisors Limited"
+   ]
+  },
+  {
+   "group": "Systematica投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Systematica投资有限公司",
+    "Systematica Investments Limited"
+   ]
+  },
+  {
+   "group": "太盟亚洲资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "太盟亚洲资本有限公司",
+    "PAG Asia Capital Limited"
+   ]
+  },
+  {
+   "group": "华乐资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华乐资本有限公司",
+    "Kadensa Capital Limited"
+   ]
+  },
+  {
+   "group": "淘金者证券（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "淘金者证券（香港）有限公司",
+    "Trade Master Securities (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "美国金瑞基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "美国金瑞基金管理有限公司",
+    "Krane Funds Advisors, LLC"
+   ]
+  },
+  {
+   "group": "隆奥资产管理（欧洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "隆奥资产管理（欧洲）有限公司",
+    "Lombard Odier Asset Management (Europe) Limited"
+   ]
+  },
+  {
+   "group": "双商基金管理(新加坡)私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "双商基金管理(新加坡)私人有限公司",
+    "IQ EQ Fund Management (Singapore) Private Limited"
+   ]
+  },
+  {
+   "group": "裕丰资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "裕丰资产管理有限公司",
+    "Nexus Investment Advisors Limited"
+   ]
+  },
+  {
+   "group": "布拉德斯科银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "布拉德斯科银行股份有限公司",
+    "Banco Bradesco S/A."
+   ]
+  },
+  {
+   "group": "光银国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "光银国际资产管理有限公司",
+    "CEB International Asset Management Corporation Limited"
+   ]
+  },
+  {
+   "group": "香港资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "香港资产管理有限公司",
+    "Hong Kong Asset Management Limited"
+   ]
+  },
+  {
+   "group": "富德资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富德资产管理（香港）有限公司",
+    "Funde Asset Management (Hong Kong) Company Limited"
+   ]
+  },
+  {
+   "group": "保德信投资管理定量解决方案有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "保德信投资管理定量解决方案有限责任公司",
+    "PGIM Quantitative Solution LLC"
+   ]
+  },
+  {
+   "group": "永安国富资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "永安国富资产管理（香港）有限公司",
+    "Yongan Guofu Asset Management (Hong Kong) Company limited"
+   ]
+  },
+  {
+   "group": "泓策投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "泓策投资管理有限公司",
+    "Ortus Capital Management Limited"
+   ]
+  },
+  {
+   "group": "海纳亚太有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "海纳亚太有限公司",
+    "SUSQUEHANNA PACIFIC PTY LTD"
+   ]
+  },
+  {
+   "group": "新光证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新光证券投资信托股份有限公司",
+    "Shin Kong Investment Trust Co., Ltd."
+   ]
+  },
+  {
+   "group": "HRTC有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "HRTC有限公司",
+    "HRTC Limited"
+   ]
+  },
+  {
+   "group": "瀚诺有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瀚诺有限公司",
+    "Henderson Rowe Limited"
+   ]
+  },
+  {
+   "group": "才华资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "才华资本管理有限公司",
+    "Brilliance Asset Management Limited"
+   ]
+  },
+  {
+   "group": "德骥资本管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "德骥资本管理公司",
+    "Davidson Kempner Capital Management LP"
+   ]
+  },
+  {
+   "group": "泰仁资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "泰仁资本有限公司",
+    "Tairen Capital Limited"
+   ]
+  },
+  {
+   "group": "锐联资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "锐联资产管理有限公司",
+    "Rayliant Asset Management Limited"
+   ]
+  },
+  {
+   "group": "千禧新加坡资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "千禧新加坡资产管理有限公司",
+    "Millennium Capital Management (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "建峖实业投资",
+   "category": "其他QFII",
+   "aliases": [
+    "建峖实业投资",
+    "Janchor Partners Limited"
+   ]
+  },
+  {
+   "group": "皮尔亨特公司",
+   "category": "其他QFII",
+   "aliases": [
+    "皮尔亨特公司",
+    "PEEL HUNT LLP"
+   ]
+  },
+  {
+   "group": "阶乘管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "阶乘管理有限公司",
+    "Factorial Management Limited"
+   ]
+  },
+  {
+   "group": "金锝资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金锝资产管理（香港）有限公司",
+    "Jinde Asset Management (Hong Kong) Ltd"
+   ]
+  },
+  {
+   "group": "长龙投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "长龙投资管理有限公司",
+    "LIM Advisors Limited"
+   ]
+  },
+  {
+   "group": "睿亚资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "睿亚资产管理有限公司",
+    "Premia Partners Company Limited"
+   ]
+  },
+  {
+   "group": "Oberweis资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Oberweis资产管理公司",
+    "Oberweis Asset Management, Inc."
+   ]
+  },
+  {
+   "group": "中泰国际资产管理（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中泰国际资产管理（新加坡）有限公司",
+    "Zhongtai International Asset Management (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "长廊资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "长廊资产管理有限公司",
+    "Long Corridor Asset Management Limited"
+   ]
+  },
+  {
+   "group": "凯华投资香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯华投资香港有限公司",
+    "Fiera Capital (Asia) Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "胜利证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "胜利证券有限公司",
+    "Victory Securities Company Limited"
+   ]
+  },
+  {
+   "group": "AROHI 资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "AROHI 资产管理有限公司",
+    "AROHI ASSET MANAGEMENT PTE LTD"
+   ]
+  },
+  {
+   "group": "晨曦投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "晨曦投资管理有限公司",
+    "Anatole Investment Management Limited"
+   ]
+  },
+  {
+   "group": "时富资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "时富资产管理有限公司",
+    "CASH ASSET MANAGEMENT LIMITED"
+   ]
+  },
+  {
+   "group": "方瀛研究与投资（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "方瀛研究与投资（香港）有限公司",
+    "FountainCap Research & Investment (Hong Kong) Co., Limited"
+   ]
+  },
+  {
+   "group": "云栖资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "云栖资本有限公司",
+    "Yunqi Capital Limited"
+   ]
+  },
+  {
+   "group": "中环资产投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中环资产投资有限公司",
+    "Central Asset Investments and Management Holdings (HK) Limited"
+   ]
+  },
+  {
+   "group": "永丰金证券股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "永丰金证券股份有限公司",
+    "SinoPac Securities Corporation"
+   ]
+  },
+  {
+   "group": "腾新投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "腾新投资有限公司",
+    "Jump Trading Pacific Pte Ltd"
+   ]
+  },
+  {
+   "group": "衍盛中国（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "衍盛中国（香港）有限公司",
+    "Derivatives China (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "Baillie Gifford & Co",
+   "category": "其他QFII",
+   "aliases": [
+    "Baillie Gifford & Co",
+    "Baillie Gifford & Co"
+   ]
+  },
+  {
+   "group": "鸿昇证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "鸿昇证券有限公司",
+    "Hung Sing Securities Limited"
+   ]
+  },
+  {
+   "group": "黑石另类投资方案有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "黑石另类投资方案有限责任公司",
+    "Blackstone Alternative Solutions L.L.C."
+   ]
+  },
+  {
+   "group": "DNCA金融",
+   "category": "其他QFII",
+   "aliases": [
+    "DNCA金融",
+    "DNCA FINANCE"
+   ]
+  },
+  {
+   "group": "华富建业资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华富建业资产管理有限公司",
+    "Quam Asset Management Limited"
+   ]
+  },
+  {
+   "group": "Eclipse 期货（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Eclipse 期货（香港）有限公司",
+    "Eclipse Futures (HK) Limited"
+   ]
+  },
+  {
+   "group": "上信（香港）控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "上信（香港）控股有限公司",
+    "SITCOAM (HONG KONG) HOLDINGS LIMITED"
+   ]
+  },
+  {
+   "group": "BPC有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "BPC有限公司",
+    "Blue Pool Capital Limited"
+   ]
+  },
+  {
+   "group": "GLP普洛斯资本投资4号香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "GLP普洛斯资本投资4号香港有限公司",
+    "GLP Capital Investment 4 (HK) Limited"
+   ]
+  },
+  {
+   "group": "尚川实业有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "尚川实业有限公司",
+    "ROY ENTERPRISES LIMITED"
+   ]
+  },
+  {
+   "group": "东英投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东英投资管理有限公司",
+    "OP Investment Management Limited"
+   ]
+  },
+  {
+   "group": "保银资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "保银资产管理有限公司",
+    "Pinpoint Asset Management Limited"
+   ]
+  },
+  {
+   "group": "WCM投资管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "WCM投资管理有限责任公司",
+    "WCM Investment Management, LLC"
+   ]
+  },
+  {
+   "group": "迈凯希金融公司",
+   "category": "其他QFII",
+   "aliases": [
+    "迈凯希金融公司",
+    "Mackenzie Financial Corporation"
+   ]
+  },
+  {
+   "group": "安联环球投资亚太有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安联环球投资亚太有限公司",
+    "Allianz Global Investors Asia Pacific Limited"
+   ]
+  },
+  {
+   "group": "Al Mehwar商业投资有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Al Mehwar商业投资有限责任公司",
+    "Al Mehwar Commercial Investments L.L.C."
+   ]
+  },
+  {
+   "group": "元库证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "元库证券有限公司",
+    "SILVERBRICKS SECURITIES COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "Quaero资本有限责任合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "Quaero资本有限责任合伙",
+    "Quaero Capital LLP"
+   ]
+  },
+  {
+   "group": "De Tiger资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "De Tiger资本有限公司",
+    "De Tiger Capital Limited"
+   ]
+  },
+  {
+   "group": "大岩资本香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "大岩资本香港有限公司",
+    "Jasper Capital Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "磊亚投资顾问有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "磊亚投资顾问有限公司",
+    "Pleiad Investment Advisors Limited"
+   ]
+  },
+  {
+   "group": "DTL量化投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "DTL量化投资管理有限公司",
+    "Dynamic Technology Lab Private Limited"
+   ]
+  },
+  {
+   "group": "佰利资产管理有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "佰利资产管理有限合伙",
+    "Balyasny Asset Management L.P."
+   ]
+  },
+  {
+   "group": "源峰基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "源峰基金管理有限公司",
+    "China Pinnacle Equity Management Limited"
+   ]
+  },
+  {
+   "group": "清池资本（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "清池资本（香港）有限公司",
+    "Lake Bleu Capital (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "鼎亚资本（新加坡）私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "鼎亚资本（新加坡）私人有限公司",
+    "Dymon Asia Capital (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "涛合研究资本新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "涛合研究资本新加坡有限公司",
+    "TOWER RESEARCH CAPITAL (SINGAPORE) PTE. LTD."
+   ]
+  },
+  {
+   "group": "天元资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "天元资本有限公司",
+    "Nine Masts Capital Limited"
+   ]
+  },
+  {
+   "group": "KENSHO控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "KENSHO控股有限公司",
+    "KENSHO HOLDINGS, LLLP"
+   ]
+  },
+  {
+   "group": "邮政银行资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "邮政银行资产管理公司",
+    "La Banque Postale Asset Management"
+   ]
+  },
+  {
+   "group": "凯基国际（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯基国际（香港）有限公司",
+    "KGI INTERNATIONAL (HONG KONG) LIMITED"
+   ]
+  },
+  {
+   "group": "赛格资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "赛格资产管理有限公司",
+    "Sygnia Asset Management (Proprietary) Limited"
+   ]
+  },
+  {
+   "group": "社会保险总局",
+   "category": "其他QFII",
+   "aliases": [
+    "社会保险总局",
+    "GENERAL ORGANIZATION FOR SOCIAL INSURANCE"
+   ]
+  },
+  {
+   "group": "淡明资本私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "淡明资本私人有限公司",
+    "True Light Capital Pte. Ltd."
+   ]
+  },
+  {
+   "group": "Timefolio资产管理新加坡私人投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Timefolio资产管理新加坡私人投资有限公司",
+    "Timefolio Asset Management Singapore Pte Ltd"
+   ]
+  },
+  {
+   "group": "启行资本管理新加坡私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "启行资本管理新加坡私人有限公司",
+    "ExodusPoint Capital Management Singapore, Pte. Ltd."
+   ]
+  },
+  {
+   "group": "贝恩资本（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "贝恩资本（新加坡）有限公司",
+    "Bain Capital (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "无极资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "无极资本管理有限公司",
+    "Infini Capital Management Limited"
+   ]
+  },
+  {
+   "group": "立格资本投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "立格资本投资有限公司",
+    "LyGH Capital Pte Ltd"
+   ]
+  },
+  {
+   "group": "腾跃基金",
+   "category": "其他QFII",
+   "aliases": [
+    "腾跃基金",
+    "Teng Yue Partners, LP"
+   ]
+  },
+  {
+   "group": "海德资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "海德资产管理有限公司",
+    "Ocean Arete Limited"
+   ]
+  },
+  {
+   "group": "中达资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中达资产管理有限公司",
+    "Central Wealth Asset Management Limited"
+   ]
+  },
+  {
+   "group": "文渊资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "文渊资本管理有限公司",
+    "Library Research Limited"
+   ]
+  },
+  {
+   "group": "LMR Partners有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "LMR Partners有限公司",
+    "LMR Partners Limited"
+   ]
+  },
+  {
+   "group": "贝克兄弟顾问有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "贝克兄弟顾问有限合伙",
+    "Baker Bros. Advisors LP"
+   ]
+  },
+  {
+   "group": "天风国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "天风国际资产管理有限公司",
+    "TFI Asset Management Limited"
+   ]
+  },
+  {
+   "group": "路博迈投资顾问有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "路博迈投资顾问有限责任公司",
+    "Neuberger Berman Investment Advisers LLC"
+   ]
+  },
+  {
+   "group": "法拉龙资本投资有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "法拉龙资本投资有限责任公司",
+    "Farallon Capital Management, L.L.C."
+   ]
+  },
+  {
+   "group": "威廉欧奈尔全球投资顾问公司",
+   "category": "其他QFII",
+   "aliases": [
+    "威廉欧奈尔全球投资顾问公司",
+    "O'NEIL GLOBAL ADVISORS, INC."
+   ]
+  },
+  {
+   "group": "丰晟资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "丰晟资本管理有限公司",
+    "Vendavel Capital GP Limited"
+   ]
+  },
+  {
+   "group": "弘源资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "弘源资本有限公司",
+    "Fountainhead Partners Company Limited"
+   ]
+  },
+  {
+   "group": "国联证券国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "国联证券国际资产管理有限公司",
+    "Guolian Securities International Asset Management Co., Limited"
+   ]
+  },
+  {
+   "group": "元库资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "元库资产管理有限公司",
+    "Silverbricks Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "黑石另类资产管理有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "黑石另类资产管理有限合伙",
+    "Blackstone Alternative Asset Management L.P."
+   ]
+  },
+  {
+   "group": "塔菲石资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "塔菲石资本管理有限公司",
+    "Taaffeite Capital Management, LLC"
+   ]
+  },
+  {
+   "group": "好买香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "好买香港有限公司",
+    "Howbuy Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "华普资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华普资本有限公司",
+    "Hartford Capital Limited"
+   ]
+  },
+  {
+   "group": "第一上海证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "第一上海证券有限公司",
+    "First Shanghai Securities Limited"
+   ]
+  },
+  {
+   "group": "Weiss 资产管理有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "Weiss 资产管理有限合伙",
+    "Weiss Asset Management LP"
+   ]
+  },
+  {
+   "group": "南华资产管理（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "南华资产管理（新加坡）有限公司",
+    "Nanhua Asset Management SG Pte. Ltd."
+   ]
+  },
+  {
+   "group": "信银（香港）资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "信银（香港）资本有限公司",
+    "CNCB (Hong Kong) Capital Limited"
+   ]
+  },
+  {
+   "group": "橡树资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "橡树资本管理有限公司",
+    "Oaktree Capital Management Pte. Ltd."
+   ]
+  },
+  {
+   "group": "六福资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "六福资产管理（香港）有限公司",
+    "LUK FOOK ASSET MANAGEMENT (HK) LIMITED"
+   ]
+  },
+  {
+   "group": "迈德瑞资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "迈德瑞资产管理有限公司",
+    "Metori Capital Management"
+   ]
+  },
+  {
+   "group": "中国信托证券投资信托股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国信托证券投资信托股份有限公司",
+    "CTBC Investments Co., Ltd."
+   ]
+  },
+  {
+   "group": "信安证券投资股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "信安证券投资股份有限公司",
+    "Security Kapitalanlage Aktiengesellschaft"
+   ]
+  },
+  {
+   "group": "中国资本投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国资本投资管理有限公司",
+    "China Assets Investment Management Limited"
+   ]
+  },
+  {
+   "group": "加皇环球资产管理（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "加皇环球资产管理（亚洲）有限公司",
+    "RBC Global Asset Management (Asia) Limited"
+   ]
+  },
+  {
+   "group": "盛富德战略顾问（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "盛富德战略顾问（新加坡）有限公司",
+    "Schonfeld Strategic Advisors (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "亿度资本合伙人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亿度资本合伙人有限公司",
+    "Indus Capital Partners, LLC"
+   ]
+  },
+  {
+   "group": "SPB银行股份公司",
+   "category": "其他QFII",
+   "aliases": [
+    "SPB银行股份公司",
+    "Public Joint Stock Company \"SPB Bank\""
+   ]
+  },
+  {
+   "group": "融石资本有限公司 （新加坡）",
+   "category": "其他QFII",
+   "aliases": [
+    "融石资本有限公司 （新加坡）",
+    "Rockstead Capital Private Limited"
+   ]
+  },
+  {
+   "group": "灯塔投资合伙有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "灯塔投资合伙有限公司",
+    "Lighthouse Investment Partners, LLC"
+   ]
+  },
+  {
+   "group": "瑞橡资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞橡资本管理有限公司",
+    "OAKWISE CAPITAL MANAGEMENT LIMITED"
+   ]
+  },
+  {
+   "group": "首程控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "首程控股有限公司",
+    "Shoucheng Holdings Limited"
+   ]
+  },
+  {
+   "group": "禾瑞添资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "禾瑞添资本管理有限公司",
+    "Heritage Capital Management Pte Ltd"
+   ]
+  },
+  {
+   "group": "Origin资产管理有限责任合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "Origin资产管理有限责任合伙",
+    "Origin Asset Management Limited Liability Partnership"
+   ]
+  },
+  {
+   "group": "瀚嘉资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瀚嘉资产管理有限公司",
+    "First Plus Asset Management Pte. Ltd."
+   ]
+  },
+  {
+   "group": "中国太保投资管理(香港)有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国太保投资管理(香港)有限公司",
+    "CPIC Investment Management (H.K.) Company Limited"
+   ]
+  },
+  {
+   "group": "博领资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博领资产管理有限公司",
+    "Primas Asset Management Limited"
+   ]
+  },
+  {
+   "group": "美国富港银行",
+   "category": "其他QFII",
+   "aliases": [
+    "美国富港银行",
+    "CB INTERNATIONAL BANK LLC"
+   ]
+  },
+  {
+   "group": "胜利资本管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "胜利资本管理公司",
+    "Victory Capital Management Inc."
+   ]
+  },
+  {
+   "group": "瓦萨奇顾问有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "瓦萨奇顾问有限合伙",
+    "Wasatch Advisors LP"
+   ]
+  },
+  {
+   "group": "阿托斯资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "阿托斯资本有限公司",
+    "Athos Capital Limited"
+   ]
+  },
+  {
+   "group": "盛诺金基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "盛诺金基金管理有限公司",
+    "Synergy Fund Management Group Limited"
+   ]
+  },
+  {
+   "group": "璟裕资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "璟裕资本管理有限公司",
+    "Avantua Capital Management Limited"
+   ]
+  },
+  {
+   "group": "澎睿投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "澎睿投资管理有限公司",
+    "Paradice Investment Management LLC"
+   ]
+  },
+  {
+   "group": "福途新加坡私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "福途新加坡私人有限公司",
+    "Virtu Financial Singapore Pte. Ltd."
+   ]
+  },
+  {
+   "group": "博石资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博石资本有限公司",
+    "BESTONE CAPITAL LIMITED"
+   ]
+  },
+  {
+   "group": "盛诺投资有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "盛诺投资有限合伙",
+    "Cerno Capital Partners LLP"
+   ]
+  },
+  {
+   "group": "高腾国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "高腾国际资产管理有限公司",
+    "GaoTeng Global Asset Management Limited"
+   ]
+  },
+  {
+   "group": "Numeric投资者有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Numeric投资者有限责任公司",
+    "Numeric Investors LLC"
+   ]
+  },
+  {
+   "group": "林顿顾问（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "林顿顾问（香港）有限公司",
+    "Linden Advisors (HK) Limited"
+   ]
+  },
+  {
+   "group": "欧力士亚洲资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "欧力士亚洲资本有限公司",
+    "ORIX Asia Capital Limited"
+   ]
+  },
+  {
+   "group": "Investmath有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Investmath有限公司",
+    "Investmath Private Limited"
+   ]
+  },
+  {
+   "group": "BlueCrest资本管理泽西有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "BlueCrest资本管理泽西有限公司",
+    "BlueCrest Capital Management Jersey Limited"
+   ]
+  },
+  {
+   "group": "Connor, Clark & Lunn 投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Connor, Clark & Lunn 投资管理有限公司",
+    "Connor, Clark & Lunn Investment Management Ltd."
+   ]
+  },
+  {
+   "group": "联丰亨保险有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "联丰亨保险有限公司",
+    "LUEN FUNG HANG INSURANCE COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "联丰亨人寿保险股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "联丰亨人寿保险股份有限公司",
+    "LUEN FUNG HANG LIFE LIMITED"
+   ]
+  },
+  {
+   "group": "Alpha Oryx有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "Alpha Oryx有限公司",
+    "Alpha Oryx Limited"
+   ]
+  },
+  {
+   "group": "澳门国际银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "澳门国际银行股份有限公司",
+    "LUSO INTERNATIONAL BANKING LTD."
+   ]
+  },
+  {
+   "group": "志投顾问有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "志投顾问有限公司",
+    "True Partner Advisor Limited."
+   ]
+  },
+  {
+   "group": "自由金融全球有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "自由金融全球有限公司",
+    "Freedom Finance Global PLC"
+   ]
+  },
+  {
+   "group": "富盈交易亚洲有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富盈交易亚洲有限公司",
+    "FLOW TRADERS ASIA PTE. LTD."
+   ]
+  },
+  {
+   "group": "德劭（亚太）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "德劭（亚太）有限公司",
+    "D. E. Shaw & Co. (Asia Pacific) Limited"
+   ]
+  },
+  {
+   "group": "ASL证券股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "ASL证券股份有限公司",
+    "ASL SECURITIES COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "ALT投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "ALT投资管理有限公司",
+    "ALT Investment Management Ltd."
+   ]
+  },
+  {
+   "group": "信庭投资国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "信庭投资国际有限公司",
+    "Cithara Investment International Limited"
+   ]
+  },
+  {
+   "group": "英卓投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "英卓投资管理有限公司",
+    "M&G Investment Management Limited"
+   ]
+  },
+  {
+   "group": "拔萃国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "拔萃国际资产管理有限公司",
+    "BC Global Asset Management Limited"
+   ]
+  },
+  {
+   "group": "橄榄树资本市场有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "橄榄树资本市场有限公司",
+    "OLIVE TREE CAPITAL MARKETS LIMITED"
+   ]
+  },
+  {
+   "group": "百润资本管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "百润资本管理公司",
+    "Baron Capital Management, Inc."
+   ]
+  },
+  {
+   "group": "BAMCO公司",
+   "category": "其他QFII",
+   "aliases": [
+    "BAMCO公司",
+    "BAMCO, Inc."
+   ]
+  },
+  {
+   "group": "焦点视野FZCO",
+   "category": "其他QFII",
+   "aliases": [
+    "焦点视野FZCO",
+    "FOCUS VISION FZCO"
+   ]
+  },
+  {
+   "group": "亚狮资本（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亚狮资本（香港）有限公司",
+    "Asia Lion Capital (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "梅萨投资合伙公司",
+   "category": "其他QFII",
+   "aliases": [
+    "梅萨投资合伙公司",
+    "Mesa Investment Partners, LLC"
+   ]
+  },
+  {
+   "group": "领升基金管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "领升基金管理公司",
+    "COLLINSON FUNDS MANAGEMENT LIMITED"
+   ]
+  },
+  {
+   "group": "圣彼得堡银行",
+   "category": "其他QFII",
+   "aliases": [
+    "圣彼得堡银行",
+    "Bank Saint-Petersburg"
+   ]
+  },
+  {
+   "group": "兴隆国际金业交易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "兴隆国际金业交易有限公司",
+    "MTS GOLD GLOBAL TRADING PTE. LTD."
+   ]
+  },
+  {
+   "group": "约翰街资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "约翰街资本有限公司",
+    "John Street Capital Limited"
+   ]
+  },
+  {
+   "group": "亮点资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亮点资本有限公司",
+    "Bright Point Capital Pte Ltd"
+   ]
+  },
+  {
+   "group": "威灵顿管理香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "威灵顿管理香港有限公司",
+    "Wellington Management Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "复瑞渤商贸新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "复瑞渤商贸新加坡有限公司",
+    "FREEPOINT COMMODITIES SINGAPORE PTE. LTD."
+   ]
+  },
+  {
+   "group": "XTX市场有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "XTX市场有限公司",
+    "XTX Markets Pte Limited"
+   ]
+  },
+  {
+   "group": "古塔资本（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "古塔资本（新加坡）有限公司",
+    "Graviton Research Capital (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "格林兰特投资管理",
+   "category": "其他QFII",
+   "aliases": [
+    "格林兰特投资管理",
+    "Greenland Investment Management"
+   ]
+  },
+  {
+   "group": "宽立资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "宽立资本有限公司",
+    "Aspect Capital Limited"
+   ]
+  },
+  {
+   "group": "部门基金服务股份公司",
+   "category": "其他QFII",
+   "aliases": [
+    "部门基金服务股份公司",
+    "Sector Fund Services AS"
+   ]
+  },
+  {
+   "group": "伊藤忠塑胶私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "伊藤忠塑胶私人有限公司",
+    "ITOCHU PLASTICS PTE. LTD."
+   ]
+  },
+  {
+   "group": "传译趋势私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "传译趋势私人有限公司",
+    "Transtrend B.V."
+   ]
+  },
+  {
+   "group": "联发科技股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "联发科技股份有限公司",
+    "MEDIATEK INC."
+   ]
+  },
+  {
+   "group": "常春藤资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "常春藤资产管理（香港）有限公司",
+    "IvyRock Asset Management (HK) Limited"
+   ]
+  },
+  {
+   "group": "英特佩克理财与投资顾问公司",
+   "category": "其他QFII",
+   "aliases": [
+    "英特佩克理财与投资顾问公司",
+    "Interprac Financial Planning Pty Ltd"
+   ]
+  },
+  {
+   "group": "凯穆私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯穆私人有限公司",
+    "Quadeye Pte Ltd"
+   ]
+  },
+  {
+   "group": "城堡证券中国投资交易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "城堡证券中国投资交易有限公司",
+    "Citadel Securities PRC Trading Limited"
+   ]
+  },
+  {
+   "group": "星河证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "星河证券有限公司",
+    "Star River Securities Limited"
+   ]
+  },
+  {
+   "group": "金銮证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金銮证券有限公司",
+    "Kam Luen Securities Limited"
+   ]
+  },
+  {
+   "group": "四邦实业有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "四邦实业有限公司",
+    "FOUR BUNG INDUSTRIES LIMITED"
+   ]
+  },
+  {
+   "group": "国际标准矢量资产管理",
+   "category": "其他QFII",
+   "aliases": [
+    "国际标准矢量资产管理",
+    "iSAM Vector Management"
+   ]
+  },
+  {
+   "group": "瑞再亚洲直接投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞再亚洲直接投资有限公司",
+    "Swiss Re Principal Investments Company Asia Pte. Ltd."
+   ]
+  },
+  {
+   "group": "英格斯投资资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "英格斯投资资产管理公司",
+    "Ingosstrakh Investments Asset Management"
+   ]
+  },
+  {
+   "group": "弘量研究有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "弘量研究有限公司",
+    "Magnum Research Limited"
+   ]
+  },
+  {
+   "group": "永丰金证券（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "永丰金证券（亚洲）有限公司",
+    "Sinopac Securities (Asia) Limited"
+   ]
+  },
+  {
+   "group": "阿班斯全球有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "阿班斯全球有限公司",
+    "Abans Global Limited"
+   ]
+  },
+  {
+   "group": "东方艾克斯投资有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东方艾克斯投资有限责任公司",
+    "East X LLP"
+   ]
+  },
+  {
+   "group": "托克亚洲贸易私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "托克亚洲贸易私人有限公司",
+    "TRAFIGURA ASIA TRADING PTE. LTD."
+   ]
+  },
+  {
+   "group": "安磐资本（亚洲）私人投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安磐资本（亚洲）私人投资有限公司",
+    "Arisaig Partners (Asia) Pte Ltd"
+   ]
+  },
+  {
+   "group": "西纳拉银行",
+   "category": "其他QFII",
+   "aliases": [
+    "西纳拉银行",
+    "PUBLIC JOINT-STOCK COMPANY BANK SINARA"
+   ]
+  },
+  {
+   "group": "博恩霍华德 (香港) 有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博恩霍华德 (香港) 有限公司",
+    "Brevan Howard (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "塔滃金融有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "塔滃金融有限公司",
+    "TAVIRA FINANCIAL LIMITED"
+   ]
+  },
+  {
+   "group": "博裕资本管理（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博裕资本管理（新加坡）有限公司",
+    "BOYU CAPITAL MANAGEMENT (SINGAPORE) PTE. LTD."
+   ]
+  },
+  {
+   "group": "冠力资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "冠力资产管理有限公司",
+    "Smart Grandly Asset Management Limited"
+   ]
+  },
+  {
+   "group": "道锐威新加坡私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "道锐威新加坡私人有限公司",
+    "DRW Singapore Pte. Ltd."
+   ]
+  },
+  {
+   "group": "矩点资本有限责任合伙企业",
+   "category": "其他QFII",
+   "aliases": [
+    "矩点资本有限责任合伙企业",
+    "Squarepoint Capital LLP"
+   ]
+  },
+  {
+   "group": "全球统计资产管理资本有限责任合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "全球统计资产管理资本有限责任合伙",
+    "GSA Capital Partners LLP"
+   ]
+  },
+  {
+   "group": "钜集资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "钜集资产管理有限公司",
+    "Aggregate Asset Management Pte. Ltd."
+   ]
+  },
+  {
+   "group": "澳帝桦新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "澳帝桦新加坡有限公司",
+    "Optiver Singapore Trading Pte. Ltd."
+   ]
+  },
+  {
+   "group": "资本基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "资本基金管理有限公司",
+    "Capital Fund Management SA (\"CFM\")"
+   ]
+  },
+  {
+   "group": "资本伙伴证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "资本伙伴证券株式会社",
+    "Capital Partners Securities Co., Ltd."
+   ]
+  },
+  {
+   "group": "华态私人有限合伙企业",
+   "category": "其他QFII",
+   "aliases": [
+    "华态私人有限合伙企业",
+    "Flowertech C.V."
+   ]
+  },
+  {
+   "group": "城堡投资亚洲有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "城堡投资亚洲有限公司",
+    "Citadel Asia Limited"
+   ]
+  },
+  {
+   "group": "新加坡瀚朗科技有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新加坡瀚朗科技有限公司",
+    "Headlands Technologies Singapore Pte. Ltd."
+   ]
+  },
+  {
+   "group": "十八里亚洲有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "十八里亚洲有限公司",
+    "Safari Asia Limited"
+   ]
+  },
+  {
+   "group": "凯石通投资顾问（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯石通投资顾问（香港）有限公司",
+    "Capstone Investment Advisors (HK) Limited"
+   ]
+  },
+  {
+   "group": "博行睿致投资管理有限责任合伙公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博行睿致投资管理有限责任合伙公司",
+    "Broad Reach Investment Management LLP"
+   ]
+  },
+  {
+   "group": "致富证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "致富证券有限公司",
+    "Chief Securities Limited"
+   ]
+  },
+  {
+   "group": "逸兴资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "逸兴资本有限公司",
+    "POTUS CAPITAL PTE. LTD."
+   ]
+  },
+  {
+   "group": "博灝香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博灝香港有限公司",
+    "Point72 Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "瑞士恩贝尔商业银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞士恩贝尔商业银行股份有限公司",
+    "MBaer Merchant Bank AG"
+   ]
+  },
+  {
+   "group": "大横琴股份（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "大横琴股份（香港）有限公司",
+    "DA HENG QIN (HONG KONG) COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "白云投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "白云投资有限公司",
+    "Baiyun Investments Pte. Ltd."
+   ]
+  },
+  {
+   "group": "国际货币基金组织投资资金",
+   "category": "其他QFII",
+   "aliases": [
+    "国际货币基金组织投资资金",
+    "International Monetary Fund Investment Fund"
+   ]
+  },
+  {
+   "group": "科氏石油炼制国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "科氏石油炼制国际有限公司",
+    "Koch Refining International Pte Ltd"
+   ]
+  },
+  {
+   "group": "量锋资产管理私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "量锋资产管理私人有限公司",
+    "Quantedge Capital Pte. Ltd."
+   ]
+  },
+  {
+   "group": "卡普拉投资管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "卡普拉投资管理公司",
+    "Capula Investment Management LLP"
+   ]
+  },
+  {
+   "group": "诺伊曼咨询香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "诺伊曼咨询香港有限公司",
+    "Neumann Advisory Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "碧辟新加坡私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "碧辟新加坡私人有限公司",
+    "BP Singapore Pte. Limited"
+   ]
+  },
+  {
+   "group": "易可达金融（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "易可达金融（新加坡）有限公司",
+    "Engelhart CTP Financial (Singapore) Pte. Limited"
+   ]
+  },
+  {
+   "group": "鹏特资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "鹏特资本管理有限公司",
+    "Penco Capital Management Private Limited"
+   ]
+  },
+  {
+   "group": "红杉资本中国公开市场投资基金管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "红杉资本中国公开市场投资基金管理公司",
+    "HCEP Management Limited"
+   ]
+  },
+  {
+   "group": "博大资产管理(香港)有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博大资产管理(香港)有限公司",
+    "Partners Asset Management (HK) Limited"
+   ]
+  },
+  {
+   "group": "指南针亚洲合伙人有限合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "指南针亚洲合伙人有限合伙",
+    "Compass Asia Partners, L.P."
+   ]
+  },
+  {
+   "group": "翌星资本私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "翌星资本私人有限公司",
+    "Essentia Partners Pte. Ltd."
+   ]
+  },
+  {
+   "group": "吉尼斯资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "吉尼斯资产管理有限公司",
+    "Guinness Asset Management Limited"
+   ]
+  },
+  {
+   "group": "德太资本新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "德太资本新加坡有限公司",
+    "TPG CAPITAL (S) PTE. LTD."
+   ]
+  },
+  {
+   "group": "希佰资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "希佰资有限公司",
+    "C-Breeze Pte. Ltd."
+   ]
+  },
+  {
+   "group": "柏瑞投资亚洲有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "柏瑞投资亚洲有限公司",
+    "PineBridge Investments Asia Limited"
+   ]
+  },
+  {
+   "group": "奥地利瑞芬森银行封闭式股份公司",
+   "category": "其他QFII",
+   "aliases": [
+    "奥地利瑞芬森银行封闭式股份公司",
+    "Joint stock company \"Raiffeisenbank\""
+   ]
+  },
+  {
+   "group": "新加坡（热联）钢铁有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新加坡（热联）钢铁有限公司",
+    "SINGAPORE (COGENERATION) STEEL PTE. LTD"
+   ]
+  },
+  {
+   "group": "奥地利瑞芬森资本资产管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "奥地利瑞芬森资本资产管理有限责任公司",
+    "OOO Raiffeisen Capital Asset Management Company"
+   ]
+  },
+  {
+   "group": "大象投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "大象投资管理有限公司",
+    "ELEPHAS INVESTMENT MANAGEMENT LIMITED"
+   ]
+  },
+  {
+   "group": "富乔鑫资产管理（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富乔鑫资产管理（新加坡）有限公司",
+    "JMC Capital Asset Management Singapore Pte. Ltd."
+   ]
+  },
+  {
+   "group": "能敬资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "能敬资本管理有限公司",
+    "Powership Capital Management Limited"
+   ]
+  },
+  {
+   "group": "五矿企荣有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "五矿企荣有限公司",
+    "Minmetals Cheerglory Limited"
+   ]
+  },
+  {
+   "group": "东久新宜（开曼）投资第一控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东久新宜（开曼）投资第一控股有限公司",
+    "DNE (Cayman) Investment I Holdings Limited"
+   ]
+  },
+  {
+   "group": "安润嘉有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安润嘉有限公司",
+    "Arun Plus Co., Ltd."
+   ]
+  },
+  {
+   "group": "招银国际(新加坡)私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "招银国际(新加坡)私人有限公司",
+    "CMBI (Singapore) Pte. Limited"
+   ]
+  },
+  {
+   "group": "赢高银行股份公司",
+   "category": "其他QFII",
+   "aliases": [
+    "赢高银行股份公司",
+    "Joint Stock Company Bank Ingo"
+   ]
+  },
+  {
+   "group": "倍嵘资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "倍嵘资本有限公司",
+    "APEIRON CAPITAL LIMITED"
+   ]
+  },
+  {
+   "group": "复兴证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "复兴证券有限公司",
+    "Renaissance Broker Limited"
+   ]
+  },
+  {
+   "group": "太一资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "太一资本管理有限公司",
+    "One Heritage Capital Management Limited"
+   ]
+  },
+  {
+   "group": "圆牧资本",
+   "category": "其他QFII",
+   "aliases": [
+    "圆牧资本",
+    "Ox Capital Management PTY LTD"
+   ]
+  },
+  {
+   "group": "睿远基金(香港)有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "睿远基金(香港)有限公司",
+    "Foresight Fund (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "浙商国际金融控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "浙商国际金融控股有限公司",
+    "Zheshang International Financial Holdings Co.,Limited"
+   ]
+  },
+  {
+   "group": "前诺投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "前诺投资管理有限公司",
+    "Channel Investment Management Limited"
+   ]
+  },
+  {
+   "group": "凯德商用产业有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯德商用产业有限公司",
+    "CAPITALAND MALL ASIA LIMITED"
+   ]
+  },
+  {
+   "group": "一翎资本私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "一翎资本私人有限公司",
+    "Mainnet Capital Pte.Ltd"
+   ]
+  },
+  {
+   "group": "国家共同基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "国家共同基金管理有限公司",
+    "National Mutual Funds Management Ltd."
+   ]
+  },
+  {
+   "group": "英国养老保障基金委员会",
+   "category": "其他QFII",
+   "aliases": [
+    "英国养老保障基金委员会",
+    "The Board of the Pension Protection Fund"
+   ]
+  },
+  {
+   "group": "金鹰研究资本（以色列）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金鹰研究资本（以色列）有限公司",
+    "Eagle Labs Capital(Israel)Ltd"
+   ]
+  },
+  {
+   "group": "杰拉德金属（瑞士）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "杰拉德金属（瑞士）有限公司",
+    "Gerald Metals Sarl"
+   ]
+  },
+  {
+   "group": "富瑞国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富瑞国际有限公司",
+    "Jefferies International Limited"
+   ]
+  },
+  {
+   "group": "量盈(香港)有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "量盈(香港)有限公司",
+    "Quantsmile (HK) Limited"
+   ]
+  },
+  {
+   "group": "赫区怡合伙人新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "赫区怡合伙人新加坡有限公司",
+    "Hartree Partners Singapore Pte Limited"
+   ]
+  },
+  {
+   "group": "佰利资产管理（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "佰利资产管理（新加坡）有限公司",
+    "Balyasny Asset Management (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "梅沃利衍生品有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "梅沃利衍生品有限公司",
+    "Maverick Derivatives B.V."
+   ]
+  },
+  {
+   "group": "伦敦大学退休金计划",
+   "category": "其他QFII",
+   "aliases": [
+    "伦敦大学退休金计划",
+    "Superannuation Arrangements of the University of London"
+   ]
+  },
+  {
+   "group": "华创永宣可再生能源解决方案有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华创永宣可再生能源解决方案有限公司",
+    "Hcc Renewable Energy Solution Co.,Limited"
+   ]
+  },
+  {
+   "group": "泰克瑟罗斯私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "泰克瑟罗斯私人有限公司",
+    "Tyxeros Trading Pte. Ltd."
+   ]
+  },
+  {
+   "group": "瑞士亚洲金融服务有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞士亚洲金融服务有限公司",
+    "Swiss-Asia Financial Services Pte Ltd"
+   ]
+  },
+  {
+   "group": "金儿商品贸易公司DMCC",
+   "category": "其他QFII",
+   "aliases": [
+    "金儿商品贸易公司DMCC",
+    "ABS COMMODITY TRADING COMPANY DMCC"
+   ]
+  },
+  {
+   "group": "力拓商业私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "力拓商业私人有限公司",
+    "Rio Tinto Commercial Pte. Ltd."
+   ]
+  },
+  {
+   "group": "拓维冶金有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "拓维冶金有限公司",
+    "Caravel Metallurgical Limited"
+   ]
+  },
+  {
+   "group": "圣福斯有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "圣福斯有限公司",
+    "SUNFORTH PTE LTD"
+   ]
+  },
+  {
+   "group": "亮点国际贸易（新加坡）私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亮点国际贸易（新加坡）私人有限公司",
+    "BPI Trading (SG) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "长春证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "长春证券有限公司",
+    "Changchun Securities Limited"
+   ]
+  },
+  {
+   "group": "晖煜资本集团有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "晖煜资本集团有限公司",
+    "Fides Capital Group Limited"
+   ]
+  },
+  {
+   "group": "富强资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富强资产管理有限公司",
+    "Fortune Asset Management Limited"
+   ]
+  },
+  {
+   "group": "旌安资产管理（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "旌安资产管理（香港）有限公司",
+    "Jingan Asset Management (Hong Kong) Company Limited"
+   ]
+  },
+  {
+   "group": "嘉悦国际（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "嘉悦国际（新加坡）有限公司",
+    "JORYA INTERNATIONAL（SINGAPORE）PTE.LTD."
+   ]
+  },
+  {
+   "group": "毅德新加坡资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "毅德新加坡资产管理有限公司",
+    "ICHAM PTE.LTD."
+   ]
+  },
+  {
+   "group": "凯德中国信托管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯德中国信托管理有限公司",
+    "CapitaLand China Trust Management Limited"
+   ]
+  },
+  {
+   "group": "佩尔瓦亚管理公司股份公司",
+   "category": "其他QFII",
+   "aliases": [
+    "佩尔瓦亚管理公司股份公司",
+    "First Asset Management, Joint Stock Company"
+   ]
+  },
+  {
+   "group": "升涛资本投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "升涛资本投资有限公司",
+    "COVE INVESTMENT PTE. LTD."
+   ]
+  },
+  {
+   "group": "杭州热联（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "杭州热联（香港）有限公司",
+    "Hangzhou Cogeneration (Hong Kong) Co., Ltd."
+   ]
+  },
+  {
+   "group": "恒力石化国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "恒力石化国际有限公司",
+    "HENGLI PETROCHEMICAL INTERNATIONAL PTE. LTD."
+   ]
+  },
+  {
+   "group": "康达投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "康达投资有限公司",
+    "CONDA CAPITAL PTE. LTD."
+   ]
+  },
+  {
+   "group": "阿曼投资局",
+   "category": "其他QFII",
+   "aliases": [
+    "阿曼投资局",
+    "OMAN INVESTMENT AUTHORITY"
+   ]
+  },
+  {
+   "group": "阿拉瓦利资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "阿拉瓦利资产管理公司",
+    "Aravali Asset Management Pte. Ltd."
+   ]
+  },
+  {
+   "group": "迪维交易公司（加拿大）",
+   "category": "其他QFII",
+   "aliases": [
+    "迪维交易公司（加拿大）",
+    "DV Trading Canada Inc."
+   ]
+  },
+  {
+   "group": "华安证券（香港）资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华安证券（香港）资产管理有限公司",
+    "Huaan Securities (Hong Kong) Asset Management Limited"
+   ]
+  },
+  {
+   "group": "维多亚太商贸有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "维多亚太商贸有限公司",
+    "VITOL APAC COMMODITIES PTE.LTD."
+   ]
+  },
+  {
+   "group": "德高股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "德高股份有限公司",
+    "Duferco SA"
+   ]
+  },
+  {
+   "group": "雅宝资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "雅宝资产管理有限公司",
+    "Jabal Asset Management LLC"
+   ]
+  },
+  {
+   "group": "安博中国投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "安博中国投资有限公司",
+    "PLD China Investment Company LLC"
+   ]
+  },
+  {
+   "group": "莱茵资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "莱茵资产管理有限公司",
+    "Rhine Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "金马投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金马投资管理有限公司",
+    "Golden Horse Fund Management Pte. Ltd."
+   ]
+  },
+  {
+   "group": "新庚资本私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新庚资本私人有限公司",
+    "GENK CAPITAL PTE. LTD."
+   ]
+  },
+  {
+   "group": "景和资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "景和资本有限公司",
+    "Green Harmony Capital Limited"
+   ]
+  },
+  {
+   "group": "复星资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "复星资产管理有限公司",
+    "Fosun Asset Management Limited"
+   ]
+  },
+  {
+   "group": "东建资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东建资产管理有限公司",
+    "OCI Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "英皇资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "英皇资产管理有限公司",
+    "Emperor Asset Management Limited"
+   ]
+  },
+  {
+   "group": "卡迪安投资（韩国）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "卡迪安投资（韩国）有限公司",
+    "Kardian Asset Management Co.,Ltd."
+   ]
+  },
+  {
+   "group": "全球德尔塔资本有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "全球德尔塔资本有限责任公司",
+    "Global Delta Capital, LLC"
+   ]
+  },
+  {
+   "group": "基数研究有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "基数研究有限公司",
+    "Xidar Research LLC"
+   ]
+  },
+  {
+   "group": "摩科瑞大宗商品市场有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "摩科瑞大宗商品市场有限公司",
+    "Mercuria Commodity Markets SA"
+   ]
+  },
+  {
+   "group": "莱佛麦金属贸易公司DMCC",
+   "category": "其他QFII",
+   "aliases": [
+    "莱佛麦金属贸易公司DMCC",
+    "LEVMET TRADING DMCC"
+   ]
+  },
+  {
+   "group": "兴隆资产有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "兴隆资产有限公司",
+    "MTS Capital Co.,Ltd."
+   ]
+  },
+  {
+   "group": "艾美希亚太有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "艾美希亚太有限公司",
+    "IMC ASIA PACIFIC LIMITED"
+   ]
+  },
+  {
+   "group": "大道基金资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "大道基金资产管理有限公司",
+    "TRUTH ASSETS MANAGEMENT (S) PTE. LTD."
+   ]
+  },
+  {
+   "group": "虎丘独立投资组合有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "虎丘独立投资组合有限公司",
+    "TH SPC Limited"
+   ]
+  },
+  {
+   "group": "信和资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "信和资产管理有限公司",
+    "Sino Financial Asset Management Limited"
+   ]
+  },
+  {
+   "group": "吉萨洛资本管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "吉萨洛资本管理有限责任公司",
+    "Ghisallo Capital Management LLC"
+   ]
+  },
+  {
+   "group": "梅瑞兹证券",
+   "category": "其他QFII",
+   "aliases": [
+    "梅瑞兹证券",
+    "Meritz Securities Co., Ltd."
+   ]
+  },
+  {
+   "group": "伊塔乌资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "伊塔乌资产管理公司",
+    "Itaú Asset Management"
+   ]
+  },
+  {
+   "group": "斯特恩资本私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "斯特恩资本私人有限公司",
+    "STERN CAPITAL PTE. LTD."
+   ]
+  },
+  {
+   "group": "圆通环球资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "圆通环球资产管理有限公司",
+    "Yuan Tong Global Asset Management Limited"
+   ]
+  },
+  {
+   "group": "星光资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "星光资产管理有限公司",
+    "Starlight Asset Management Limited"
+   ]
+  },
+  {
+   "group": "亚丁金融集团有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "亚丁金融集团有限公司",
+    "Aden Financial Group Limited"
+   ]
+  },
+  {
+   "group": "圆通环球证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "圆通环球证券有限公司",
+    "Yuan Tong Global Securities Limited"
+   ]
+  },
+  {
+   "group": "自由资产管理（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "自由资产管理（亚洲）有限公司",
+    "Freedom Asset Management (Asia) Limited"
+   ]
+  },
+  {
+   "group": "瀚嘉(泰国)资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瀚嘉(泰国)资产管理有限公司",
+    "FIRST PLUS ASSET MANAGEMENT (THAILAND) COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "慧衍集团",
+   "category": "其他QFII",
+   "aliases": [
+    "慧衍集团",
+    "SAPIEN GROUP PTY LTD"
+   ]
+  },
+  {
+   "group": "鼎鑫（证券）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "鼎鑫（证券）有限公司",
+    "Dingxin (Securities) Limited"
+   ]
+  },
+  {
+   "group": "洲际资源有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "洲际资源有限公司",
+    "Intercontinental Resources HK Co.,Limited"
+   ]
+  },
+  {
+   "group": "睿势国际资本公司",
+   "category": "其他QFII",
+   "aliases": [
+    "睿势国际资本公司",
+    "Wise Will International Capital Ltd."
+   ]
+  },
+  {
+   "group": "杭实国贸新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "杭实国贸新加坡有限公司",
+    "HONORS COMMODITY SINGAPORE PTE. LTD."
+   ]
+  },
+  {
+   "group": "华赢东方（亚洲）控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华赢东方（亚洲）控股有限公司",
+    "SOLOMON JFZ(ASIA) HOLDINGS LIMITED"
+   ]
+  },
+  {
+   "group": "欧道华丰资产管理简易股份公司",
+   "category": "其他QFII",
+   "aliases": [
+    "欧道华丰资产管理简易股份公司",
+    "ODDO BHF ASSET MANAGEMENT SAS"
+   ]
+  },
+  {
+   "group": "蓝盒证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "蓝盒证券有限公司",
+    "Blue Box Securities Limited"
+   ]
+  },
+  {
+   "group": "磐石资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "磐石资产管理有限公司",
+    "BANDS Capital Management Limited"
+   ]
+  },
+  {
+   "group": "艾克投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "艾克投资管理有限公司",
+    "Aikya Investment Management Limited"
+   ]
+  },
+  {
+   "group": "Kiwoom证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "Kiwoom证券株式会社",
+    "Kiwoom Securities Co. Ltd"
+   ]
+  },
+  {
+   "group": "美泰乐科技集团",
+   "category": "其他QFII",
+   "aliases": [
+    "美泰乐科技集团",
+    "Metalor Technologies SA"
+   ]
+  },
+  {
+   "group": "东方汇财证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东方汇财证券有限公司",
+    "ORIENT SECURITIES LIMITED"
+   ]
+  },
+  {
+   "group": "启叶资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "启叶资产管理有限公司",
+    "TURNING LEAF ASSET MANAGEMENT PTE. LTD."
+   ]
+  },
+  {
+   "group": "旷赫资源有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "旷赫资源有限公司",
+    "CONCORD RESOURCES LIMITED"
+   ]
+  },
+  {
+   "group": "星洲狮威实业有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "星洲狮威实业有限公司",
+    "GALLANTLION RESOURCES PTE. LTD."
+   ]
+  },
+  {
+   "group": "海洋能源有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "海洋能源有限公司",
+    "OCEAN ENERGY PTE. LTD."
+   ]
+  },
+  {
+   "group": "南华金融（英国）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "南华金融（英国）有限公司",
+    "Nanhua Financial (UK) Co Limited"
+   ]
+  },
+  {
+   "group": "嘉利高集团有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "嘉利高集团有限公司",
+    "Czarnikow Group Limited"
+   ]
+  },
+  {
+   "group": "敦和国际基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "敦和国际基金管理有限公司",
+    "DH International Fund Management Limited"
+   ]
+  },
+  {
+   "group": "东证期货国际（新加坡）私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东证期货国际（新加坡）私人有限公司",
+    "Orient Futures International (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "王道商业银行",
+   "category": "其他QFII",
+   "aliases": [
+    "王道商业银行",
+    "O-Bank Co., Ltd."
+   ]
+  },
+  {
+   "group": "旌泰物产有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "旌泰物产有限公司",
+    "Gent Commodity Pte. Ltd."
+   ]
+  },
+  {
+   "group": "海腾金属贸易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "海腾金属贸易有限公司",
+    "HITENT METALS TRADING PTE. LTD."
+   ]
+  },
+  {
+   "group": "川润资源有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "川润资源有限公司",
+    "CRSCM Resource Co., Limited"
+   ]
+  },
+  {
+   "group": "欧亚资产管理私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "欧亚资产管理私人有限公司",
+    "EURO ASIA ASSET MANAGEMENT PTE. LTD."
+   ]
+  },
+  {
+   "group": "香港扬子江资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "香港扬子江资产管理有限公司",
+    "HongKong Yangtze River Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "盈泰国际（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "盈泰国际（新加坡）有限公司",
+    "INTOP INTERNATIONAL (SINGAPORE) PTE. LTD."
+   ]
+  },
+  {
+   "group": "梅德国际贸易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "梅德国际贸易有限公司",
+    "Mayday International Trading Limited"
+   ]
+  },
+  {
+   "group": "荣晖资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "荣晖资本有限公司",
+    "Theme Capital Limited"
+   ]
+  },
+  {
+   "group": "澳门发展银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "澳门发展银行股份有限公司",
+    "Macao Development Bank Limited"
+   ]
+  },
+  {
+   "group": "三广能源（英国）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "三广能源（英国）有限公司",
+    "Tricon Energy UK Limited"
+   ]
+  },
+  {
+   "group": "瑞迪安特世界商品股份公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞迪安特世界商品股份公司",
+    "Radiant World Commodities SA"
+   ]
+  },
+  {
+   "group": "玛克士庞博股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "玛克士庞博股份有限公司",
+    "MKS PAMP SA"
+   ]
+  },
+  {
+   "group": "米拉博资产管理（欧洲）股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "米拉博资产管理（欧洲）股份有限公司",
+    "Mirabaud Asset Management (Europe) S.A."
+   ]
+  },
+  {
+   "group": "雾凇资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "雾凇资本有限公司",
+    "Rime Capital Limited"
+   ]
+  },
+  {
+   "group": "第一资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "第一资产管理有限公司",
+    "One Asset Management Limited"
+   ]
+  },
+  {
+   "group": "鼎值基金管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "鼎值基金管理有限公司",
+    "PRIME VALUE ASSET MANAGEMENT LIMITED"
+   ]
+  },
+  {
+   "group": "路华资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "路华资产管理有限公司",
+    "ROOFER ASSET MANAGEMENT LIMITED"
+   ]
+  },
+  {
+   "group": "杭实国贸香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "杭实国贸香港有限公司",
+    "HONORS COMMODITY HONG KONG COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "中金汇理资产管理（香港）有限公司1",
+   "category": "其他QFII",
+   "aliases": [
+    "中金汇理资产管理（香港）有限公司1",
+    "SINOIF Asset Management Limited"
+   ]
+  },
+  {
+   "group": "阿尔法格雷普英国有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "阿尔法格雷普英国有限公司",
+    "AlphaGrep UK Limited"
+   ]
+  },
+  {
+   "group": "教保证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "教保证券株式会社",
+    "Kyobo Securities Co., Ltd"
+   ]
+  },
+  {
+   "group": "上润通商资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "上润通商资本有限公司",
+    "Liberal Cosmerce Capital Limited"
+   ]
+  },
+  {
+   "group": "东华能源（新加坡）国际贸易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "东华能源（新加坡）国际贸易有限公司",
+    "ORIENTAL ENERGY (SINGAPORE) INTERNATIONAL TRADING PTE LTD"
+   ]
+  },
+  {
+   "group": "香港海亮铜贸易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "香港海亮铜贸易有限公司",
+    "HONG KONG HAILIANG METAL TRADING LIMITED"
+   ]
+  },
+  {
+   "group": "卓汇投资(香港)有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "卓汇投资(香港)有限公司",
+    "EXCEL INVESTMENT (HK) LIMITED"
+   ]
+  },
+  {
+   "group": "香港天逸国际控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "香港天逸国际控股有限公司",
+    "HONGKONG TIANYI INTERNATIONAL HOLDING COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "海亮（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "海亮（新加坡）有限公司",
+    "HAILIANG (SINGAPORE) PTE. LTD."
+   ]
+  },
+  {
+   "group": "华瑞证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华瑞证券有限公司",
+    "Huarui Securities Limited"
+   ]
+  },
+  {
+   "group": "香港德辅投资有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "香港德辅投资有限责任公司",
+    "DES VOEUX PARTNERS LIMITED"
+   ]
+  },
+  {
+   "group": "宝达投资（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "宝达投资（香港）有限公司",
+    "POINTER INVESTMENT (HONG KONG) LIMITED"
+   ]
+  },
+  {
+   "group": "华凯资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华凯资产管理有限公司",
+    "WealthQuay Asset Management Limited"
+   ]
+  },
+  {
+   "group": "迈睿资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "迈睿资产管理有限公司",
+    "Merit Asset Management Limited"
+   ]
+  },
+  {
+   "group": "沙迦资产管理控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "沙迦资产管理控股有限公司",
+    "Sharjah Asset Management (Holding) PER Person Company. LLC."
+   ]
+  },
+  {
+   "group": "诚港金融股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "诚港金融股份有限公司",
+    "CANTON MUTUAL FINANCIAL LIMITED"
+   ]
+  },
+  {
+   "group": "艾威意供应与贸易亚太有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "艾威意供应与贸易亚太有限公司",
+    "RWE Supply & Trading Asia-Pacific Pte. Ltd."
+   ]
+  },
+  {
+   "group": "山东港口国际贸易集团（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "山东港口国际贸易集团（香港）有限公司",
+    "SHANDONG PORT INTERNATIONAL TRADE GROUP (HONG KONG) CO., LIMITED."
+   ]
+  },
+  {
+   "group": "凯华投资英国有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯华投资英国有限公司",
+    "Fiera Capital (UK) Limited"
+   ]
+  },
+  {
+   "group": "出光国际（亚洲）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "出光国际（亚洲）有限公司",
+    "Idemitsu International (Asia) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "华福国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华福国际资产管理有限公司",
+    "Huafu International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "方法量化亚太私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "方法量化亚太私人有限公司",
+    "METHOD QUANT APAC PTE. LTD."
+   ]
+  },
+  {
+   "group": "博满资管有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博满资管有限公司",
+    "BOMAN ASSET MANAGEMENT PTY LTD"
+   ]
+  },
+  {
+   "group": "三菱商事金属贸易（国际）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "三菱商事金属贸易（国际）有限公司",
+    "Mitsubishi Corporation RtM International Pte Ltd"
+   ]
+  },
+  {
+   "group": "富曼拓商贸私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富曼拓商贸私人有限公司",
+    "FOMENTO COMMODITIES PTE. LTD."
+   ]
+  },
+  {
+   "group": "中国银行（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国银行（香港）有限公司",
+    "Bank of China (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "欧力士亚洲资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "欧力士亚洲资产管理有限公司",
+    "ORIX Asia Asset Management Limited"
+   ]
+  },
+  {
+   "group": "爱普森资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "爱普森资本管理有限公司",
+    "IPS Capital Ltd."
+   ]
+  },
+  {
+   "group": "伊斯投资证券股份公司",
+   "category": "其他QFII",
+   "aliases": [
+    "伊斯投资证券股份公司",
+    "IS YATIRIM MENKUL DEGERLER ANONIM SIRKETI"
+   ]
+  },
+  {
+   "group": "申投证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "申投证券有限公司",
+    "Centaur Securities Limited"
+   ]
+  },
+  {
+   "group": "阿联酋国际资源控股公司",
+   "category": "其他QFII",
+   "aliases": [
+    "阿联酋国际资源控股公司",
+    "IRH Global Trading Ltd."
+   ]
+  },
+  {
+   "group": "弗雷姆亚洲资源私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "弗雷姆亚洲资源私人有限公司",
+    "Flame Asia Resources Pte. Ltd."
+   ]
+  },
+  {
+   "group": "云铜香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "云铜香港有限公司",
+    "YUNNAN COPPER H.K LIMITED"
+   ]
+  },
+  {
+   "group": "越航贸易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "越航贸易有限公司",
+    "YUE HANG TRADING CO., LIMITED"
+   ]
+  },
+  {
+   "group": "立桥银行股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "立桥银行股份有限公司",
+    "Banco Well Link, S.A."
+   ]
+  },
+  {
+   "group": "恒盛资产管理公司",
+   "category": "其他QFII",
+   "aliases": [
+    "恒盛资产管理公司",
+    "Persistent Asset Partners Limited"
+   ]
+  },
+  {
+   "group": "城堡顾问新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "城堡顾问新加坡有限公司",
+    "Citadel Advisors Singapore Pte. Limited"
+   ]
+  },
+  {
+   "group": "三河投资香港有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "三河投资香港有限公司",
+    "3Rivers Trading Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "辉立大宗商品私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "辉立大宗商品私人有限公司",
+    "PHILLIP COMMODITIES PTE. LTD."
+   ]
+  },
+  {
+   "group": "韩国资产投资证券株式会社",
+   "category": "其他QFII",
+   "aliases": [
+    "韩国资产投资证券株式会社",
+    "Korea Asset investment Securities Co.,Ltd."
+   ]
+  },
+  {
+   "group": "嘉民中国发展",
+   "category": "其他QFII",
+   "aliases": [
+    "嘉民中国发展",
+    "Goodman China Developments"
+   ]
+  },
+  {
+   "group": "河钢国际控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "河钢国际控股有限公司",
+    "HBIS GROUP INTERNATIONAL HOLDING CO., LIMITED"
+   ]
+  },
+  {
+   "group": "澳新金属私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "澳新金属私人有限公司",
+    "Ausinmet Pte Ltd"
+   ]
+  },
+  {
+   "group": "紫金（新加坡）国际矿业有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "紫金（新加坡）国际矿业有限公司",
+    "ZIJIN (SINGAPORE) INTERNATIONAL MINING PTE. LTD."
+   ]
+  },
+  {
+   "group": "复瑞渤大宗商品欧洲有限责任合伙",
+   "category": "其他QFII",
+   "aliases": [
+    "复瑞渤大宗商品欧洲有限责任合伙",
+    "FREEPOINT COMMODITIES EUROPE LLP"
+   ]
+  },
+  {
+   "group": "铂金游隼有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "铂金游隼有限公司",
+    "Platinum Peregrine A 2012 RSC Limited"
+   ]
+  },
+  {
+   "group": "MFC资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "MFC资产管理有限公司",
+    "MFC Asset Management Public Company Limited"
+   ]
+  },
+  {
+   "group": "中国公寓迈博控股有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中国公寓迈博控股有限公司",
+    "China Multifamily Marble Holdings Limited"
+   ]
+  },
+  {
+   "group": "维港证券国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "维港证券国际有限公司",
+    "Victoria Harbour Securities International Limited"
+   ]
+  },
+  {
+   "group": "布莱尔路资本私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "布莱尔路资本私人有限公司",
+    "Blair Road Capital Pte Ltd."
+   ]
+  },
+  {
+   "group": "大道资本（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "大道资本（香港）有限公司",
+    "TRUTH CAPITAL (HONG KONG) LIMITED"
+   ]
+  },
+  {
+   "group": "诺宝国际商业公司",
+   "category": "其他QFII",
+   "aliases": [
+    "诺宝国际商业公司",
+    "NOBORU INTERNATIONAL FZCO"
+   ]
+  },
+  {
+   "group": "糖人贸易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "糖人贸易有限公司",
+    "E D & F MAN SUGAR LIMITED"
+   ]
+  },
+  {
+   "group": "协联合资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "协联合资有限公司",
+    "SYNERGY LINK CAPITAL PTE. LTD."
+   ]
+  },
+  {
+   "group": "香港海纳投资集团有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "香港海纳投资集团有限公司",
+    "HONG KONG HIGH INVESTMENT GROUP CO., LIMITED"
+   ]
+  },
+  {
+   "group": "华承资本（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "华承资本（新加坡）有限公司",
+    "CHCC CAPITAL (SINGAPORE) PTE. LTD."
+   ]
+  },
+  {
+   "group": "艾克斯莱特资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "艾克斯莱特资本有限公司",
+    "Axight Capital Limited"
+   ]
+  },
+  {
+   "group": "必添金融有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "必添金融有限公司",
+    "BTA Finance Limited"
+   ]
+  },
+  {
+   "group": "迪赛姆信息投资公司",
+   "category": "其他QFII",
+   "aliases": [
+    "迪赛姆信息投资公司",
+    "DCM Systematic SA"
+   ]
+  },
+  {
+   "group": "智享股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "智享股份有限公司",
+    "Smartshares Limited"
+   ]
+  },
+  {
+   "group": "卡夫投资有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "卡夫投资有限责任公司",
+    "KAAF INVESTMENTS LLC"
+   ]
+  },
+  {
+   "group": "玄龙资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "玄龙资产管理有限公司",
+    "Black Dragon Asset Management Limited"
+   ]
+  },
+  {
+   "group": "雷普索尔贸易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "雷普索尔贸易有限公司",
+    "REPSOL TRADING, S.A."
+   ]
+  },
+  {
+   "group": "贝塔国际证券有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "贝塔国际证券有限公司",
+    "BETA INTERNATIONAL SECURITIES LIMITED"
+   ]
+  },
+  {
+   "group": "瑞德资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑞德资产管理有限公司",
+    "Reed Capital Partners Pte Ltd"
+   ]
+  },
+  {
+   "group": "值成资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "值成资本有限公司",
+    "CVG CAPITAL CO,LIMITED"
+   ]
+  },
+  {
+   "group": "金山（香港）国际矿业有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金山（香港）国际矿业有限公司",
+    "Gold Mountains (H.K.) International Mining Company Limited"
+   ]
+  },
+  {
+   "group": "昱光资源有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "昱光资源有限公司",
+    "LUMIER RESOURCES PTE. LTD."
+   ]
+  },
+  {
+   "group": "银辉投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "银辉投资有限公司",
+    "SilverCape Investments Limited"
+   ]
+  },
+  {
+   "group": "淞港国际资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "淞港国际资产管理有限公司",
+    "SunRiver International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "中鑫资本（香港）管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中鑫资本（香港）管理有限公司",
+    "Central Wealth Capital (HK)Management Limited"
+   ]
+  },
+  {
+   "group": "金利实业（香港）国际有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金利实业（香港）国际有限公司",
+    "JIN LI INDUSTRIAL (HONG KONG) INTERNATIONAL LIMITED"
+   ]
+  },
+  {
+   "group": "英美资源营销有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "英美资源营销有限公司",
+    "ANGLO AMERICAN MARKETING LIMITED"
+   ]
+  },
+  {
+   "group": "老使命欧洲有限责任合伙企业",
+   "category": "其他QFII",
+   "aliases": [
+    "老使命欧洲有限责任合伙企业",
+    "Old Mission Europe LLP"
+   ]
+  },
+  {
+   "group": "环球富盛理财有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "环球富盛理财有限公司",
+    "GL0BAL PROSPERITY FINANCIAL COMPANY LIMITED"
+   ]
+  },
+  {
+   "group": "未来财富集团股份有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "未来财富集团股份有限公司",
+    "Future Wealth Group AG"
+   ]
+  },
+  {
+   "group": "瑭明资本管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "瑭明资本管理有限公司",
+    "TOPAZ CAPITAL MANAGEMENT LIMITED"
+   ]
+  },
+  {
+   "group": "澳星资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "澳星资本有限公司",
+    "AUSTAR CAPITAL PTY LTD"
+   ]
+  },
+  {
+   "group": "山东黄金（新加坡）国际矿业有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "山东黄金（新加坡）国际矿业有限公司",
+    "SD GOLD (SINGAPORE) INTERNATIONAL MINING PTE. LTD."
+   ]
+  },
+  {
+   "group": "嘉玉控股有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "嘉玉控股有限责任公司",
+    "Jade Holding LLC"
+   ]
+  },
+  {
+   "group": "哈菲特资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "哈菲特资本有限公司",
+    "Hafeet Capital Limited"
+   ]
+  },
+  {
+   "group": "世通金融私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "世通金融私人有限公司",
+    "StoneX Financial Pte Ltd"
+   ]
+  },
+  {
+   "group": "凯希投资有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "凯希投资有限责任公司",
+    "KIC INVESTMENTS L.L.C"
+   ]
+  },
+  {
+   "group": "怡创全球资产管理私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "怡创全球资产管理私人有限公司",
+    "ITUS ASSET MANAGEMENT PTE. LTD."
+   ]
+  },
+  {
+   "group": "富地财富管理(香港)有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富地财富管理(香港)有限公司",
+    "Bendura Wealth Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "博致集团有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "博致集团有限公司",
+    "Plentiful Compact Holdings Limited"
+   ]
+  },
+  {
+   "group": "佳富资本有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "佳富资本有限公司",
+    "GAVEKAL CAPITAL LIMITED"
+   ]
+  },
+  {
+   "group": "格林威治金属商品贸易有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "格林威治金属商品贸易有限公司",
+    "GMI Commodities SA"
+   ]
+  },
+  {
+   "group": "晨方投资有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "晨方投资有限公司",
+    "AM SQUARED LIMITED"
+   ]
+  },
+  {
+   "group": "奥达金垒财富管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "奥达金垒财富管理有限公司",
+    "Orda Wealth Management Ltd"
+   ]
+  },
+  {
+   "group": "阿方投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "阿方投资管理有限公司",
+    "R Squared Limited"
+   ]
+  },
+  {
+   "group": "纵盈资本（香港）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "纵盈资本（香港）有限公司",
+    "Y-Intercept (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "富盛国际实业有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "富盛国际实业有限公司",
+    "RICH FORTUNE INT'L INDUSTRIAL LIMITED"
+   ]
+  },
+  {
+   "group": "国贸新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "国贸新加坡有限公司",
+    "ITG RESOURCES (SINGAPORE) PTE. LTD."
+   ]
+  },
+  {
+   "group": "中基资源新加坡有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中基资源新加坡有限公司",
+    "CHINA-BASE RESOURCE SINGAPORE PTE. LTD."
+   ]
+  },
+  {
+   "group": "金柏资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "金柏资产管理有限公司",
+    "Complus Asset Management Limited"
+   ]
+  },
+  {
+   "group": "恩吉斯养老金私人有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "恩吉斯养老金私人有限公司",
+    "NGS Super Pty Limited"
+   ]
+  },
+  {
+   "group": "灵戈托投资管理有限责任公司",
+   "category": "其他QFII",
+   "aliases": [
+    "灵戈托投资管理有限责任公司",
+    "Lingotto Investment Management LLP"
+   ]
+  },
+  {
+   "group": "盛邦恒昌物产（新加坡）有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "盛邦恒昌物产（新加坡）有限公司",
+    "THRIVBON RESOURCE (SINGAPORE) PTE. LTD."
+   ]
+  },
+  {
+   "group": "水龙头管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "水龙头管理有限公司",
+    "TAP capital limited"
+   ]
+  },
+  {
+   "group": "中燃远邦石油化工有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "中燃远邦石油化工有限公司",
+    "Chimbusco Pan Nation Petro-Chemical Co., Ltd."
+   ]
+  },
+  {
+   "group": "新加坡特利思有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "新加坡特利思有限公司",
+    "Trismegist Pte. Ltd."
+   ]
+  },
+  {
+   "group": "德信资产管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "德信资产管理有限公司",
+    "Duxton Asset Management Pte. Ltd."
+   ]
+  },
+  {
+   "group": "迪亚琦华有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "迪亚琦华有限公司",
+    "DIJLLAH JEWELLERY FZE"
+   ]
+  },
+  {
+   "group": "睿目投资管理有限公司",
+   "category": "其他QFII",
+   "aliases": [
+    "睿目投资管理有限公司",
+    "AI-SQUARED MANAGEMENT LIMITED"
+   ]
+  },
+  {
+   "group": "国泰证券投资信托股份有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "国泰证券投资信托股份有限公司",
+    "Cathay Securities Investment Trust Co., Ltd."
+   ]
+  },
+  {
+   "group": "博时基金（国际）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "博时基金（国际）有限公司"
+   ]
+  },
+  {
+   "group": "大成国际资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "大成国际资产管理有限公司"
+   ]
+  },
+  {
+   "group": "华安资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "华安资产管理（香港）有限公司"
+   ]
+  },
+  {
+   "group": "华夏基金（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "华夏基金（香港）有限公司"
+   ]
+  },
+  {
+   "group": "汇添富资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "汇添富资产管理（香港）有限公司"
+   ]
+  },
+  {
+   "group": "嘉实国际资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "嘉实国际资产管理有限公司"
+   ]
+  },
+  {
+   "group": "南方东英资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "南方东英资产管理有限公司"
+   ]
+  },
+  {
+   "group": "易方达资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "易方达资产管理（香港）有限公司"
+   ]
+  },
+  {
+   "group": "中国国际金融（国际）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中国国际金融（国际）有限公司",
+    "China International Capital Corporation (International) Limited"
+   ]
+  },
+  {
+   "group": "国信证券（香港）金融控股有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "国信证券（香港）金融控股有限公司"
+   ]
+  },
+  {
+   "group": "光大证券国际控股有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "光大证券国际控股有限公司",
+    "Everbright Securities International Holdings Limited"
+   ]
+  },
+  {
+   "group": "华泰金融控股（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "华泰金融控股（香港）有限公司"
+   ]
+  },
+  {
+   "group": "国泰海通金融控股有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "国泰海通金融控股有限公司",
+    "GUOTAI HAITONG  FINANCIAL HOLDINGS LIMITED"
+   ]
+  },
+  {
+   "group": "海通国际控股有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "海通国际控股有限公司"
+   ]
+  },
+  {
+   "group": "招商证券国际有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "招商证券国际有限公司"
+   ]
+  },
+  {
+   "group": "申万宏源（国际）集团有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "申万宏源（国际）集团有限公司",
+    "Shenwan Hongyuan (International) Holdings Limited"
+   ]
+  },
+  {
+   "group": "中信证券国际有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中信证券国际有限公司"
+   ]
+  },
+  {
+   "group": "国泰人寿保险股份有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "国泰人寿保险股份有限公司",
+    "Cathay Life Insurance Co., LTD."
+   ]
+  },
+  {
+   "group": "中银国际英国保诚资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中银国际英国保诚资产管理有限公司",
+    "BOCI-Prudential Asset Management Limited"
+   ]
+  },
+  {
+   "group": "中银集团人寿保险有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中银集团人寿保险有限公司",
+    "BOC Group Life Assurance Company Limited"
+   ]
+  },
+  {
+   "group": "工银瑞信资产管理（国际）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "工银瑞信资产管理（国际）有限公司",
+    "ICBC UBS Asset Management (International) Company Limited"
+   ]
+  },
+  {
+   "group": "广发国际资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "广发国际资产管理有限公司"
+   ]
+  },
+  {
+   "group": "海通国际资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "海通国际资产管理（香港）有限公司",
+    "Haitong International Asset Management (HK) Limited"
+   ]
+  },
+  {
+   "group": "中信证券资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中信证券资产管理（香港）有限公司",
+    "CITIC Securities Asset Management (HK) Limited"
+   ]
+  },
+  {
+   "group": "富国资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "富国资产管理（香港）有限公司"
+   ]
+  },
+  {
+   "group": "国泰君安资产管理（亚洲）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "国泰君安资产管理（亚洲）有限公司",
+    "Guotai Junan Assets (Asia) Limited"
+   ]
+  },
+  {
+   "group": "招商证券资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "招商证券资产管理（香港）有限公司",
+    "CMS Asset Management (HK) Co., Limited"
+   ]
+  },
+  {
+   "group": "工银资管（全球）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "工银资管（全球）有限公司",
+    "ICBC Asset Management (Global) Company Limited"
+   ]
+  },
+  {
+   "group": "建银国际资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "建银国际资产管理有限公司",
+    "CCB International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "农银国际资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "农银国际资产管理有限公司",
+    "ABCI Asset Management Limited"
+   ]
+  },
+  {
+   "group": "中国国际金融香港资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中国国际金融香港资产管理有限公司",
+    "China International Capital Corporation Hong Kong Asset Management Limited"
+   ]
+  },
+  {
+   "group": "长江证券国际金融集团有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "长江证券国际金融集团有限公司",
+    "Changjiang Securities International Financial Group Limited"
+   ]
+  },
+  {
+   "group": "中银香港资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中银香港资产管理有限公司",
+    "BOCHK Asset Management Limited"
+   ]
+  },
+  {
+   "group": "信达国际资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "信达国际资产管理有限公司",
+    "Cinda International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "交银国际资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "交银国际资产管理有限公司",
+    "BOCOM International Asset Management Limited"
+   ]
+  },
+  {
+   "group": "国信证券（香港）资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "国信证券（香港）资产管理有限公司",
+    "Guosen Securities (HK) Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "中信建投（国际）金融控股有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中信建投（国际）金融控股有限公司"
+   ]
+  },
+  {
+   "group": "国泰世华商业银行股份有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "国泰世华商业银行股份有限公司",
+    "Cathay United Bank Co., Ltd."
+   ]
+  },
+  {
+   "group": "中国银河国际控股有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中国银河国际控股有限公司",
+    "CGS INTERNATIONAL HOLDINGS LIMITED"
+   ]
+  },
+  {
+   "group": "招商永隆资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "招商永隆资产管理有限公司",
+    "CMB Wing Lung Asset Management Limited"
+   ]
+  },
+  {
+   "group": "长盛基金（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "长盛基金（香港）有限公司",
+    "Changsheng Fund Management (H.K.) Limited"
+   ]
+  },
+  {
+   "group": "申万宏源投资管理（亚洲）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "申万宏源投资管理（亚洲）有限公司",
+    "Shenwan Hongyuan Asset Management (Asia) Limited"
+   ]
+  },
+  {
+   "group": "国泰全球投资管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "国泰全球投资管理有限公司",
+    "Guotai Global Investments Limited"
+   ]
+  },
+  {
+   "group": "中国光大证券资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中国光大证券资产管理有限公司",
+    "China Everbright Securities Asset Management Limited"
+   ]
+  },
+  {
+   "group": "海通银行",
+   "category": "中资机构QFII",
+   "aliases": [
+    "海通银行",
+    "Haitong Bank, S.A."
+   ]
+  },
+  {
+   "group": "申万宏源新加坡私人有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "申万宏源新加坡私人有限公司",
+    "Shenwan Hongyuan Singapore Private Limited"
+   ]
+  },
+  {
+   "group": "银华国际资本管理公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "银华国际资本管理公司",
+    "Yinhua International Capital Management"
+   ]
+  },
+  {
+   "group": "平安证券（香港）资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "平安证券（香港）资产管理有限公司",
+    "Ping An Securities (Hong Kong) Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "中信信惠国际资本（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中信信惠国际资本（香港）有限公司",
+    "CTI Capital Hong Kong Limited"
+   ]
+  },
+  {
+   "group": "中欧基金国际有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中欧基金国际有限公司",
+    "Zhong Ou Asset Management Limited"
+   ]
+  },
+  {
+   "group": "东兴证券（香港）资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "东兴证券（香港）资产管理有限公司",
+    "Dongxing Securities (Hong Kong) Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "中国银河国际资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中国银河国际资产管理（香港）有限公司",
+    "China Galaxy International Asset Management (Hong Kong) \nCo., Limited"
+   ]
+  },
+  {
+   "group": "中信证券国际资本管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中信证券国际资本管理有限公司",
+    "CITIC Securities International Capital Management Limited"
+   ]
+  },
+  {
+   "group": "东方资产管理（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "东方资产管理（香港）有限公司",
+    "Orient Asset Management (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "南方东英资产管理有限公司（新加坡）",
+   "category": "中资机构QFII",
+   "aliases": [
+    "南方东英资产管理有限公司（新加坡）",
+    "CSOP Asset Management Pte. Ltd."
+   ]
+  },
+  {
+   "group": "中国银河证券新加坡私人有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中国银河证券新加坡私人有限公司",
+    "CGS International Securities Singapore Pte. Ltd."
+   ]
+  },
+  {
+   "group": "中银（新加坡）资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中银（新加坡）资产管理有限公司",
+    "Bank of China Asset Management (Singapore) Pte. Ltd."
+   ]
+  },
+  {
+   "group": "中信里昂证券日本株式会社",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中信里昂证券日本株式会社",
+    "CLSA Securities Japan Co., Ltd."
+   ]
+  },
+  {
+   "group": "中信建投（国际）资产管理有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "中信建投（国际）资产管理有限公司",
+    "China Securities (International) Asset Management Company Limited"
+   ]
+  },
+  {
+   "group": "大西部证券（香港）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "大西部证券（香港）有限公司",
+    "Global West Securities (Hong Kong) Limited"
+   ]
+  },
+  {
+   "group": "易方达资产管理（新加坡）有限公司",
+   "category": "中资机构QFII",
+   "aliases": [
+    "易方达资产管理（新加坡）有限公司",
+    "E Fund Management (Singapore) Pte. Ltd."
+   ]
+  }
+ ]
+}

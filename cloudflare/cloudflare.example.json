@@ -1,0 +1,10 @@
+{
+  "_说明": "复制本文件为 data/cloudflare.json 后填入自己的值；该文件已被 .gitignore 排除，不会提交。",
+  "account_id": "你的 Cloudflare Account ID",
+  "db_name": "rkstock-db",
+  "db_id": "你的 D1 数据库 ID",
+  "project": "rkstock",
+  "domain": "rkstock.pages.dev",
+  "binding": "DB",
+  "token": "你的 Cloudflare API Token（需 D1 编辑 + Pages 编辑权限）"
+}

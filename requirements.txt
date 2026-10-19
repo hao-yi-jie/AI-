@@ -1,0 +1,5 @@
+ftshare @ git+https://github.com/ftshare-lab/ftshare-python-sdk.git
+pandas>=1.5
+requests>=2.31
+fastapi>=0.110
+uvicorn>=0.29

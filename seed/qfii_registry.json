@@ -1,0 +1,7991 @@
+{
+ "source": "中国证监会《合格境外投资者名录》(2026年7月)",
+ "note": "QFII/RQFII 白名单。重要股东识别以本名录为基准；香港中央结算(北向)与 HKSCC(港股托管) 属跨境通道，非 QFII，单列。",
+ "count": 998,
+ "items": [
+  {
+   "seq": 1,
+   "cn": "瑞士银行",
+   "en": "UBS AG",
+   "region": "瑞士",
+   "approved": "2003-05-23",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 2,
+   "cn": "野村证券株式会社",
+   "en": "Nomura Securities Co.,Ltd.",
+   "region": "日本",
+   "approved": "2003-05-23",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 3,
+   "cn": "摩根士丹利国际股份有限公司",
+   "en": "Morgan Stanley & Co. International PLC",
+   "region": "英国",
+   "approved": "2003-06-05",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 4,
+   "cn": "花旗环球金融有限公司",
+   "en": "Citigroup Global Markets Limited",
+   "region": "英国",
+   "approved": "2003-06-05",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 5,
+   "cn": "高盛公司有限责任公司",
+   "en": "Goldman Sachs&Co. LLC",
+   "region": "美国",
+   "approved": "2003-07-04",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 6,
+   "cn": "德意志银行",
+   "en": "Deutsche Bank Aktiengesellschaft",
+   "region": "德国",
+   "approved": "2003-07-30",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 7,
+   "cn": "香港上海汇丰银行有限公司",
+   "en": "The Hongkong and Shanghai Banking Corporation Limited",
+   "region": "中国香港",
+   "approved": "2003-08-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 8,
+   "cn": "摩根大通银行",
+   "en": "JPMorgan Chase Bank, National Association",
+   "region": "美国",
+   "approved": "2003-09-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 9,
+   "cn": "渣打银行（香港）有限公司",
+   "en": "Standard Chartered Bank (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2003-12-11",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 10,
+   "cn": "奥明资产管理有限公司",
+   "en": "Amova Asset Management Co.,Ltd.",
+   "region": "日本",
+   "approved": "2003-12-11",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 11,
+   "cn": "美林国际",
+   "en": "Merrill Lynch International",
+   "region": "英国",
+   "approved": "2004-04-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 12,
+   "cn": "恒生银行有限公司",
+   "en": "Hang Seng Bank Limited",
+   "region": "中国香港",
+   "approved": "2004-05-10",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 13,
+   "cn": "大和证券株式会社",
+   "en": "Daiwa Securities Co. Ltd.",
+   "region": "日本",
+   "approved": "2004-05-10",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 14,
+   "cn": "盖茨基金会信托",
+   "en": "Gates Foundation Trust",
+   "region": "美国",
+   "approved": "2004-07-19",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 15,
+   "cn": "景顺资产管理有限公司",
+   "en": "INVESCO Asset Management Limited",
+   "region": "英国",
+   "approved": "2004-08-04",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 16,
+   "cn": "法国兴业银行",
+   "en": "Société Générale",
+   "region": "法国",
+   "approved": "2004-09-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 17,
+   "cn": "巴克莱银行",
+   "en": "Barclays Bank PLC",
+   "region": "英国",
+   "approved": "2004-09-15",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 18,
+   "cn": "德国商业银行",
+   "en": "Commerzbank AG",
+   "region": "德国",
+   "approved": "2004-09-27",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 19,
+   "cn": "法国巴黎银行",
+   "en": "BNP Paribas",
+   "region": "法国",
+   "approved": "2004-09-29",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 20,
+   "cn": "加拿大鲍尔公司",
+   "en": "Power Corporation of Canada",
+   "region": "加拿大",
+   "approved": "2004-10-15",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 21,
+   "cn": "东方汇理银行",
+   "en": "Credit Agrigole Corporate and Investment Bank",
+   "region": "法国",
+   "approved": "2004-10-15",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 22,
+   "cn": "高盛国际资产管理公司",
+   "en": "Goldman Sachs Asset Management International",
+   "region": "英国",
+   "approved": "2005-05-09",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 23,
+   "cn": "马丁可利投资管理有限公司",
+   "en": "Martin Currie Investment Management Ltd",
+   "region": "英国",
+   "approved": "2005-10-25",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 24,
+   "cn": "新加坡政府投资有限公司",
+   "en": "GIC Private Limited",
+   "region": "新加坡",
+   "approved": "2005-10-25",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 25,
+   "cn": "浩景投资有限责任公司",
+   "en": "Heron View Partners LLC",
+   "region": "美国",
+   "approved": "2005-11-14",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 26,
+   "cn": "淡马锡富敦投资有限公司",
+   "en": "Temasek Fullerton Alpha Pte Ltd",
+   "region": "新加坡",
+   "approved": "2005-11-15",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 27,
+   "cn": "日本第一生命保险株式会社",
+   "en": "The Dai-ichi Life Insurance Company，Limited",
+   "region": "日本",
+   "approved": "2005-12-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 28,
+   "cn": "星展银行有限公司",
+   "en": "DBS Bank Ltd",
+   "region": "新加坡",
+   "approved": "2006-02-13",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 29,
+   "cn": "加拿大丰业银行",
+   "en": "The Bank of Nova Scotia",
+   "region": "加拿大",
+   "approved": "2006-04-10",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 30,
+   "cn": "比联金融产品英国有限公司",
+   "en": "KBC Financial Products UK Limited",
+   "region": "英国",
+   "approved": "2006-04-10",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 31,
+   "cn": "爱德蒙得洛希尔（法国）",
+   "en": "Edmond de Rothschild（France）",
+   "region": "法国",
+   "approved": "2006-04-10",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 32,
+   "cn": "耶鲁大学",
+   "en": "Yale University",
+   "region": "美国",
+   "approved": "2006-04-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 33,
+   "cn": "摩根士丹利投资管理公司",
+   "en": "Morgan Stanley Investment Management Inc.",
+   "region": "美国",
+   "approved": "2006-07-07",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 34,
+   "cn": "瀚亚投资（香港）有限公司",
+   "en": "Eastspring Investment(Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2006-07-07",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 35,
+   "cn": "斯坦福大学",
+   "en": "Stanford University",
+   "region": "美国",
+   "approved": "2006-08-05",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 36,
+   "cn": "大华银行有限公司",
+   "en": "United Overseas Bank Limited",
+   "region": "新加坡",
+   "approved": "2006-08-05",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 37,
+   "cn": "施罗德投资管理有限公司",
+   "en": "Schroder Investment Mangement Limited",
+   "region": "英国",
+   "approved": "2006-08-29",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 38,
+   "cn": "汇丰环球投资管理（香港）有限公司",
+   "en": "HSBC Global Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2006-09-05",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 39,
+   "cn": "瑞穗证券株式会社",
+   "en": "Mizuho Securities Co.,Ltd",
+   "region": "日本",
+   "approved": "2006-09-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 40,
+   "cn": "三井住友德思资产管理股份有限公司",
+   "en": "Sumitomo Mitsui DS Asset Management Company, Limited",
+   "region": "日本",
+   "approved": "2006-09-25",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 41,
+   "cn": "瑞银资产管理（新加坡）有限公司",
+   "en": "UBS Asset Management (Singapore) Ltd",
+   "region": "新加坡",
+   "approved": "2006-09-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 42,
+   "cn": "挪威中央银行",
+   "en": "Norges Bank",
+   "region": "挪威",
+   "approved": "2006-10-24",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 43,
+   "cn": "百达资产管理有限公司",
+   "en": "Pictet Asset Management Limited",
+   "region": "英国",
+   "approved": "2006-10-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 44,
+   "cn": "哥伦比亚大学",
+   "en": "The Trustees of Columbia University in the City of New York",
+   "region": "美国",
+   "approved": "2008-03-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 45,
+   "cn": "荷宝基金管理公司",
+   "en": "Robeco Institutional Asset management B.V.",
+   "region": "荷兰",
+   "approved": "2008-05-05",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 46,
+   "cn": "道富环球投资管理亚洲有限公司",
+   "en": "State Street Global Advisors Asia Limited",
+   "region": "中国香港",
+   "approved": "2008-05-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 47,
+   "cn": "比利时联合资产管理有限公司",
+   "en": "KBC Asset Management N.V.",
+   "region": "比利时",
+   "approved": "2008-06-02",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 48,
+   "cn": "铂金投资管理有限公司",
+   "en": "Platinum Investment Management Limited",
+   "region": "澳大利亚",
+   "approved": "2008-06-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 49,
+   "cn": "未来资产基金管理公司",
+   "en": "Mirae Asset Global Investments Co., Ltd.",
+   "region": "韩国",
+   "approved": "2008-07-25",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 50,
+   "cn": "安达国际控股有限公司",
+   "en": "Chubb INA International Holdings Ltd.",
+   "region": "美国",
+   "approved": "2008-08-05",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 51,
+   "cn": "魁北克储蓄投资集团",
+   "en": "Caisse de dépôt et placement du Québec",
+   "region": "加拿大",
+   "approved": "2008-08-22",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 52,
+   "cn": "哈佛大学",
+   "en": "President and Fellows of Harvard College",
+   "region": "美国",
+   "approved": "2008-08-22",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 53,
+   "cn": "三星资产运用株式会社",
+   "en": "Samsung Asset Management Co., Ltd.",
+   "region": "韩国",
+   "approved": "2008-08-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 54,
+   "cn": "联博有限公司",
+   "en": "AllianceBernstein Limited",
+   "region": "英国",
+   "approved": "2008-08-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 55,
+   "cn": "新加坡华侨银行股份有限公司",
+   "en": "Oversea-Chinese Banking Corporation Limited",
+   "region": "新加坡",
+   "approved": "2008-08-28",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 56,
+   "cn": "首源投资（英国）有限公司",
+   "en": "First Sentier Investors （UK）IM Limited",
+   "region": "英国",
+   "approved": "2008-09-11",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 57,
+   "cn": "大和资产管理株式会社",
+   "en": "Daiwa Asset Management Co. Ltd.",
+   "region": "日本",
+   "approved": "2008-09-11",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 58,
+   "cn": "普徕仕投资公司",
+   "en": "T. Rowe Price Associates, Inc.",
+   "region": "美国",
+   "approved": "2008-09-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 59,
+   "cn": "壳牌资产管理有限公司",
+   "en": "Shell Asset Management Company B.V.",
+   "region": "荷兰",
+   "approved": "2008-09-12",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 60,
+   "cn": "大华资产管理有限公司",
+   "en": "UOB Asset Management Ltd",
+   "region": "新加坡",
+   "approved": "2008-11-28",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 61,
+   "cn": "阿布达比投资局",
+   "en": "ABU Dhabi Investment Authority",
+   "region": "阿联酋",
+   "approved": "2008-12-03",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 62,
+   "cn": "安联环球投资有限公司",
+   "en": "Allianz Global Investors GmbH",
+   "region": "德国",
+   "approved": "2008-12-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 63,
+   "cn": "资本国际公司",
+   "en": "Capital International, Inc.",
+   "region": "美国",
+   "approved": "2008-12-18",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 64,
+   "cn": "三菱日联摩根士丹利证券股份有限公司",
+   "en": "Mitsubishi UFJ Morgan Stanley Securities Co., Ltd.",
+   "region": "日本",
+   "approved": "2008-12-29",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 65,
+   "cn": "韩华资产运用株式会社",
+   "en": "Hanwha Asset Management Co., Ltd.",
+   "region": "韩国",
+   "approved": "2009-02-05",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 66,
+   "cn": "韩国产业银行",
+   "en": "The Korea Development Bank",
+   "region": "韩国",
+   "approved": "2009-04-23",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 67,
+   "cn": "韩国友利银行股份有限公司",
+   "en": "Woori Bank Co., Ltd",
+   "region": "韩国",
+   "approved": "2009-05-04",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 68,
+   "cn": "马来西亚国家银行",
+   "en": "Bank Negara Malaysia",
+   "region": "马来西亚",
+   "approved": "2009-05-19",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 69,
+   "cn": "邓普顿投资顾问有限公司",
+   "en": "Templeton Investment Counsel, LLC",
+   "region": "美国",
+   "approved": "2009-06-05",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 70,
+   "cn": "东亚联丰投资管理有限公司",
+   "en": "BEA Union Investment Management Limited",
+   "region": "中国香港",
+   "approved": "2009-06-18",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 71,
+   "cn": "三井住友信托银行股份有限公司",
+   "en": "The Sumitomo Trust & Banking Co., Ltd.",
+   "region": "日本",
+   "approved": "2009-06-26",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 72,
+   "cn": "韩国投资信托运用株式会社",
+   "en": "Korea Investment Management Co., Ltd",
+   "region": "韩国",
+   "approved": "2009-07-21",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 73,
+   "cn": "霸菱资产管理有限公司",
+   "en": "Baring Asset Management Limited",
+   "region": "英国",
+   "approved": "2009-08-06",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 74,
+   "cn": "安石投资管理有限公司",
+   "en": "Ashmore Investment Management Limited",
+   "region": "英国",
+   "approved": "2009-09-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 75,
+   "cn": "纽约梅隆资产管理国际有限公司",
+   "en": "BNY Mellon Asset Management International Limited",
+   "region": "英国",
+   "approved": "2009-11-06",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 76,
+   "cn": "宏利投资管理（香港）有限公司",
+   "en": "Manulife Investment Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2009-11-20",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 77,
+   "cn": "野村资产管理株式会社",
+   "en": "Nomura Asset Management CO., LTD",
+   "region": "日本",
+   "approved": "2009-11-23",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 78,
+   "cn": "友利资产运用株式会社",
+   "en": "Woori Asset Management Corp.",
+   "region": "韩国",
+   "approved": "2009-12-11",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 79,
+   "cn": "加拿大皇家银行",
+   "en": "Royal Bank of Canada",
+   "region": "加拿大",
+   "approved": "2009-12-23",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 80,
+   "cn": "英杰华投资集团全球服务有限公司",
+   "en": "Aviva Investors Global Services Limited",
+   "region": "英国",
+   "approved": "2009-12-28",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 81,
+   "cn": "顶峰资产管理有限公司",
+   "en": "Asset Management One Co., Ltd.",
+   "region": "日本",
+   "approved": "2010-04-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 82,
+   "cn": "欧菲资产管理公司",
+   "en": "OFI INVEST ASSET MANAGEMENT",
+   "region": "法国",
+   "approved": "2010-05-21",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 83,
+   "cn": "安本亚洲有限公司",
+   "en": "Abrdn Asia Limited",
+   "region": "新加坡",
+   "approved": "2010-07-06",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 84,
+   "cn": "KB资产运用",
+   "en": "KB Asset Management Co., Ltd",
+   "region": "韩国",
+   "approved": "2010-08-09",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 85,
+   "cn": "富达基金（香港）有限公司",
+   "en": "FIL Investment Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2010-09-01",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 86,
+   "cn": "香港金融管理局",
+   "en": "Hong Kong Monetary Authority",
+   "region": "中国香港",
+   "approved": "2010-10-27",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 87,
+   "cn": "富邦证券投资信托股份有限公司",
+   "en": "Fubon Asset Management Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2010-10-29",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 88,
+   "cn": "群益证券投资信托股份有限公司",
+   "en": "Capital Investment Trust Corporation",
+   "region": "中国台湾",
+   "approved": "2010-10-29",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 89,
+   "cn": "蒙特利尔银行投资公司",
+   "en": "BMO Investments Inc.",
+   "region": "加拿大",
+   "approved": "2010-12-06",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 90,
+   "cn": "瑞士宝盛银行",
+   "en": "Bank Julius Bear & Co.,Ltd",
+   "region": "瑞士",
+   "approved": "2010-12-14",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 91,
+   "cn": "科提比资产运用株式会社",
+   "en": "KTB Asset Management Co.,Ltd",
+   "region": "韩国",
+   "approved": "2010-12-28",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 92,
+   "cn": "领先资产管理",
+   "en": "Lyxor Asset Management",
+   "region": "法国",
+   "approved": "2011-02-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 93,
+   "cn": "元大证券投资信托股份有限公司",
+   "en": "Yuanta Securities Investment Trust Co.,Ltd.",
+   "region": "中国台湾",
+   "approved": "2011-03-04",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 94,
+   "cn": "忠利保险有限公司",
+   "en": "Assicurazioni Generali S.p.A.",
+   "region": "意大利",
+   "approved": "2011-03-18",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 95,
+   "cn": "西班牙对外银行有限公司",
+   "en": "Banco Bilbao Vizcaya Argentaria, S.A.",
+   "region": "西班牙",
+   "approved": "2011-05-06",
+   "trustee": "中信银行"
+  },
+  {
+   "seq": 96,
+   "cn": "国泰证券投资信托股份有限公司",
+   "en": "Cathay Securities Investment Trust Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2011-06-09",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 97,
+   "cn": "复华证券投资信托股份有限公司",
+   "en": "Fuh Hwa Securities Investment Trust Co. Ltd.",
+   "region": "中国台湾",
+   "approved": "2011-06-09",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 98,
+   "cn": "亢简资产管理公司",
+   "en": "Comgest S.A.",
+   "region": "法国",
+   "approved": "2011-06-24",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 99,
+   "cn": "贝莱德机构信托公司",
+   "en": "BlackRock Institutional Trust Company, N.A.",
+   "region": "美国",
+   "approved": "2011-07-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 100,
+   "cn": "东方汇理资产管理香港有限公司",
+   "en": "Amundi Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2011-07-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 101,
+   "cn": "GMO有限责任公司",
+   "en": "Grantham, Mayo, Van Otterloo & Co.LLC",
+   "region": "美国",
+   "approved": "2011-08-09",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 102,
+   "cn": "新加坡金融管理局",
+   "en": "Monetary Authority of Singapore",
+   "region": "新加坡",
+   "approved": "2011-10-08",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 103,
+   "cn": "凯基人寿保险股份有限公司",
+   "en": "KGI LIFE INSURANCE CO. LTD",
+   "region": "中国台湾",
+   "approved": "2011-10-26",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 104,
+   "cn": "新光人寿保险股份有限公司",
+   "en": "Shin Kong Life Insurance Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2011-10-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 105,
+   "cn": "普林斯顿大学",
+   "en": "Princeton University",
+   "region": "美国",
+   "approved": "2011-11-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 106,
+   "cn": "泛达公司",
+   "en": "Van Eck Associates Corporation",
+   "region": "美国",
+   "approved": "2011-12-09",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 107,
+   "cn": "加拿大年金计划投资委员会",
+   "en": "Canada Pension Plan Investment Board",
+   "region": "加拿大",
+   "approved": "2011-12-09",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 108,
+   "cn": "瀚博环球投资公司",
+   "en": "Hansberger Global Investors, Inc.",
+   "region": "美国",
+   "approved": "2011-12-13",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 109,
+   "cn": "安耐德合伙人有限公司",
+   "en": "EARNEST Partners LLC",
+   "region": "美国",
+   "approved": "2011-12-13",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 110,
+   "cn": "泰国银行",
+   "en": "The Bank of Thailand",
+   "region": "泰国",
+   "approved": "2011-12-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 111,
+   "cn": "博时基金（国际）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 112,
+   "cn": "大成国际资产管理有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-21",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 113,
+   "cn": "华安资产管理（香港）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-21",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 114,
+   "cn": "科威特政府投资局",
+   "en": "Kuwait Investment Authority",
+   "region": "科威特",
+   "approved": "2011-12-21",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 115,
+   "cn": "北美信托环球投资公司",
+   "en": "Northern Trust Global Investments Limited",
+   "region": "英国",
+   "approved": "2011-12-21",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 116,
+   "cn": "台湾人寿保险股份有限公司",
+   "en": "Taiwan Life Insurance Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2011-12-21",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 117,
+   "cn": "韩国银行",
+   "en": "Bank of Korea",
+   "region": "韩国",
+   "approved": "2011-12-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 118,
+   "cn": "华夏基金（香港）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-21",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 119,
+   "cn": "汇添富资产管理（香港）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-21",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 120,
+   "cn": "嘉实国际资产管理有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 121,
+   "cn": "南方东英资产管理有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 122,
+   "cn": "易方达资产管理（香港）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-21",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 123,
+   "cn": "中国国际金融（国际）有限公司",
+   "en": "China International Capital Corporation (International) Limited",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 124,
+   "cn": "国信证券（香港）金融控股有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 125,
+   "cn": "光大证券国际控股有限公司",
+   "en": "Everbright Securities International Holdings Limited",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 126,
+   "cn": "华泰金融控股（香港）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 127,
+   "cn": "国泰海通金融控股有限公司",
+   "en": "GUOTAI HAITONG  FINANCIAL HOLDINGS LIMITED",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 128,
+   "cn": "海通国际控股有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 129,
+   "cn": "广发控股（香港）有限公司",
+   "en": "GF Holdings (Hong Kong) Corporation Limited",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 130,
+   "cn": "招商证券国际有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 131,
+   "cn": "申万宏源（国际）集团有限公司",
+   "en": "Shenwan Hongyuan (International) Holdings Limited",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 132,
+   "cn": "中信证券国际有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 133,
+   "cn": "国投证券国际金融控股有限公司",
+   "en": "SDIC Securities International Financial Holdings Limited",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 134,
+   "cn": "国元国际控股有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2011-12-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 135,
+   "cn": "安大略省教师养老金计划委员会",
+   "en": "Ontario Teachers' Pension Plan Board",
+   "region": "加拿大",
+   "approved": "2011-12-22",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 136,
+   "cn": "罗素投资爱尔兰有限公司",
+   "en": "Russell Investments Ireland Limited",
+   "region": "爱尔兰",
+   "approved": "2011-12-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 137,
+   "cn": "韩国投资公司",
+   "en": "Korea Investment Corporation",
+   "region": "韩国",
+   "approved": "2011-12-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 138,
+   "cn": "迈世勒资产管理有限责任公司",
+   "en": "Metzler Asset Management GmbH",
+   "region": "德国",
+   "approved": "2011-12-31",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 139,
+   "cn": "华宜资产运用有限公司",
+   "en": "VI Asset Management Co., Ltd",
+   "region": "韩国",
+   "approved": "2011-12-31",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 140,
+   "cn": "国民年金公团（韩国）",
+   "en": "National Pension Service",
+   "region": "韩国",
+   "approved": "2012-01-05",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 141,
+   "cn": "新韩资产运用株式会社",
+   "en": "Shinhan Asset Management Co., Ltd.",
+   "region": "韩国",
+   "approved": "2012-01-05",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 142,
+   "cn": "三商美邦人寿保险股份有限公司",
+   "en": "Mercuries Life Insurance Co,Ltd",
+   "region": "中国台湾",
+   "approved": "2012-01-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 143,
+   "cn": "玉山证券投资信托股份有限公司",
+   "en": "E.Sun Asset Management Co.,Ltd.",
+   "region": "中国台湾",
+   "approved": "2012-01-31",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 144,
+   "cn": "信安环球投资有限公司",
+   "en": "Principal Global Investors LLC",
+   "region": "美国",
+   "approved": "2012-01-31",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 145,
+   "cn": "全球人寿保险股份有限公司",
+   "en": "TransGlobe Life Insurance Inc.",
+   "region": "中国台湾",
+   "approved": "2012-02-03",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 146,
+   "cn": "大众信托基金有限公司",
+   "en": "Public Mutual Berhad",
+   "region": "马来西亚",
+   "approved": "2012-02-03",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 147,
+   "cn": "明治安田资产管理有限公司",
+   "en": "Meiji Yasuda Asset Management Company Ltd.",
+   "region": "日本",
+   "approved": "2012-02-27",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 148,
+   "cn": "国泰人寿保险股份有限公司",
+   "en": "Cathay Life Insurance Co., LTD.",
+   "region": "中国台湾",
+   "approved": "2012-02-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 149,
+   "cn": "富邦人寿保险股份有限公司",
+   "en": "Fubon Life Insurance Co. Ltd",
+   "region": "中国台湾",
+   "approved": "2012-03-01",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 150,
+   "cn": "友邦保险有限公司",
+   "en": "AIA Company Limited",
+   "region": "中国香港",
+   "approved": "2012-03-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 151,
+   "cn": "纽伯格伯曼欧洲有限公司",
+   "en": "Neuberger Berman Europe Limited",
+   "region": "英国",
+   "approved": "2012-03-05",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 152,
+   "cn": "马来西亚国库控股公司",
+   "en": "KHAZANAH NASIONAL BERHAD",
+   "region": "马来西亚",
+   "approved": "2012-03-07",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 153,
+   "cn": "资本研究与管理公司",
+   "en": "Capital Research and Management Company",
+   "region": "美国",
+   "approved": "2012-03-09",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 154,
+   "cn": "日本东京海上资产管理株式会社",
+   "en": "Tokio Marine Asset Management Co.,Ltd",
+   "region": "日本",
+   "approved": "2012-03-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 155,
+   "cn": "韩亚证券株式会社",
+   "en": "HANA SECURITIES CO., LTD",
+   "region": "韩国",
+   "approved": "2012-03-29",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 156,
+   "cn": "兴元资产管理有限公司",
+   "en": "Genesis Asset Managers,LLP",
+   "region": "美国",
+   "approved": "2012-03-30",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 157,
+   "cn": "伦敦市投资管理有限公司",
+   "en": "City of London Investment Managementi Company Limited",
+   "region": "英国",
+   "approved": "2012-03-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 158,
+   "cn": "摩根资产管理（英国）有限公司",
+   "en": "JPMorgan Asset Management (UK) Limited",
+   "region": "英国",
+   "approved": "2012-03-30",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 159,
+   "cn": "思佰益冈三资产管理股份有限公司",
+   "en": "SBI Okasan Asset Management Co.,Ltd",
+   "region": "日本",
+   "approved": "2012-03-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 160,
+   "cn": "预知投资管理公司",
+   "en": "Prescient Investment Management PTY LTD",
+   "region": "南非",
+   "approved": "2012-04-18",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 161,
+   "cn": "DB资产运用株式会社",
+   "en": "Dongbu Asset Management Co.,Ltd.",
+   "region": "韩国",
+   "approved": "2012-04-20",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 162,
+   "cn": "骏利亨德森投资英国有限公司",
+   "en": "JANUS HENDERSON INVESTORS UK LIMITED",
+   "region": "英国",
+   "approved": "2012-04-28",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 163,
+   "cn": "欧利盛资产管理有限公司",
+   "en": "Eurizon Capital S.A.",
+   "region": "卢森堡",
+   "approved": "2012-05-02",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 164,
+   "cn": "中银国际英国保诚资产管理有限公司",
+   "en": "BOCI-Prudential Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2012-05-03",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 165,
+   "cn": "富敦资金管理有限公司",
+   "en": "Fullerton Fund Management Company Ltd",
+   "region": "新加坡",
+   "approved": "2012-05-04",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 166,
+   "cn": "利安资金管理公司",
+   "en": "Lion Global Investors Limited",
+   "region": "新加坡",
+   "approved": "2012-05-07",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 167,
+   "cn": "忠利银行基金管理卢森堡有限责任公司",
+   "en": "BG FUND MANAGEMENT LUXEMBOURG S.A.",
+   "region": "卢森堡",
+   "approved": "2012-05-23",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 168,
+   "cn": "威廉-博莱公司",
+   "en": "William Blair & Company,L.L.C.",
+   "region": "美国",
+   "approved": "2012-05-24",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 169,
+   "cn": "晋达英国有限公司",
+   "en": "Ninety One UK Limited",
+   "region": "英国",
+   "approved": "2012-05-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 170,
+   "cn": "安智投资管理亚太（香港）有限公司",
+   "en": "ING Investment Management Aisa Pacific (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2012-06-04",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 171,
+   "cn": "三菱日联资产管理公司",
+   "en": "Mitsubishi UFJ Asset Management Co., Ltd.",
+   "region": "日本",
+   "approved": "2012-06-04",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 172,
+   "cn": "中银集团人寿保险有限公司",
+   "en": "BOC Group Life Assurance Company Limited",
+   "region": "中国香港",
+   "approved": "2012-07-12",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 173,
+   "cn": "派斯通家族基金办公室有限责任公司",
+   "en": "Pathstone Family Office, LLC",
+   "region": "美国",
+   "approved": "2012-08-06",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 174,
+   "cn": "得克萨斯大学体系董事会",
+   "en": "Board of Regents of The University of Texas System",
+   "region": "美国",
+   "approved": "2012-08-06",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 175,
+   "cn": "南山人寿保险股份有限公司",
+   "en": "Nan Shan Life Insurance Company,Ltd.",
+   "region": "中国台湾",
+   "approved": "2012-08-06",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 176,
+   "cn": "工银瑞信资产管理（国际）有限公司",
+   "en": "ICBC UBS Asset Management (International) Company Limited",
+   "region": "中国香港",
+   "approved": "2012-08-07",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 177,
+   "cn": "广发国际资产管理有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2012-08-07",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 178,
+   "cn": "SUVA瑞士国家工伤保险机构",
+   "en": "Suva",
+   "region": "瑞士",
+   "approved": "2012-08-13",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 179,
+   "cn": "不列颠哥伦比亚省投资管理公司",
+   "en": "British Columbia Investment Management Corporation",
+   "region": "加拿大",
+   "approved": "2012-08-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 180,
+   "cn": "惠理基金管理香港有限公司",
+   "en": "Value Partners Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2012-08-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 181,
+   "cn": "安大略退休金管理委员会",
+   "en": "Ontario Pension Board",
+   "region": "加拿大",
+   "approved": "2012-08-29",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 182,
+   "cn": "教会养老基金",
+   "en": "The Church Pension Fund",
+   "region": "美国",
+   "approved": "2012-08-31",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 183,
+   "cn": "麦格理银行有限公司",
+   "en": "Macquarie Bank Limited",
+   "region": "澳大利亚",
+   "approved": "2012-09-04",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 184,
+   "cn": "海通国际资产管理（香港）有限公司",
+   "en": "Haitong International Asset Management (HK) Limited",
+   "region": "中国香港",
+   "approved": "2012-09-20",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 185,
+   "cn": "IDG资本管理（香港）有限公司",
+   "en": "IDG CAPITAL MANAGEMENT (HK) LIMITED",
+   "region": "中国香港",
+   "approved": "2012-09-20",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 186,
+   "cn": "瑞典第二国家养老基金",
+   "en": "Andra AP-fonden",
+   "region": "瑞典",
+   "approved": "2012-09-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 187,
+   "cn": "杜克大学",
+   "en": "Duke University",
+   "region": "美国",
+   "approved": "2012-09-24",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 188,
+   "cn": "卡塔尔控股有限责任公司",
+   "en": "Qatar Holding LLC",
+   "region": "卡塔尔",
+   "approved": "2012-09-25",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 189,
+   "cn": "瑞士盈丰银行股份有限公司",
+   "en": "EFG Bank AG",
+   "region": "瑞士",
+   "approved": "2012-09-26",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 190,
+   "cn": "贝莱德资产管理北亚有限公司",
+   "en": "BlackRock Asset Management North Asia Limited",
+   "region": "中国香港",
+   "approved": "2012-10-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 191,
+   "cn": "海拓投资管理公司",
+   "en": "Cutwater Investor Services Corporation",
+   "region": "美国",
+   "approved": "2012-10-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 192,
+   "cn": "奥博医疗顾问有限公司",
+   "en": "OrbiMed Advisors LLC",
+   "region": "美国",
+   "approved": "2012-10-26",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 193,
+   "cn": "摩根证券投资信托股份有限公司",
+   "en": "JPMorgan Asset Management Taiwan",
+   "region": "中国台湾",
+   "approved": "2012-11-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 194,
+   "cn": "全球保险集团美国投资管理有限公司",
+   "en": "AEGON USA Investment Management, LLC",
+   "region": "美国",
+   "approved": "2012-11-05",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 195,
+   "cn": "鼎晖投资咨询新加坡有限公司",
+   "en": "CDH Investment Advisory Private Limited",
+   "region": "新加坡",
+   "approved": "2012-11-07",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 196,
+   "cn": "瑞典北欧斯安银行有限公司",
+   "en": "Skandinaviska Enskilda Banken AB(publ)",
+   "region": "瑞典",
+   "approved": "2012-11-12",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 197,
+   "cn": "道明资产管理有限公司",
+   "en": "TD Asset Management Inc.",
+   "region": "加拿大",
+   "approved": "2012-11-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 198,
+   "cn": "统一证券投资信托股份有限公司",
+   "en": "Uni-President Assets Management Corporation",
+   "region": "中国台湾",
+   "approved": "2012-11-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 199,
+   "cn": "毕盛资产管理有限公司",
+   "en": "APS Asset Management Pte Ltd",
+   "region": "新加坡",
+   "approved": "2012-11-27",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 200,
+   "cn": "中信证券资产管理（香港）有限公司",
+   "en": "CITIC Securities Asset Management (HK) Limited",
+   "region": "中国香港",
+   "approved": "2012-12-11",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 201,
+   "cn": "太平洋投资策略有限公司",
+   "en": "Pacific Alliance Investment Management (HK) Limited",
+   "region": "中国香港",
+   "approved": "2012-12-11",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 202,
+   "cn": "HHLR管理有限公司",
+   "en": "HHLR Management Pte. Ltd",
+   "region": "新加坡",
+   "approved": "2012-12-11",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 203,
+   "cn": "永丰证券投资信托股份有限公司",
+   "en": "SinoPac Securities Investment Trust Co.,Ltd",
+   "region": "中国台湾",
+   "approved": "2012-12-13",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 204,
+   "cn": "富国资产管理（香港）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2012-12-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 205,
+   "cn": "宜思投资管理有限责任公司",
+   "en": "East Capital AB",
+   "region": "瑞典",
+   "approved": "2013-01-07",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 206,
+   "cn": "第一金证券投资信托股份有限公司",
+   "en": "First Securities Investment Trust Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2013-01-24",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 207,
+   "cn": "瑞银资产管理（香港）有限公司",
+   "en": "UBS Asset Management (Hong Kong ) Ltd",
+   "region": "中国香港",
+   "approved": "2013-01-24",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 208,
+   "cn": "太平洋投资管理公司亚洲私营有限公司",
+   "en": "PIMCO Asia Pte Ltd",
+   "region": "新加坡",
+   "approved": "2013-01-24",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 209,
+   "cn": "EJS投资管理有限公司",
+   "en": "EJS Investment Management S.A.",
+   "region": "瑞士",
+   "approved": "2013-01-31",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 210,
+   "cn": "国泰君安资产管理（亚洲）有限公司",
+   "en": "Guotai Junan Assets (Asia) Limited",
+   "region": "中国香港",
+   "approved": "2013-02-21",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 211,
+   "cn": "诺安基金（香港）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2013-02-22",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 212,
+   "cn": "招商证券资产管理（香港）有限公司",
+   "en": "CMS Asset Management (HK) Co., Limited",
+   "region": "中国香港",
+   "approved": "2013-02-22",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 213,
+   "cn": "泰康资产管理（香港）有限公司",
+   "en": "Taikang Asset Management (HK) Company Limited",
+   "region": "中国香港",
+   "approved": "2013-02-22",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 214,
+   "cn": "国民证券株式会社",
+   "en": "KB Securities co., Ltd.",
+   "region": "韩国",
+   "approved": "2013-03-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 215,
+   "cn": "工银资管（全球）有限公司",
+   "en": "ICBC Asset Management (Global) Company Limited",
+   "region": "中国香港",
+   "approved": "2013-03-25",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 216,
+   "cn": "建银国际资产管理有限公司",
+   "en": "CCB International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2013-03-25",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 217,
+   "cn": "Azimut投资股份有限公司",
+   "en": "Azimut Investments S.A.",
+   "region": "卢森堡",
+   "approved": "2013-04-11",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 218,
+   "cn": "亚洲资本再保险集团私人有限公司",
+   "en": "Asia Capital Reinsurance Group Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2013-04-11",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 219,
+   "cn": "兴证（香港）金融控股有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2013-04-25",
+   "trustee": "兴业银行"
+  },
+  {
+   "seq": 220,
+   "cn": "台新证券投资信托股份有限公司",
+   "en": "Taishin Securities Investment Trust Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2013-04-27",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 221,
+   "cn": "汇丰证券投资信托股份有限公司",
+   "en": "HSBC Global Asset Management (Taiwan) Limited",
+   "region": "中国台湾",
+   "approved": "2013-05-10",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 222,
+   "cn": "农银国际资产管理有限公司",
+   "en": "ABCI Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2013-05-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 223,
+   "cn": "太平资产管理（香港）有限公司",
+   "en": "Taiping Assets Management (HK) Company Limited",
+   "region": "中国香港",
+   "approved": "2013-05-15",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 224,
+   "cn": "东吴证券（国际）金融控股有限公司",
+   "en": "Soochow Securities (International) Financial Holding Limited",
+   "region": "中国香港",
+   "approved": "2013-05-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 225,
+   "cn": "中国国际金融香港资产管理有限公司",
+   "en": "China International Capital Corporation Hong Kong Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2013-05-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 226,
+   "cn": "东方金融控股（香港）有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2013-05-23",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 227,
+   "cn": "中国光大资产管理有限公司",
+   "en": "China Everbright Assets Management Limited",
+   "region": "中国香港",
+   "approved": "2013-05-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 228,
+   "cn": "恒生投资管理有限公司",
+   "en": "Hang Seng Investment Management Limited",
+   "region": "中国香港",
+   "approved": "2013-06-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 229,
+   "cn": "兆丰国际证券投资信托股份有限公司",
+   "en": "Mega International Investment Trust Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2013-06-04",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 230,
+   "cn": "法国巴黎投资管理亚洲有限公司",
+   "en": "BNP Paribas Investment Partners Asia Limited",
+   "region": "中国香港",
+   "approved": "2013-06-19",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 231,
+   "cn": "横华国际资产管理有限公司",
+   "en": "HGNH International Asset Management Co.,Limited",
+   "region": "中国香港",
+   "approved": "2013-07-15",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 232,
+   "cn": "长江证券国际金融集团有限公司",
+   "en": "Changjiang Securities International Financial Group Limited",
+   "region": "中国香港",
+   "approved": "2013-07-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 233,
+   "cn": "纽堡亚洲",
+   "en": "Newport Asia LLC",
+   "region": "美国",
+   "approved": "2013-07-15",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 234,
+   "cn": "华南永昌证券投资信托股份有限公司",
+   "en": "HUA NAN INVESTMENT TRUST CORPORATION",
+   "region": "中国台湾",
+   "approved": "2013-07-15",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 235,
+   "cn": "景林资产管理香港有限公司",
+   "en": "Greenwoods Asset Management Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2013-07-15",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 236,
+   "cn": "中银香港资产管理有限公司",
+   "en": "BOCHK Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2013-07-15",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 237,
+   "cn": "中国平安资产管理（香港）有限公司",
+   "en": "Ping An of China Asset Management (Hong Kong) Company Limited",
+   "region": "中国香港",
+   "approved": "2013-07-19",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 238,
+   "cn": "信达国际资产管理有限公司",
+   "en": "Cinda International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2013-07-19",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 239,
+   "cn": "弘收投资管理（香港）有限公司",
+   "en": "Income Partners Asset Management (HK) Limited",
+   "region": "中国香港",
+   "approved": "2013-07-19",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 240,
+   "cn": "东亚银行有限公司",
+   "en": "The Bank of East Asia, Limited",
+   "region": "中国香港",
+   "approved": "2013-08-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 241,
+   "cn": "永丰金资产管理（亚洲）有限公司",
+   "en": "SinoPac Asset Management (Asia) Ltd.",
+   "region": "中国香港",
+   "approved": "2013-08-15",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 242,
+   "cn": "交银国际资产管理有限公司",
+   "en": "BOCOM International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2013-08-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 243,
+   "cn": "中国东方国际资产管理有限公司",
+   "en": "China Orient International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2013-08-20",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 244,
+   "cn": "中国信托人寿保险股份有限公司",
+   "en": "CTBC Life Insurance Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2013-08-20",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 245,
+   "cn": "凯思博投资管理（香港）有限公司",
+   "en": "Keywise Capital Management (HK) Limited",
+   "region": "中国香港",
+   "approved": "2013-08-20",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 246,
+   "cn": "富邦产物保险股份有限公司",
+   "en": "FUBON INSURANCE COMPANY LIMITED",
+   "region": "中国台湾",
+   "approved": "2013-08-26",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 247,
+   "cn": "欧特咨询有限公司",
+   "en": "Alta Advisers Limited",
+   "region": "英国",
+   "approved": "2013-08-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 248,
+   "cn": "盛树投资管理有限公司",
+   "en": "Flowering Tree Investment Manangement Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2013-08-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 249,
+   "cn": "柏瑞投资香港有限公司",
+   "en": "PineBridge Investments Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2013-09-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 250,
+   "cn": "创兴银行有限公司",
+   "en": "Chong Hing Bank Limited",
+   "region": "中国香港",
+   "approved": "2013-09-26",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 251,
+   "cn": "梅奥诊所",
+   "en": "Mayo Clinic",
+   "region": "美国",
+   "approved": "2013-09-29",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 252,
+   "cn": "国信证券（香港）资产管理有限公司",
+   "en": "Guosen Securities (HK) Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2013-09-29",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 253,
+   "cn": "政府养老基金（泰国）",
+   "en": "Government Pension Fund",
+   "region": "泰国",
+   "approved": "2013-10-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 254,
+   "cn": "CSAM资产管理有限公司",
+   "en": "CSAM Asset Management Pte Ltd",
+   "region": "新加坡",
+   "approved": "2013-10-30",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 255,
+   "cn": "摩根资产管理（亚太）有限公司",
+   "en": "JPMorgan Asset Management (Asia Pacific）Limited",
+   "region": "中国香港",
+   "approved": "2013-10-30",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 256,
+   "cn": "未来资产环球投资（香港）有限公司",
+   "en": "Mirae Asset Global Investments (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2013-10-30",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 257,
+   "cn": "香港沪光国际投资管理有限公司",
+   "en": "SHANGHAI INTERNATIONAL ASSET MANAGEMENT(HONG KONG) COMPANY LIMITED",
+   "region": "中国香港",
+   "approved": "2013-10-30",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 258,
+   "cn": "中信建投（国际）金融控股有限公司",
+   "en": "nan",
+   "region": "中国香港",
+   "approved": "2013-10-30",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 259,
+   "cn": "狮诚控股国际私人有限公司",
+   "en": "SeaTown Holdings International Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2013-10-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 260,
+   "cn": "中国人寿富兰克林资产管理有限公司",
+   "en": "China Life Franklin Asset Management Co., Limited",
+   "region": "中国香港",
+   "approved": "2013-10-30",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 261,
+   "cn": "韩亚资产运用株式会社",
+   "en": "Hana Asset Management Company Ltd.",
+   "region": "韩国",
+   "approved": "2013-10-31",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 262,
+   "cn": "国泰世华商业银行股份有限公司",
+   "en": "Cathay United Bank Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2013-11-07",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 263,
+   "cn": "立陶宛银行",
+   "en": "Bank of Lithuania",
+   "region": "立陶宛",
+   "approved": "2013-11-23",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 264,
+   "cn": "富兰克林华美证券投资信托股份有限公司",
+   "en": "Franklin Templeton SinoAM SIM Inc.",
+   "region": "中国台湾",
+   "approved": "2013-11-23",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 265,
+   "cn": "中国信托商业银行股份有限公司",
+   "en": "CTBC Bank Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2013-11-23",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 266,
+   "cn": "国金证券（香港）有限公司",
+   "en": "Sinolink Securities (Hong Kong) Company Limited",
+   "region": "中国香港",
+   "approved": "2013-12-06",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 267,
+   "cn": "中国银河国际控股有限公司",
+   "en": "CGS INTERNATIONAL HOLDINGS LIMITED",
+   "region": "中国香港",
+   "approved": "2013-12-11",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 268,
+   "cn": "招商永隆资产管理有限公司",
+   "en": "CMB Wing Lung Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2013-12-30",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 269,
+   "cn": "承壹投资管理有限公司",
+   "en": "Veracity Investment Co., Limited",
+   "region": "中国香港",
+   "approved": "2014-01-20",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 270,
+   "cn": "易亚投资管理有限公司",
+   "en": "Enhanced Investment Products Limited",
+   "region": "中国香港",
+   "approved": "2014-01-20",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 271,
+   "cn": "华盛顿大学",
+   "en": "The Washington University",
+   "region": "美国",
+   "approved": "2014-01-23",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 272,
+   "cn": "澳门金融管理局",
+   "en": "Monetary Authority of Macao",
+   "region": "中国澳门",
+   "approved": "2014-01-27",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 273,
+   "cn": "史帝夫尼可洛司股份有限公司",
+   "en": "Stifel Nicolaus & Company, Inc.",
+   "region": "美国",
+   "approved": "2014-01-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 274,
+   "cn": "Invesco PowerShares资产管理有限公司",
+   "en": "Invesco PowerShares Capital Management LLC",
+   "region": "美国",
+   "approved": "2014-01-27",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 275,
+   "cn": "瑞士再保险亚洲私人有限公司",
+   "en": "Swiss RE Asia PTE. LTD.",
+   "region": "瑞士",
+   "approved": "2014-01-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 276,
+   "cn": "Nordea投资管理公司",
+   "en": "Nordea Investment Management AB",
+   "region": "瑞典",
+   "approved": "2014-01-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 277,
+   "cn": "嘉理资产管理有限公司",
+   "en": "Galaxy Asset Management (H.K.) Limited",
+   "region": "中国香港",
+   "approved": "2014-03-06",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 278,
+   "cn": "施罗德投资管理（香港）有限公司",
+   "en": "Schroder Investment Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2014-03-06",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 279,
+   "cn": "街口证券投资信托股份有限公司",
+   "en": "JKO Asset Management Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2014-03-11",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 280,
+   "cn": "喀斯喀特有限责任公司",
+   "en": "Cascade Investment, L.L.C.",
+   "region": "美国",
+   "approved": "2014-03-11",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 281,
+   "cn": "铭基国际投资公司",
+   "en": "Matthews International Capital Management, LLC",
+   "region": "美国",
+   "approved": "2014-03-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 282,
+   "cn": "奥本海默基金公司",
+   "en": "Oppenheimer Funds, Inc.",
+   "region": "美国",
+   "approved": "2014-03-19",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 283,
+   "cn": "越秀资产管理有限公司",
+   "en": "Yue Xiu Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2014-03-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 284,
+   "cn": "润晖投资管理香港有限公司",
+   "en": "Cephei Capital Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2014-03-27",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 285,
+   "cn": "高观投资有限公司",
+   "en": "Overlook Investments Limited",
+   "region": "中国香港",
+   "approved": "2014-04-08",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 286,
+   "cn": "赤子之心资本亚洲有限公司",
+   "en": "Pureheart Capital Asia Limited",
+   "region": "中国香港",
+   "approved": "2014-04-15",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 287,
+   "cn": "奥明资产管理亚洲有限公司",
+   "en": "Amova Asset Management Asia Limited",
+   "region": "新加坡",
+   "approved": "2014-05-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 288,
+   "cn": "辉立资本管理（香港）有限公司",
+   "en": "Phillip Capital Management (HK) Ltd",
+   "region": "中国香港",
+   "approved": "2014-06-03",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 289,
+   "cn": "台新国际商业银行股份有限公司",
+   "en": "Taishin International Bank",
+   "region": "中国台湾",
+   "approved": "2014-06-03",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 290,
+   "cn": "长盛基金（香港）有限公司",
+   "en": "Changsheng Fund Management (H.K.) Limited",
+   "region": "中国香港",
+   "approved": "2014-06-12",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 291,
+   "cn": "贝莱德顾问（英国）有限公司",
+   "en": "BlackRock Advisors (UK) Limited",
+   "region": "英国",
+   "approved": "2014-06-13",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 292,
+   "cn": "汇丰环球资产管理（英国）有限公司",
+   "en": "HSBC Global Asset Management (UK) Limited",
+   "region": "英国",
+   "approved": "2014-06-16",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 293,
+   "cn": "花旗集团基金管理有限公司",
+   "en": "Citigroup First Investment Management Limited",
+   "region": "中国香港",
+   "approved": "2014-06-16",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 294,
+   "cn": "中泰金融国际有限公司",
+   "en": "Zhongtai Financial International Limited",
+   "region": "中国香港",
+   "approved": "2014-06-27",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 295,
+   "cn": "三星资产运用（香港）有限公司",
+   "en": "Samsung Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2014-06-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 296,
+   "cn": "爱斯普乐基金管理公司",
+   "en": "ASSETPLUS Investment Management Co., Ltd.",
+   "region": "韩国",
+   "approved": "2014-07-24",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 297,
+   "cn": "新华资产管理（香港）有限公司",
+   "en": "New China Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2014-07-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 298,
+   "cn": "彭博家族基金会",
+   "en": "The Bloomberg Family Foundation Inc.",
+   "region": "美国",
+   "approved": "2014-07-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 299,
+   "cn": "石溪集团",
+   "en": "The Rock Creek Group, LP.",
+   "region": "美国",
+   "approved": "2014-07-28",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 300,
+   "cn": "财通国际资产管理有限公司",
+   "en": "Caitong International Asset Management Co., Limited",
+   "region": "中国香港",
+   "approved": "2014-08-12",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 301,
+   "cn": "联博香港有限公司",
+   "en": "AllianceBernstein Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2014-08-12",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 302,
+   "cn": "元大证券（香港）有限公司",
+   "en": "Yuanta Securities (Hong Kong) Company Limited",
+   "region": "中国香港",
+   "approved": "2014-08-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 304,
+   "cn": "法国巴黎资产管理（欧洲）",
+   "en": "BNP PARIBAS ASSET MANAGEMENT Europe",
+   "region": "法国",
+   "approved": "2014-08-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 305,
+   "cn": "凯敏雅克资产管理公司",
+   "en": "Carmignac Gestion",
+   "region": "法国",
+   "approved": "2014-09-19",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 306,
+   "cn": "麻省理工学院",
+   "en": "Massachusetts Institute of Technology",
+   "region": "美国",
+   "approved": "2014-09-19",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 307,
+   "cn": "万金全球香港有限公司",
+   "en": "Viking Global Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2014-09-22",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 308,
+   "cn": "高盛国际",
+   "en": "Goldman Sachs International",
+   "region": "英国",
+   "approved": "2014-09-22",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 309,
+   "cn": "融通国际资产管理有限公司",
+   "en": "Rongtong Global Investment Limited",
+   "region": "中国香港",
+   "approved": "2014-10-08",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 310,
+   "cn": "上海商业银行有限公司",
+   "en": "Shanghai Commercial Bank Limited",
+   "region": "中国香港",
+   "approved": "2014-10-13",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 311,
+   "cn": "中诚国际资本有限公司",
+   "en": "CCTIC International Limited",
+   "region": "中国香港",
+   "approved": "2014-10-31",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 312,
+   "cn": "亨茂资产管理有限公司",
+   "en": "Hamon Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2014-11-19",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 313,
+   "cn": "赛德堡资本（英国）有限公司",
+   "en": "Cederberg Capital UK LLP",
+   "region": "英国",
+   "approved": "2014-11-19",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 314,
+   "cn": "霸菱资产管理（亚洲）有限公司",
+   "en": "Baring Asset Management (Asia) Limited",
+   "region": "中国香港",
+   "approved": "2014-11-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 315,
+   "cn": "信安资金管理（亚洲）有限公司",
+   "en": "Principal Asset Management Company (Asia) Limited",
+   "region": "中国香港",
+   "approved": "2014-11-25",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 316,
+   "cn": "施罗德投资管理（新加坡）有限公司",
+   "en": "Schroder Investment Management  (Singapore) Ltd",
+   "region": "新加坡",
+   "approved": "2014-12-01",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 317,
+   "cn": "未来资产环球投资有限公司",
+   "en": "Mirae Asset Global Investment Co., Ltd",
+   "region": "韩国",
+   "approved": "2014-12-04",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 318,
+   "cn": "威灵顿投资管理国际有限公司",
+   "en": "Wellington Management International Limited",
+   "region": "英国",
+   "approved": "2014-12-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 319,
+   "cn": "摩根资产管理（新加坡）有限公司",
+   "en": "JPMorgan Asset Management (Singapore) Limited",
+   "region": "新加坡",
+   "approved": "2014-12-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 320,
+   "cn": "NH-AMUNDI资产管理有限公司",
+   "en": "NH-AMUNDI Asset Management Co., Ltd.",
+   "region": "韩国",
+   "approved": "2014-12-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 321,
+   "cn": "加百利投资管理（香港）有限公司",
+   "en": "Total Invest Group Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2014-12-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 322,
+   "cn": "申万宏源投资管理（亚洲）有限公司",
+   "en": "Shenwan Hongyuan Asset Management (Asia) Limited",
+   "region": "中国香港",
+   "approved": "2014-12-30",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 323,
+   "cn": "宾夕法尼亚大学校董会",
+   "en": "Trustees of the University of Pennsylvania",
+   "region": "美国",
+   "approved": "2015-01-05",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 324,
+   "cn": "广发资产管理（香港）有限公司",
+   "en": "GF Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2015-01-07",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 325,
+   "cn": "路博迈新加坡有限公司",
+   "en": "Neuberger Berman Singapore Pte. Limited",
+   "region": "新加坡",
+   "approved": "2015-01-22",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 326,
+   "cn": "TRUSTON资产管理有限公司",
+   "en": "TRUSTON Asset Management Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-01-22",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 327,
+   "cn": "大信资产运用株式会社",
+   "en": "Daishin Asset Management Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-01-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 328,
+   "cn": "麦盛资产管理（亚洲）有限公司",
+   "en": "Munsun Asset Management (Asia) Limited",
+   "region": "中国香港",
+   "approved": "2015-01-22",
+   "trustee": "兴业银行"
+  },
+  {
+   "seq": 329,
+   "cn": "景顺投资管理有限公司",
+   "en": "Invesco Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2015-02-06",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 330,
+   "cn": "MY Asset投资管理有限公司",
+   "en": "MY Asset Investment  Management Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-02-06",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 331,
+   "cn": "新韩投资证券股份有限公司",
+   "en": "Shinhan Securities Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-02-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 332,
+   "cn": "兴国资产管理",
+   "en": "Heungkuk Asset Management",
+   "region": "韩国",
+   "approved": "2015-02-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 333,
+   "cn": "英杰华投资亚洲私人有限公司",
+   "en": "Aviva Investors Asia Pte. Limited",
+   "region": "新加坡",
+   "approved": "2015-02-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 334,
+   "cn": "玉山商业银行股份有限公司",
+   "en": "E.SUN COMMERCIAL BANK, LTD.",
+   "region": "中国台湾",
+   "approved": "2015-02-27",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 335,
+   "cn": "KKR新加坡有限公司",
+   "en": "KKR Singapore Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2015-03-02",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 336,
+   "cn": "领航投资澳洲有限公司",
+   "en": "Vanguard Investment Australia Ltd",
+   "region": "澳大利亚",
+   "approved": "2015-03-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 337,
+   "cn": "兴元投资管理有限公司",
+   "en": "Genesis Investment Management, LLP",
+   "region": "英国",
+   "approved": "2015-03-06",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 338,
+   "cn": "未来资产证券 株式会社",
+   "en": "MIRAE ASSET SECURITIES CO., LTD.",
+   "region": "韩国",
+   "approved": "2015-03-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 339,
+   "cn": "加利福尼亚大学校董会",
+   "en": "The Regents of the University of California",
+   "region": "美国",
+   "approved": "2015-03-25",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 340,
+   "cn": "信诚资产管理（新加坡）有限公司",
+   "en": "Reliance Asset Management (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2015-03-31",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 341,
+   "cn": "三星生命保险（株）",
+   "en": "Samsung Life Insurance Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-03-31",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 342,
+   "cn": "教保安盛资产运用（株）",
+   "en": "Kyobo AXA Investment Managers Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-04-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 343,
+   "cn": "凯济基金管理有限公司",
+   "en": "KCGI Asset Management Company",
+   "region": "韩国",
+   "approved": "2015-04-08",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 344,
+   "cn": "安联环球投资新加坡有限公司",
+   "en": "Allianz Global Investors Singapore Limited",
+   "region": "新加坡",
+   "approved": "2015-04-08",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 345,
+   "cn": "方圆基金管理（香港）有限公司",
+   "en": "Prudence Investment Management (Hong Kong) Ltd.",
+   "region": "中国香港",
+   "approved": "2015-04-08",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 346,
+   "cn": "三星证券株式会社",
+   "en": "Samsung Securities Co., Ltd",
+   "region": "韩国",
+   "approved": "2015-04-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 347,
+   "cn": "GAM国际管理有限公司",
+   "en": "GAM International Management Limited",
+   "region": "英国",
+   "approved": "2015-04-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 348,
+   "cn": "华宜资产运用株式会社",
+   "en": "HI Asset Management",
+   "region": "韩国",
+   "approved": "2015-05-06",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 349,
+   "cn": "文莱投资局",
+   "en": "Brunei Investment Agency",
+   "region": "文莱",
+   "approved": "2015-05-07",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 350,
+   "cn": "台湾银行股份有限公司",
+   "en": "Bank of Taiwan",
+   "region": "中国台湾",
+   "approved": "2015-05-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 351,
+   "cn": "淡水泉（香港）投资管理有限公司",
+   "en": "Springs Capital (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2015-05-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 352,
+   "cn": "安联证券投资信托股份有限公司",
+   "en": "Allianz Global Investors Taiwan Limited",
+   "region": "中国台湾",
+   "approved": "2015-05-21",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 353,
+   "cn": "瑞士再保险股份有限公司",
+   "en": "Swiss Reinsurance Company Ltd",
+   "region": "瑞士",
+   "approved": "2015-06-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 354,
+   "cn": "国投证券资产管理（香港）有限公司",
+   "en": "SDIC Securities Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2015-06-02",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 355,
+   "cn": "CI投资管理公司",
+   "en": "CI Investments Inc.",
+   "region": "加拿大",
+   "approved": "2015-06-29",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 356,
+   "cn": "元大证券株式会社",
+   "en": "Yuanta Securities Korea Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-07-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 357,
+   "cn": "大信证券（株）",
+   "en": "Daishin Securities Co., Ltd",
+   "region": "韩国",
+   "approved": "2015-07-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 358,
+   "cn": "UBI资产管理公司",
+   "en": "Union Bancaire Gestion Institutionnelle (France) SAS",
+   "region": "法国",
+   "approved": "2015-07-28",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 359,
+   "cn": "韩国投资证券株式会社",
+   "en": "Korea Investment & Securities Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-08-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 360,
+   "cn": "IBK投资证券株式会社",
+   "en": "IBK Securities Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-08-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 361,
+   "cn": "三星火灾海上保险公司",
+   "en": "Samsung Fire & Marine Insurance Co., Ltd.",
+   "region": "韩国",
+   "approved": "2015-08-31",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 362,
+   "cn": "东方汇理资产管理新加坡有限公司",
+   "en": "Amundi Singapore Limited",
+   "region": "新加坡",
+   "approved": "2015-08-31",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 363,
+   "cn": "忠诚保险有限公司",
+   "en": "Fidelidade-Companhia de Seguros, S.A.",
+   "region": "葡萄牙",
+   "approved": "2015-08-31",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 364,
+   "cn": "东方汇理资产管理",
+   "en": "Amundi Asset Management",
+   "region": "法国",
+   "approved": "2015-09-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 365,
+   "cn": "Kiwoom投资资产管理有限公司",
+   "en": "Kiwoom Asset Management Co., Ltd",
+   "region": "韩国",
+   "approved": "2015-09-23",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 366,
+   "cn": "现代投资公司（株）",
+   "en": "Hyundai Investments Co., Ltd",
+   "region": "韩国",
+   "approved": "2015-10-09",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 367,
+   "cn": "挚信投资顾问（香港）有限公司",
+   "en": "TBP Investment Advisory (HK) Limited",
+   "region": "中国香港",
+   "approved": "2015-10-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 368,
+   "cn": "中国工商银行（欧洲）有限公司",
+   "en": "Industrial and Commercial Bank of China (Europe) S.A.",
+   "region": "卢森堡",
+   "approved": "2015-11-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 369,
+   "cn": "瀚亚证券投资信托股份有限公司",
+   "en": "Eastspring Securities Investment Trust Co. Ltd.",
+   "region": "中国台湾",
+   "approved": "2015-11-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 370,
+   "cn": "中国银行（欧洲）有限公司",
+   "en": "Bank of China (Europe) S.A.",
+   "region": "卢森堡",
+   "approved": "2015-11-03",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 371,
+   "cn": "柏瑞证券投资信托股份有限公司",
+   "en": "PineBridge Investments Management Taiwan Limited",
+   "region": "中国台湾",
+   "approved": "2015-11-24",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 372,
+   "cn": "保宁资本有限公司",
+   "en": "Polunin Capital Partners Limited",
+   "region": "英国",
+   "approved": "2016-01-13",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 373,
+   "cn": "贝莱德（新加坡）有限公司",
+   "en": "BlackRock (Singapore) Limited",
+   "region": "新加坡",
+   "approved": "2016-01-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 374,
+   "cn": "野村资产管理欧洲有限公司",
+   "en": "Nomura Asset Management Europe KVG mbH",
+   "region": "德国",
+   "approved": "2016-02-01",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 375,
+   "cn": "法国工商信贷银行有限公司",
+   "en": "Credit Industriel et Commercial S.A.",
+   "region": "法国",
+   "approved": "2016-02-22",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 376,
+   "cn": "忠利投资卢森堡有限公司",
+   "en": "Generali Investments Luxembourg S.A.",
+   "region": "卢森堡",
+   "approved": "2016-02-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 377,
+   "cn": "OCTO资产管理公司",
+   "en": "OCTO Asset Management",
+   "region": "法国",
+   "approved": "2016-02-26",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 378,
+   "cn": "Avanda投资管理私人有限公司",
+   "en": "Avanda Investment Management Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2016-03-15",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 379,
+   "cn": "瀚亚投资（新加坡）有限公司",
+   "en": "Eastspring Investments (Singapore) Limited",
+   "region": "新加坡",
+   "approved": "2016-03-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 380,
+   "cn": "国泰全球投资管理有限公司",
+   "en": "Guotai Global Investments Limited",
+   "region": "中国香港",
+   "approved": "2016-03-17",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 381,
+   "cn": "广发金融交易（英国）有限公司",
+   "en": "GF Financial Markets (UK) Limited",
+   "region": "英国",
+   "approved": "2016-04-01",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 382,
+   "cn": "安盛投资管理有限公司（巴黎）",
+   "en": "AXA Investment Managers Paris",
+   "region": "法国",
+   "approved": "2016-04-01",
+   "trustee": "浦发银行"
+  },
+  {
+   "seq": 383,
+   "cn": "辉立资金管理有限公司",
+   "en": "Phillip Capital Management (S) Ltd",
+   "region": "新加坡",
+   "approved": "2016-04-26",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 384,
+   "cn": "第一商业银行股份有限公司",
+   "en": "First Commercial Bank, Ltd.",
+   "region": "中国台湾",
+   "approved": "2016-05-03",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 385,
+   "cn": "迈达思基金管理有限公司",
+   "en": "Midas International Asset Management Ltd.",
+   "region": "韩国",
+   "approved": "2016-05-06",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 386,
+   "cn": "富达投资管理（新加坡）有限公司",
+   "en": "Fidelity Investments (Singapore) Limited",
+   "region": "新加坡",
+   "approved": "2016-06-06",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 387,
+   "cn": "爱德蒙得洛希尔资产管理（法国）有限公司",
+   "en": "Edmond de Rothschild Asset Management (France)",
+   "region": "法国",
+   "approved": "2016-06-08",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 388,
+   "cn": "荷宝卢森堡股份有限公司",
+   "en": "Robeco Luxembourg S.A.",
+   "region": "卢森堡",
+   "approved": "2016-06-08",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 389,
+   "cn": "有进投资证券公司",
+   "en": "Eugene Investment  & Securities Co., Ltd.",
+   "region": "韩国",
+   "approved": "2016-08-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 390,
+   "cn": "中国光大证券资产管理有限公司",
+   "en": "China Everbright Securities Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2016-08-12",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 391,
+   "cn": "株式会社新韩银行",
+   "en": "Shinhan Bank Co., Ltd.",
+   "region": "韩国",
+   "approved": "2016-08-22",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 392,
+   "cn": "领航集团有限公司",
+   "en": "The Vanguard Group, Inc.",
+   "region": "美国",
+   "approved": "2016-09-01",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 393,
+   "cn": "开泰基金管理有限公司",
+   "en": "Kasikorn Asset Management Co., Ltd",
+   "region": "泰国",
+   "approved": "2016-09-09",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 394,
+   "cn": "中邮创业国际资产管理有限公司",
+   "en": "China Post & Capital Global Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2016-09-09",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 395,
+   "cn": "摩根大通证券股份有限公司",
+   "en": "J.P. Morgan Securities plc",
+   "region": "英国",
+   "approved": "2016-09-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 396,
+   "cn": "罗素投资管理（澳大利亚）有限公司",
+   "en": "Russell Investment Management Limited",
+   "region": "澳大利亚",
+   "approved": "2016-10-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 397,
+   "cn": "贝莱德基金顾问公司",
+   "en": "BlackRock Fund Advisors",
+   "region": "美国",
+   "approved": "2016-11-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 398,
+   "cn": "Lemanik资产管理股份有限公司",
+   "en": "Lemanik Asset Management S.A.",
+   "region": "卢森堡",
+   "approved": "2016-11-25",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 399,
+   "cn": "东方汇理资产管理（卢森堡）公司",
+   "en": "Amundi Luxembourg S.A.",
+   "region": "卢森堡",
+   "approved": "2016-12-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 400,
+   "cn": "招银国际资产管理有限公司",
+   "en": "CMB International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2017-01-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 401,
+   "cn": "北银国际资产管理有限公司",
+   "en": "BOB International Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2017-01-10",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 402,
+   "cn": "信安资产管理有限公司",
+   "en": "Principal Asset Management Berhad",
+   "region": "马来西亚",
+   "approved": "2017-01-18",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 403,
+   "cn": "Aware养老金私人有限公司",
+   "en": "Aware Super Pty Ltd",
+   "region": "澳大利亚",
+   "approved": "2017-01-18",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 404,
+   "cn": "海通银行",
+   "en": "Haitong Bank, S.A.",
+   "region": "葡萄牙",
+   "approved": "2017-02-13",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 405,
+   "cn": "范达投资有限公司",
+   "en": "VanEck Investments Limited",
+   "region": "澳大利亚",
+   "approved": "2017-02-23",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 406,
+   "cn": "兴证国际资产管理有限公司",
+   "en": "China Industrial Securities International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2017-06-19",
+   "trustee": "兴业银行"
+  },
+  {
+   "seq": 407,
+   "cn": "申万宏源新加坡私人有限公司",
+   "en": "Shenwan Hongyuan Singapore Private Limited",
+   "region": "新加坡",
+   "approved": "2017-07-27",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 408,
+   "cn": "Acadian资产管理有限责任公司",
+   "en": "Acadian Asset Management LLC",
+   "region": "美国",
+   "approved": "2017-07-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 409,
+   "cn": "山证国际资产管理有限公司",
+   "en": "Shanxi Securities International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2017-08-14",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 410,
+   "cn": "新加坡联盟投资管理有限公司",
+   "en": "Singapore Consortium Investment Management Limited",
+   "region": "新加坡",
+   "approved": "2017-08-18",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 411,
+   "cn": "WisdomTree资产管理公司",
+   "en": "WisdomTree Asset Management, Inc.",
+   "region": "美国",
+   "approved": "2017-10-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 412,
+   "cn": "荷兰汇盈资产管理公司",
+   "en": "APG Asset Management N.V.",
+   "region": "荷兰",
+   "approved": "2017-11-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 413,
+   "cn": "海克利尔国际投资有限责任公司",
+   "en": "Highclere International Investors LLP",
+   "region": "英国",
+   "approved": "2018-01-08",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 414,
+   "cn": "美国桥水投资公司",
+   "en": "Bridgewater Associates, LP",
+   "region": "美国",
+   "approved": "2018-05-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 415,
+   "cn": "道富环球投资爱尔兰有限公司",
+   "en": "State Street Global Advisors Ireland Limited",
+   "region": "爱尔兰",
+   "approved": "2018-05-31",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 416,
+   "cn": "道富环球投资信托公司",
+   "en": "State Street Global Advisors Trust Company",
+   "region": "美国",
+   "approved": "2018-05-31",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 417,
+   "cn": "道富环球投资资产管理有限公司",
+   "en": "SSGA Funds Management, Inc.",
+   "region": "美国",
+   "approved": "2018-05-31",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 418,
+   "cn": "道富环球投资有限公司",
+   "en": "State Street Global Advisors Limited",
+   "region": "英国",
+   "approved": "2018-05-31",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 419,
+   "cn": "富善国际资产管理（香港）有限公司",
+   "en": "Foresee Global Asset Management (HK) Limited",
+   "region": "中国香港",
+   "approved": "2018-07-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 420,
+   "cn": "WisdomTree管理有限公司",
+   "en": "WisdomTree Management limited",
+   "region": "爱尔兰",
+   "approved": "2018-08-15",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 421,
+   "cn": "中泰国际资产管理有限公司",
+   "en": "Zhongtai International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2018-08-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 422,
+   "cn": "耀之国际资产管理有限公司",
+   "en": "Yaozhi Asset Management International Co.,Limited",
+   "region": "中国香港",
+   "approved": "2018-09-06",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 423,
+   "cn": "三井住友银行股份有限公司",
+   "en": "Sumitomo Mitsui Banking Corporation",
+   "region": "日本",
+   "approved": "2018-09-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 424,
+   "cn": "银华国际资本管理公司",
+   "en": "Yinhua International Capital Management",
+   "region": "中国香港",
+   "approved": "2018-10-08",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 425,
+   "cn": "中国人保香港资产管理有限公司",
+   "en": "PICC Asset Management (Hong Kong) Company Limited",
+   "region": "中国香港",
+   "approved": "2018-10-12",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 426,
+   "cn": "世通资产管理有限公司",
+   "en": "Market Access Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2018-10-23",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 427,
+   "cn": "瑞士嘉盛银行有限公司",
+   "en": "Bank J.Safra Sarasin Ltd",
+   "region": "瑞士",
+   "approved": "2018-11-20",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 428,
+   "cn": "东吴新加坡资产管理（亚洲）有限公司",
+   "en": "Soochow Singapore Asset Management (Asia) Pte. Ltd",
+   "region": "新加坡",
+   "approved": "2018-12-03",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 429,
+   "cn": "富达管理及研究公司有限责任公司",
+   "en": "Fidelity Management & Research Company LLC",
+   "region": "美国",
+   "approved": "2018-12-18",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 430,
+   "cn": "盘谷资产管理有限公司",
+   "en": "BBL Asset Management Co.,LTD",
+   "region": "泰国",
+   "approved": "2019-02-15",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 431,
+   "cn": "柏瑞投资爱尔兰有限公司",
+   "en": "PineBridge Investments Ireland Limited",
+   "region": "爱尔兰",
+   "approved": "2019-02-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 432,
+   "cn": "思达资本（香港）有限公司",
+   "en": "Zeta Capital (H.K.) Limited",
+   "region": "中国香港",
+   "approved": "2019-02-27",
+   "trustee": "中信银行"
+  },
+  {
+   "seq": 433,
+   "cn": "国际货币基金组织",
+   "en": "International Monetary Fund",
+   "region": "nan",
+   "approved": "2019-03-05",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 434,
+   "cn": "野村新加坡有限公司",
+   "en": "Nomura Singapore Limited",
+   "region": "新加坡",
+   "approved": "2019-03-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 435,
+   "cn": "乐瑞资产管理（香港）有限公司",
+   "en": "Lakefront Asset Management (HK) Co., Limited",
+   "region": "中国香港",
+   "approved": "2019-04-17",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 436,
+   "cn": "时和资产管理有限公司",
+   "en": "Right Time Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2019-04-17",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 437,
+   "cn": "三菱日联银行股份有限公司",
+   "en": "MUFG Bank, Ltd.",
+   "region": "日本",
+   "approved": "2019-04-23",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 438,
+   "cn": "新分享资产管理有限公司",
+   "en": "Weshare Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2019-04-28",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 439,
+   "cn": "国际金融公司",
+   "en": "International Finance Corporation",
+   "region": "nan",
+   "approved": "2019-07-01",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 440,
+   "cn": "泰京资产管理股份有限公司",
+   "en": "Krung Thai Asset Management Public Company Limited",
+   "region": "泰国",
+   "approved": "2019-07-03",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 441,
+   "cn": "远信资本投资管理有限公司",
+   "en": "Vision Capital Investment Management Limited",
+   "region": "中国香港",
+   "approved": "2019-07-17",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 442,
+   "cn": "方正资产管理（香港）有限公司",
+   "en": "Founder Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2019-08-19",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 443,
+   "cn": "新永安国际资产管理有限公司",
+   "en": "Xin Yongan International Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2019-08-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 444,
+   "cn": "马歇尔·伟世有限责任公司",
+   "en": "Marshall Wace LLP",
+   "region": "英国",
+   "approved": "2019-08-22",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 445,
+   "cn": "熵一资产管理有限公司",
+   "en": "Entropy Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2019-11-08",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 446,
+   "cn": "思佰益资产管理株式会社",
+   "en": "SBI Asset Management Co., Ltd",
+   "region": "日本",
+   "approved": "2019-11-14",
+   "trustee": "民生银行"
+  },
+  {
+   "seq": 447,
+   "cn": "同方证券有限公司",
+   "en": "Tongfang Securities Limited",
+   "region": "中国香港",
+   "approved": "2019-11-26",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 448,
+   "cn": "范德堡大学",
+   "en": "The Vanderbilt University",
+   "region": "美国",
+   "approved": "2019-11-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 449,
+   "cn": "高都管理有限责任公司",
+   "en": "Coatue Management, L.L.C.",
+   "region": "美国",
+   "approved": "2019-12-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 450,
+   "cn": "复星国际证券有限公司",
+   "en": "Fosun International Securities Limited",
+   "region": "中国香港",
+   "approved": "2019-12-31",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 451,
+   "cn": "喜马拉雅资本管理公司",
+   "en": "Himalaya Capital Management LLC.",
+   "region": "美国",
+   "approved": "2020-02-12",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 452,
+   "cn": "易亚阿尔法投资管理有限公司",
+   "en": "EIP Alpha Limited",
+   "region": "中国香港",
+   "approved": "2020-02-25",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 453,
+   "cn": "绿洲管理（香港）",
+   "en": "Oasis Management（Hong Kong）",
+   "region": "中国香港",
+   "approved": "2020-03-25",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 454,
+   "cn": "金涌资本管理有限公司",
+   "en": "Goldstream Capital Management Limited",
+   "region": "中国香港",
+   "approved": "2020-04-01",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 455,
+   "cn": "Join Asset国际资产运用株式会社",
+   "en": "Join Asset Global Asset Management. Co. Ltd.",
+   "region": "韩国",
+   "approved": "2020-04-01",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 456,
+   "cn": "三井住友信托资产管理股份有限公司",
+   "en": "Sumitomo Mitsui Trust Asset Management Co., Ltd.",
+   "region": "日本",
+   "approved": "2020-04-01",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 457,
+   "cn": "华德国际资产管理有限公司",
+   "en": "Wonderland International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2020-04-07",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 458,
+   "cn": "WT资产管理有限公司",
+   "en": "WT Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2020-05-07",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 459,
+   "cn": "Baillie Gifford Overseas Limited",
+   "en": "Baillie Gifford Overseas Limited",
+   "region": "英国",
+   "approved": "2020-05-11",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 460,
+   "cn": "首源投资（香港）有限公司",
+   "en": "First Sentier Investors（Hong Kong）Limited",
+   "region": "中国香港",
+   "approved": "2020-05-13",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 461,
+   "cn": "亚升资本私人有限公司",
+   "en": "Astignes Capital Asia Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2020-05-13",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 462,
+   "cn": "C.M. 资本顾问公司",
+   "en": "C.M. Capital Advisors, LLC.",
+   "region": "美国",
+   "approved": "2020-05-13",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 463,
+   "cn": "建行证券有限公司",
+   "en": "CCB Securities Limited",
+   "region": "中国香港",
+   "approved": "2020-06-02",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 464,
+   "cn": "简街香港有限公司",
+   "en": "Jane Street Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2020-06-02",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 465,
+   "cn": "九天管理（香港）有限公司",
+   "en": "Empyrean Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2020-08-13",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 466,
+   "cn": "浦银国际投资管理有限公司",
+   "en": "SPDB International Investment Management Limited",
+   "region": "中国香港",
+   "approved": "2020-08-27",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 467,
+   "cn": "AHL有限责任合伙",
+   "en": "AHL Partners LLP",
+   "region": "英国",
+   "approved": "2020-08-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 468,
+   "cn": "格盛投资管理有限责任公司",
+   "en": "Gresham Investment Management LLC",
+   "region": "美国",
+   "approved": "2020-08-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 469,
+   "cn": "普徕仕国际有限公司",
+   "en": "T. Rowe Price International Ltd",
+   "region": "英国",
+   "approved": "2020-09-07",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 470,
+   "cn": "晋达北美公司",
+   "en": "Ninety One North America,Inc.",
+   "region": "美国",
+   "approved": "2020-09-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 471,
+   "cn": "弘业国际资产管理有限公司",
+   "en": "Holly International Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2020-09-27",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 472,
+   "cn": "立方科研资产管理有限公司",
+   "en": "Qube Research and Technologies Limited",
+   "region": "英国",
+   "approved": "2020-09-28",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 473,
+   "cn": "析理资本有限公司",
+   "en": "L&R Capital Limited",
+   "region": "中国香港",
+   "approved": "2020-10-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 474,
+   "cn": "琅润资本管理有限公司",
+   "en": "Laurion Capital Management LP.",
+   "region": "美国",
+   "approved": "2020-10-10",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 475,
+   "cn": "元盛资产管理有限公司",
+   "en": "Winton Capital Management Limited",
+   "region": "英国",
+   "approved": "2020-10-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 476,
+   "cn": "HardingLoevner有限合伙",
+   "en": "Harding Loevner LP",
+   "region": "美国",
+   "approved": "2020-11-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 477,
+   "cn": "瑞达国际资产管理（香港）有限公司",
+   "en": "Rui Da International Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2020-11-16",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 478,
+   "cn": "昊青咨询管理有限公司",
+   "en": "Hao Advisors Management Limited",
+   "region": "中国香港",
+   "approved": "2020-11-16",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 479,
+   "cn": "LAV环球管理有限公司",
+   "en": "LAV Global Management Company Limited",
+   "region": "开曼群岛",
+   "approved": "2020-11-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 480,
+   "cn": "三星风险投资株式会社",
+   "en": "Samsung Venture Investment Corporation",
+   "region": "韩国",
+   "approved": "2020-11-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 481,
+   "cn": "澳帝桦澳大利亚有限公司",
+   "en": "Optiver Australia Pty Limited",
+   "region": "澳大利亚",
+   "approved": "2020-11-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 482,
+   "cn": "立鼎证券有限公司",
+   "en": "Leading Securities Company Limited",
+   "region": "中国香港",
+   "approved": "2020-11-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 483,
+   "cn": "开域资本（新加坡）有限公司",
+   "en": "Neo-Criterion Capital Singapore Pte Ltd",
+   "region": "新加坡",
+   "approved": "2020-11-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 484,
+   "cn": "博裕资本投资管理有限公司",
+   "en": "Boyu Capital Investment Management Co., Limited",
+   "region": "中国香港",
+   "approved": "2020-11-16",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 485,
+   "cn": "ArtisanPartners有限合伙",
+   "en": "Artisan Partners Limited Partnership",
+   "region": "美国",
+   "approved": "2020-11-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 486,
+   "cn": "西北投资管理（香港）有限公司",
+   "en": "Northwest Investment Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2020-11-16",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 487,
+   "cn": "璞林资本（香港）有限公司",
+   "en": "Valliance Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2020-11-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 488,
+   "cn": "布洛德峰投资顾问有限公司",
+   "en": "Broad Peak Investment Advisers Pte Ltd",
+   "region": "新加坡",
+   "approved": "2020-11-16",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 489,
+   "cn": "金信期盈证券（香港）有限公司",
+   "en": "JQ Securities (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2020-11-17",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 490,
+   "cn": "联威投资有限公司",
+   "en": "United Gain Investment Limited",
+   "region": "中国香港",
+   "approved": "2020-11-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 491,
+   "cn": "瑞士经纬投资有限公司",
+   "en": "Longitude Asia Limited",
+   "region": "中国香港",
+   "approved": "2020-11-17",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 492,
+   "cn": "嘉谟证券有限公司",
+   "en": "Gamma Securities Limited",
+   "region": "中国香港",
+   "approved": "2020-11-23",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 493,
+   "cn": "瑞明资本有限公司",
+   "en": "Solomon Capital Management Limited",
+   "region": "中国香港",
+   "approved": "2020-11-23",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 494,
+   "cn": "利臻投资顾问有限公司",
+   "en": "Legend Arb Advisors Limited",
+   "region": "中国香港",
+   "approved": "2020-11-25",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 495,
+   "cn": "未来资产证券（香港）有限公司",
+   "en": "Mirae Asset Securities (HK) Limited",
+   "region": "中国香港",
+   "approved": "2020-12-03",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 496,
+   "cn": "中国银行（新西兰）有限公司",
+   "en": "Bank of China (New Zealand) Limited",
+   "region": "新西兰",
+   "approved": "2020-12-03",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 497,
+   "cn": "民银资产管理有限公司",
+   "en": "CMBC Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2020-12-07",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 498,
+   "cn": "美国华平有限公司",
+   "en": "Warburg Pincus LLC",
+   "region": "美国",
+   "approved": "2020-12-07",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 499,
+   "cn": "平安证券（香港）资产管理有限公司",
+   "en": "Ping An Securities (Hong Kong) Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2020-12-07",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 500,
+   "cn": "维世资产管理（香港）有限公司",
+   "en": "VS Partners (Hong Kong) Co., Limited",
+   "region": "中国香港",
+   "approved": "2020-12-10",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 501,
+   "cn": "巨柏资产管理（香港）有限公司",
+   "en": "Greatpage Capital Company Limited",
+   "region": "中国香港",
+   "approved": "2020-12-15",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 502,
+   "cn": "雅典娜私人有限公司",
+   "en": "Athenaeum Private Limited",
+   "region": "新加坡",
+   "approved": "2020-12-15",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 503,
+   "cn": "建信资产管理（香港）有限公司",
+   "en": "CCB Principal Asset Management(Hong Kong)Co.Limited",
+   "region": "中国香港",
+   "approved": "2020-12-15",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 504,
+   "cn": "中信信惠国际资本（香港）有限公司",
+   "en": "CTI Capital Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2020-12-15",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 505,
+   "cn": "德弘美元基金管理公司",
+   "en": "DCP Management, Ltd.",
+   "region": "开曼群岛",
+   "approved": "2020-12-14",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 506,
+   "cn": "彬元资本有限公司",
+   "en": "Bin Yuan Capital Limited",
+   "region": "中国香港",
+   "approved": "2020-12-14",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 507,
+   "cn": "中欧基金国际有限公司",
+   "en": "Zhong Ou Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2020-12-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 508,
+   "cn": "凯雷毛里求斯CIS投资管理有限公司",
+   "en": "Carlyle Mauritius CIS Investment Management Limited",
+   "region": "毛里求斯",
+   "approved": "2020-12-14",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 509,
+   "cn": "BFAM合伙（香港）有限公司",
+   "en": "BFAM Partners (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2020-12-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 510,
+   "cn": "幻方资本管理（香港）有限公司",
+   "en": "High-Flyer Capital Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2020-12-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 511,
+   "cn": "红杉中国投资管理有限公司",
+   "en": "HongShan Capital Advisors Limited",
+   "region": "开曼群岛",
+   "approved": "2020-12-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 512,
+   "cn": "伟华电子有限公司",
+   "en": "AVA International Limited",
+   "region": "中国香港",
+   "approved": "2020-12-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 513,
+   "cn": "山河资本管理香港咨询有限公司",
+   "en": "MY.Alpha Management HK Advisors Limited",
+   "region": "中国香港",
+   "approved": "2020-12-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 514,
+   "cn": "Systematica投资有限公司",
+   "en": "Systematica Investments Limited",
+   "region": "泽西岛",
+   "approved": "2020-12-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 515,
+   "cn": "太盟亚洲资本有限公司",
+   "en": "PAG Asia Capital Limited",
+   "region": "开曼群岛",
+   "approved": "2020-12-14",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 516,
+   "cn": "华乐资本有限公司",
+   "en": "Kadensa Capital Limited",
+   "region": "中国香港",
+   "approved": "2020-12-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 517,
+   "cn": "淘金者证券（香港）有限公司",
+   "en": "Trade Master Securities (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2020-12-14",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 518,
+   "cn": "美国金瑞基金管理有限公司",
+   "en": "Krane Funds Advisors, LLC",
+   "region": "美国",
+   "approved": "2020-12-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 519,
+   "cn": "隆奥资产管理（欧洲）有限公司",
+   "en": "Lombard Odier Asset Management (Europe) Limited",
+   "region": "英国",
+   "approved": "2020-12-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 520,
+   "cn": "双商基金管理(新加坡)私人有限公司",
+   "en": "IQ EQ Fund Management (Singapore) Private Limited",
+   "region": "新加坡",
+   "approved": "2020-12-25",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 521,
+   "cn": "裕丰资产管理有限公司",
+   "en": "Nexus Investment Advisors Limited",
+   "region": "中国香港",
+   "approved": "2021-01-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 522,
+   "cn": "布拉德斯科银行股份有限公司",
+   "en": "Banco Bradesco S/A.",
+   "region": "巴西",
+   "approved": "2021-01-05",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 523,
+   "cn": "光银国际资产管理有限公司",
+   "en": "CEB International Asset Management Corporation Limited",
+   "region": "中国香港",
+   "approved": "2021-01-05",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 524,
+   "cn": "香港资产管理有限公司",
+   "en": "Hong Kong Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2021-01-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 525,
+   "cn": "富德资产管理（香港）有限公司",
+   "en": "Funde Asset Management (Hong Kong) Company Limited",
+   "region": "中国香港",
+   "approved": "2021-01-15",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 526,
+   "cn": "保德信投资管理定量解决方案有限责任公司",
+   "en": "PGIM Quantitative Solution LLC",
+   "region": "美国",
+   "approved": "2021-01-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 527,
+   "cn": "东兴证券（香港）资产管理有限公司",
+   "en": "Dongxing Securities (Hong Kong) Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2021-01-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 528,
+   "cn": "永安国富资产管理（香港）有限公司",
+   "en": "Yongan Guofu Asset Management (Hong Kong) Company limited",
+   "region": "中国香港",
+   "approved": "2021-02-03",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 529,
+   "cn": "泓策投资管理有限公司",
+   "en": "Ortus Capital Management Limited",
+   "region": "中国香港",
+   "approved": "2021-02-09",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 530,
+   "cn": "海纳亚太有限公司",
+   "en": "SUSQUEHANNA PACIFIC PTY LTD",
+   "region": "澳大利亚",
+   "approved": "2021-02-09",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 531,
+   "cn": "新光证券投资信托股份有限公司",
+   "en": "Shin Kong Investment Trust Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2021-02-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 532,
+   "cn": "HRTC有限公司",
+   "en": "HRTC Limited",
+   "region": "开曼群岛",
+   "approved": "2021-02-10",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 533,
+   "cn": "瀚诺有限公司",
+   "en": "Henderson Rowe Limited",
+   "region": "英国",
+   "approved": "2021-02-10",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 534,
+   "cn": "才华资本管理有限公司",
+   "en": "Brilliance Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2021-02-10",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 535,
+   "cn": "德骥资本管理公司",
+   "en": "Davidson Kempner Capital Management LP",
+   "region": "美国",
+   "approved": "2021-02-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 536,
+   "cn": "泰仁资本有限公司",
+   "en": "Tairen Capital Limited",
+   "region": "中国香港",
+   "approved": "2021-02-10",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 537,
+   "cn": "锐联资产管理有限公司",
+   "en": "Rayliant Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2021-02-10",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 538,
+   "cn": "千禧新加坡资产管理有限公司",
+   "en": "Millennium Capital Management (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-02-25",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 539,
+   "cn": "建峖实业投资",
+   "en": "Janchor Partners Limited",
+   "region": "中国香港",
+   "approved": "2021-03-04",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 540,
+   "cn": "皮尔亨特公司",
+   "en": "PEEL HUNT LLP",
+   "region": "英国",
+   "approved": "2021-03-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 541,
+   "cn": "阶乘管理有限公司",
+   "en": "Factorial Management Limited",
+   "region": "中国香港",
+   "approved": "2021-03-16",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 542,
+   "cn": "金锝资产管理（香港）有限公司",
+   "en": "Jinde Asset Management (Hong Kong) Ltd",
+   "region": "中国香港",
+   "approved": "2021-03-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 543,
+   "cn": "长龙投资管理有限公司",
+   "en": "LIM Advisors Limited",
+   "region": "中国香港",
+   "approved": "2021-03-16",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 544,
+   "cn": "睿亚资产管理有限公司",
+   "en": "Premia Partners Company Limited",
+   "region": "中国香港",
+   "approved": "2021-03-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 545,
+   "cn": "Oberweis资产管理公司",
+   "en": "Oberweis Asset Management, Inc.",
+   "region": "美国",
+   "approved": "2021-03-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 546,
+   "cn": "中泰国际资产管理（新加坡）有限公司",
+   "en": "Zhongtai International Asset Management (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-03-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 547,
+   "cn": "长廊资产管理有限公司",
+   "en": "Long Corridor Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2021-03-18",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 548,
+   "cn": "凯华投资香港有限公司",
+   "en": "Fiera Capital (Asia) Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2021-03-17",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 549,
+   "cn": "胜利证券有限公司",
+   "en": "Victory Securities Company Limited",
+   "region": "中国香港",
+   "approved": "2021-03-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 550,
+   "cn": "AROHI 资产管理有限公司",
+   "en": "AROHI ASSET MANAGEMENT PTE LTD",
+   "region": "新加坡",
+   "approved": "2021-03-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 551,
+   "cn": "晨曦投资管理有限公司",
+   "en": "Anatole Investment Management Limited",
+   "region": "中国香港",
+   "approved": "2021-03-31",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 552,
+   "cn": "时富资产管理有限公司",
+   "en": "CASH ASSET MANAGEMENT LIMITED",
+   "region": "中国香港",
+   "approved": "2021-04-02",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 553,
+   "cn": "方瀛研究与投资（香港）有限公司",
+   "en": "FountainCap Research & Investment (Hong Kong) Co., Limited",
+   "region": "中国香港",
+   "approved": "2021-04-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 554,
+   "cn": "云栖资本有限公司",
+   "en": "Yunqi Capital Limited",
+   "region": "中国香港",
+   "approved": "2021-04-20",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 555,
+   "cn": "中环资产投资有限公司",
+   "en": "Central Asset Investments and Management Holdings (HK) Limited",
+   "region": "中国香港",
+   "approved": "2021-04-20",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 556,
+   "cn": "永丰金证券股份有限公司",
+   "en": "SinoPac Securities Corporation",
+   "region": "中国台湾",
+   "approved": "2021-04-20",
+   "trustee": "浦发银行"
+  },
+  {
+   "seq": 557,
+   "cn": "腾新投资有限公司",
+   "en": "Jump Trading Pacific Pte Ltd",
+   "region": "新加坡",
+   "approved": "2021-04-20",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 558,
+   "cn": "衍盛中国（香港）有限公司",
+   "en": "Derivatives China (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2021-04-20",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 559,
+   "cn": "Baillie Gifford & Co",
+   "en": "Baillie Gifford & Co",
+   "region": "英国",
+   "approved": "2021-04-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 560,
+   "cn": "鸿昇证券有限公司",
+   "en": "Hung Sing Securities Limited",
+   "region": "中国香港",
+   "approved": "2021-04-30",
+   "trustee": "中信银行"
+  },
+  {
+   "seq": 561,
+   "cn": "黑石另类投资方案有限责任公司",
+   "en": "Blackstone Alternative Solutions L.L.C.",
+   "region": "美国",
+   "approved": "2021-05-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 562,
+   "cn": "DNCA金融",
+   "en": "DNCA FINANCE",
+   "region": "法国",
+   "approved": "2021-05-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 563,
+   "cn": "华富建业资产管理有限公司",
+   "en": "Quam Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2021-05-19",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 564,
+   "cn": "Eclipse 期货（香港）有限公司",
+   "en": "Eclipse Futures (HK) Limited",
+   "region": "中国香港",
+   "approved": "2021-05-19",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 565,
+   "cn": "上信（香港）控股有限公司",
+   "en": "SITCOAM (HONG KONG) HOLDINGS LIMITED",
+   "region": "中国香港",
+   "approved": "2021-05-21",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 566,
+   "cn": "BPC有限公司",
+   "en": "Blue Pool Capital Limited",
+   "region": "中国香港",
+   "approved": "2021-05-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 567,
+   "cn": "GLP普洛斯资本投资4号香港有限公司",
+   "en": "GLP Capital Investment 4 (HK) Limited",
+   "region": "中国香港",
+   "approved": "2021-05-06",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 568,
+   "cn": "尚川实业有限公司",
+   "en": "ROY ENTERPRISES LIMITED",
+   "region": "中国香港",
+   "approved": "2021-06-28",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 569,
+   "cn": "东英投资管理有限公司",
+   "en": "OP Investment Management Limited",
+   "region": "中国香港",
+   "approved": "2021-06-17",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 570,
+   "cn": "保银资产管理有限公司",
+   "en": "Pinpoint Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2021-06-16",
+   "trustee": "平安银行"
+  },
+  {
+   "seq": 571,
+   "cn": "WCM投资管理有限责任公司",
+   "en": "WCM Investment Management, LLC",
+   "region": "美国",
+   "approved": "2021-06-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 572,
+   "cn": "迈凯希金融公司",
+   "en": "Mackenzie Financial Corporation",
+   "region": "加拿大",
+   "approved": "2021-06-11",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 573,
+   "cn": "安联环球投资亚太有限公司",
+   "en": "Allianz Global Investors Asia Pacific Limited",
+   "region": "中国香港",
+   "approved": "2021-06-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 574,
+   "cn": "Al Mehwar商业投资有限责任公司",
+   "en": "Al Mehwar Commercial Investments L.L.C.",
+   "region": "阿联酋",
+   "approved": "2021-06-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 575,
+   "cn": "元库证券有限公司",
+   "en": "SILVERBRICKS SECURITIES COMPANY LIMITED",
+   "region": "中国香港",
+   "approved": "2021-06-17",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 576,
+   "cn": "Quaero资本有限责任合伙",
+   "en": "Quaero Capital LLP",
+   "region": "英国",
+   "approved": "2021-06-18",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 577,
+   "cn": "De Tiger资本有限公司",
+   "en": "De Tiger Capital Limited",
+   "region": "中国香港",
+   "approved": "2021-06-24",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 578,
+   "cn": "大岩资本香港有限公司",
+   "en": "Jasper Capital Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2021-06-24",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 579,
+   "cn": "磊亚投资顾问有限公司",
+   "en": "Pleiad Investment Advisors Limited",
+   "region": "中国香港",
+   "approved": "2021-06-04",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 580,
+   "cn": "DTL量化投资管理有限公司",
+   "en": "Dynamic Technology Lab Private Limited",
+   "region": "新加坡",
+   "approved": "2021-07-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 581,
+   "cn": "佰利资产管理有限合伙",
+   "en": "Balyasny Asset Management L.P.",
+   "region": "美国",
+   "approved": "2021-07-05",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 582,
+   "cn": "源峰基金管理有限公司",
+   "en": "China Pinnacle Equity Management Limited",
+   "region": "中国香港",
+   "approved": "2021-07-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 583,
+   "cn": "清池资本（香港）有限公司",
+   "en": "Lake Bleu Capital (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2021-07-05",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 584,
+   "cn": "鼎亚资本（新加坡）私人有限公司",
+   "en": "Dymon Asia Capital (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-07-05",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 585,
+   "cn": "涛合研究资本新加坡有限公司",
+   "en": "TOWER RESEARCH CAPITAL (SINGAPORE) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2021-07-19",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 586,
+   "cn": "天元资本有限公司",
+   "en": "Nine Masts Capital Limited",
+   "region": "中国香港",
+   "approved": "2021-07-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 587,
+   "cn": "KENSHO控股有限公司",
+   "en": "KENSHO HOLDINGS, LLLP",
+   "region": "美国",
+   "approved": "2021-07-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 588,
+   "cn": "邮政银行资产管理公司",
+   "en": "La Banque Postale Asset Management",
+   "region": "法国",
+   "approved": "2021-07-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 589,
+   "cn": "凯基国际（香港）有限公司",
+   "en": "KGI INTERNATIONAL (HONG KONG) LIMITED",
+   "region": "中国香港",
+   "approved": "2021-07-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 590,
+   "cn": "赛格资产管理有限公司",
+   "en": "Sygnia Asset Management (Proprietary) Limited",
+   "region": "南非",
+   "approved": "2021-07-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 591,
+   "cn": "中国银河国际资产管理（香港）有限公司",
+   "en": "China Galaxy International Asset Management (Hong Kong) \nCo., Limited",
+   "region": "中国香港",
+   "approved": "2021-08-11",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 592,
+   "cn": "社会保险总局",
+   "en": "GENERAL ORGANIZATION FOR SOCIAL INSURANCE",
+   "region": "沙特阿拉伯",
+   "approved": "2021-08-19",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 593,
+   "cn": "科威特投资办公室",
+   "en": "Kuwait Investment Office",
+   "region": "科威特",
+   "approved": "2021-08-24",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 594,
+   "cn": "淡明资本私人有限公司",
+   "en": "True Light Capital Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-08-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 595,
+   "cn": "Timefolio资产管理新加坡私人投资有限公司",
+   "en": "Timefolio Asset Management Singapore Pte Ltd",
+   "region": "新加坡",
+   "approved": "2021-09-17",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 596,
+   "cn": "启行资本管理新加坡私人有限公司",
+   "en": "ExodusPoint Capital Management Singapore, Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-09-02",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 597,
+   "cn": "贝恩资本（新加坡）有限公司",
+   "en": "Bain Capital (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-09-02",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 598,
+   "cn": "无极资本管理有限公司",
+   "en": "Infini Capital Management Limited",
+   "region": "中国香港",
+   "approved": "2021-09-17",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 599,
+   "cn": "立格资本投资有限公司",
+   "en": "LyGH Capital Pte Ltd",
+   "region": "新加坡",
+   "approved": "2021-09-02",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 600,
+   "cn": "腾跃基金",
+   "en": "Teng Yue Partners, LP",
+   "region": "美国",
+   "approved": "2021-09-17",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 601,
+   "cn": "海德资产管理有限公司",
+   "en": "Ocean Arete Limited",
+   "region": "中国香港",
+   "approved": "2021-09-03",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 602,
+   "cn": "中达资产管理有限公司",
+   "en": "Central Wealth Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2021-09-02",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 603,
+   "cn": "文渊资本管理有限公司",
+   "en": "Library Research Limited",
+   "region": "中国香港",
+   "approved": "2021-09-17",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 604,
+   "cn": "LMR Partners有限公司",
+   "en": "LMR Partners Limited",
+   "region": "中国香港",
+   "approved": "2021-09-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 605,
+   "cn": "贝克兄弟顾问有限合伙",
+   "en": "Baker Bros. Advisors LP",
+   "region": "美国",
+   "approved": "2021-09-03",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 606,
+   "cn": "天风国际资产管理有限公司",
+   "en": "TFI Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2021-09-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 607,
+   "cn": "路博迈投资顾问有限责任公司",
+   "en": "Neuberger Berman Investment Advisers LLC",
+   "region": "美国",
+   "approved": "2021-09-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 608,
+   "cn": "法拉龙资本投资有限责任公司",
+   "en": "Farallon Capital Management, L.L.C.",
+   "region": "美国",
+   "approved": "2021-09-15",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 609,
+   "cn": "威廉欧奈尔全球投资顾问公司",
+   "en": "O'NEIL GLOBAL ADVISORS, INC.",
+   "region": "美国",
+   "approved": "2021-09-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 610,
+   "cn": "丰晟资本管理有限公司",
+   "en": "Vendavel Capital GP Limited",
+   "region": "开曼群岛",
+   "approved": "2021-09-24",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 611,
+   "cn": "弘源资本有限公司",
+   "en": "Fountainhead Partners Company Limited",
+   "region": "中国香港",
+   "approved": "2021-10-14",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 612,
+   "cn": "国联证券国际资产管理有限公司",
+   "en": "Guolian Securities International Asset Management Co., Limited",
+   "region": "中国香港",
+   "approved": "2021-10-28",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 613,
+   "cn": "中信证券国际资本管理有限公司",
+   "en": "CITIC Securities International Capital Management Limited",
+   "region": "英属维尔京群岛",
+   "approved": "2021-10-15",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 614,
+   "cn": "元库资产管理有限公司",
+   "en": "Silverbricks Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2021-10-28",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 615,
+   "cn": "黑石另类资产管理有限合伙",
+   "en": "Blackstone Alternative Asset Management L.P.",
+   "region": "美国",
+   "approved": "2021-10-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 616,
+   "cn": "首源投资（新加坡）",
+   "en": "First Sentier Investors (Singapore)",
+   "region": "新加坡",
+   "approved": "2021-10-26",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 617,
+   "cn": "塔菲石资本管理有限公司",
+   "en": "Taaffeite Capital Management, LLC",
+   "region": "美国",
+   "approved": "2021-11-01",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 618,
+   "cn": "好买香港有限公司",
+   "en": "Howbuy Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2021-11-01",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 619,
+   "cn": "华普资本有限公司",
+   "en": "Hartford Capital Limited",
+   "region": "中国香港",
+   "approved": "2021-11-01",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 620,
+   "cn": "第一上海证券有限公司",
+   "en": "First Shanghai Securities Limited",
+   "region": "中国香港",
+   "approved": "2021-11-01",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 621,
+   "cn": "公共投资基金",
+   "en": "Public Investment Fund",
+   "region": "沙特阿拉伯",
+   "approved": "2021-11-05",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 622,
+   "cn": "Weiss 资产管理有限合伙",
+   "en": "Weiss Asset Management LP",
+   "region": "美国",
+   "approved": "2021-11-11",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 623,
+   "cn": "南华资产管理（新加坡）有限公司",
+   "en": "Nanhua Asset Management SG Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-11-09",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 624,
+   "cn": "信银（香港）资本有限公司",
+   "en": "CNCB (Hong Kong) Capital Limited",
+   "region": "中国香港",
+   "approved": "2021-11-26",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 625,
+   "cn": "橡树资本管理有限公司",
+   "en": "Oaktree Capital Management Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-11-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 626,
+   "cn": "六福资产管理（香港）有限公司",
+   "en": "LUK FOOK ASSET MANAGEMENT (HK) LIMITED",
+   "region": "中国香港",
+   "approved": "2021-12-14",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 627,
+   "cn": "迈德瑞资产管理有限公司",
+   "en": "Metori Capital Management",
+   "region": "法国",
+   "approved": "2021-12-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 628,
+   "cn": "中国信托证券投资信托股份有限公司",
+   "en": "CTBC Investments Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2021-12-21",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 629,
+   "cn": "信安证券投资股份有限公司",
+   "en": "Security Kapitalanlage Aktiengesellschaft",
+   "region": "奥地利",
+   "approved": "2021-12-01",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 630,
+   "cn": "中国资本投资管理有限公司",
+   "en": "China Assets Investment Management Limited",
+   "region": "中国香港",
+   "approved": "2021-12-06",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 631,
+   "cn": "加皇环球资产管理（亚洲）有限公司",
+   "en": "RBC Global Asset Management (Asia) Limited",
+   "region": "中国香港",
+   "approved": "2021-12-02",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 632,
+   "cn": "盛富德战略顾问（新加坡）有限公司",
+   "en": "Schonfeld Strategic Advisors (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2021-12-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 633,
+   "cn": "安本香港有限公司",
+   "en": "abrdn Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2021-12-23",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 634,
+   "cn": "亿度资本合伙人有限公司",
+   "en": "Indus Capital Partners, LLC",
+   "region": "美国",
+   "approved": "2022-01-12",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 635,
+   "cn": "SPB银行股份公司",
+   "en": "Public Joint Stock Company \"SPB Bank\"",
+   "region": "俄罗斯",
+   "approved": "2022-01-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 636,
+   "cn": "融石资本有限公司 （新加坡）",
+   "en": "Rockstead Capital Private Limited",
+   "region": "新加坡",
+   "approved": "2022-01-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 637,
+   "cn": "东方汇理意大利有限公司",
+   "en": "Amundi SGR S.p.A.",
+   "region": "意大利",
+   "approved": "2022-01-29",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 638,
+   "cn": "首源投资RQI私人有限公司",
+   "en": "First Sentier Investors RQI Pty Ltd",
+   "region": "澳大利亚",
+   "approved": "2022-02-18",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 639,
+   "cn": "首源投资（澳大利亚）IM有限公司",
+   "en": "First Sentier Investors (Australia) IM Ltd",
+   "region": "澳大利亚",
+   "approved": "2022-02-18",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 640,
+   "cn": "首源投资（澳大利亚）RE有限公司",
+   "en": "First Sentier Investors (Australia) RE Ltd",
+   "region": "澳大利亚",
+   "approved": "2022-02-18",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 641,
+   "cn": "灯塔投资合伙有限公司",
+   "en": "Lighthouse Investment Partners, LLC",
+   "region": "美国",
+   "approved": "2022-02-17",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 642,
+   "cn": "瑞橡资本管理有限公司",
+   "en": "OAKWISE CAPITAL MANAGEMENT LIMITED",
+   "region": "中国香港",
+   "approved": "2022-02-28",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 643,
+   "cn": "首程控股有限公司",
+   "en": "Shoucheng Holdings Limited",
+   "region": "中国香港",
+   "approved": "2022-03-01",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 644,
+   "cn": "东方资产管理（香港）有限公司",
+   "en": "Orient Asset Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2022-03-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 645,
+   "cn": "禾瑞添资本管理有限公司",
+   "en": "Heritage Capital Management Pte Ltd",
+   "region": "新加坡",
+   "approved": "2022-03-18",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 646,
+   "cn": "Origin资产管理有限责任合伙",
+   "en": "Origin Asset Management Limited Liability Partnership",
+   "region": "英国",
+   "approved": "2022-03-25",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 647,
+   "cn": "瀚嘉资产管理有限公司",
+   "en": "First Plus Asset Management Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2022-04-06",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 648,
+   "cn": "中国太保投资管理(香港)有限公司",
+   "en": "CPIC Investment Management (H.K.) Company Limited",
+   "region": "中国香港",
+   "approved": "2022-04-06",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 649,
+   "cn": "博领资产管理有限公司",
+   "en": "Primas Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2022-04-19",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 650,
+   "cn": "摩根大通基石有限公司",
+   "en": "JPMorgan Chase Funding Inc.",
+   "region": "美国",
+   "approved": "2022-04-22",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 651,
+   "cn": "美国富港银行",
+   "en": "CB INTERNATIONAL BANK LLC",
+   "region": "美国",
+   "approved": "2022-04-25",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 652,
+   "cn": "胜利资本管理公司",
+   "en": "Victory Capital Management Inc.",
+   "region": "美国",
+   "approved": "2022-04-27",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 653,
+   "cn": "瓦萨奇顾问有限合伙",
+   "en": "Wasatch Advisors LP",
+   "region": "美国",
+   "approved": "2022-05-06",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 654,
+   "cn": "阿托斯资本有限公司",
+   "en": "Athos Capital Limited",
+   "region": "中国香港",
+   "approved": "2022-05-13",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 655,
+   "cn": "盛诺金基金管理有限公司",
+   "en": "Synergy Fund Management Group Limited",
+   "region": "中国香港",
+   "approved": "2022-05-13",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 656,
+   "cn": "南方东英资产管理有限公司（新加坡）",
+   "en": "CSOP Asset Management Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2022-05-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 657,
+   "cn": "璟裕资本管理有限公司",
+   "en": "Avantua Capital Management Limited",
+   "region": "中国香港",
+   "approved": "2022-05-17",
+   "trustee": "兴业银行"
+  },
+  {
+   "seq": 658,
+   "cn": "澎睿投资管理有限公司",
+   "en": "Paradice Investment Management LLC",
+   "region": "美国",
+   "approved": "2022-05-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 659,
+   "cn": "福途新加坡私人有限公司",
+   "en": "Virtu Financial Singapore Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2022-05-29",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 660,
+   "cn": "博石资本有限公司",
+   "en": "BESTONE CAPITAL LIMITED",
+   "region": "中国香港",
+   "approved": "2022-05-29",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 661,
+   "cn": "盛诺投资有限合伙",
+   "en": "Cerno Capital Partners LLP",
+   "region": "英国",
+   "approved": "2022-05-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 662,
+   "cn": "高腾国际资产管理有限公司",
+   "en": "GaoTeng Global Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2022-06-07",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 663,
+   "cn": "Numeric投资者有限责任公司",
+   "en": "Numeric Investors LLC",
+   "region": "美国",
+   "approved": "2022-06-13",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 664,
+   "cn": "林顿顾问（香港）有限公司",
+   "en": "Linden Advisors (HK) Limited",
+   "region": "中国香港",
+   "approved": "2022-07-18",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 665,
+   "cn": "欧力士亚洲资本有限公司",
+   "en": "ORIX Asia Capital Limited",
+   "region": "中国香港",
+   "approved": "2022-07-18",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 666,
+   "cn": "Investmath有限公司",
+   "en": "Investmath Private Limited",
+   "region": "新加坡",
+   "approved": "2022-07-19",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 667,
+   "cn": "BlueCrest资本管理泽西有限公司",
+   "en": "BlueCrest Capital Management Jersey Limited",
+   "region": "泽西岛",
+   "approved": "2022-07-22",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 668,
+   "cn": "Connor, Clark & Lunn 投资管理有限公司",
+   "en": "Connor, Clark & Lunn Investment Management Ltd.",
+   "region": "加拿大",
+   "approved": "2022-08-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 669,
+   "cn": "联丰亨保险有限公司",
+   "en": "LUEN FUNG HANG INSURANCE COMPANY LIMITED",
+   "region": "中国澳门",
+   "approved": "2022-08-18",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 670,
+   "cn": "联丰亨人寿保险股份有限公司",
+   "en": "LUEN FUNG HANG LIFE LIMITED",
+   "region": "中国澳门",
+   "approved": "2022-08-18",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 671,
+   "cn": "Alpha Oryx有限公司",
+   "en": "Alpha Oryx Limited",
+   "region": "阿联酋",
+   "approved": "2022-08-18",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 672,
+   "cn": "澳门国际银行股份有限公司",
+   "en": "LUSO INTERNATIONAL BANKING LTD.",
+   "region": "中国澳门",
+   "approved": "2022-08-18",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 673,
+   "cn": "志投顾问有限公司",
+   "en": "True Partner Advisor Limited.",
+   "region": "开曼群岛",
+   "approved": "2022-08-24",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 674,
+   "cn": "自由金融全球有限公司",
+   "en": "Freedom Finance Global PLC",
+   "region": "哈萨克斯坦",
+   "approved": "2022-09-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 675,
+   "cn": "富盈交易亚洲有限公司",
+   "en": "FLOW TRADERS ASIA PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2022-09-15",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 676,
+   "cn": "德劭（亚太）有限公司",
+   "en": "D. E. Shaw & Co. (Asia Pacific) Limited",
+   "region": "中国香港",
+   "approved": "2022-09-15",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 677,
+   "cn": "ASL证券股份有限公司",
+   "en": "ASL SECURITIES COMPANY LIMITED",
+   "region": "泰国",
+   "approved": "2022-09-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 678,
+   "cn": "ALT投资管理有限公司",
+   "en": "ALT Investment Management Ltd.",
+   "region": "开曼群岛",
+   "approved": "2022-09-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 679,
+   "cn": "信庭投资国际有限公司",
+   "en": "Cithara Investment International Limited",
+   "region": "中国香港",
+   "approved": "2022-09-26",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 680,
+   "cn": "英卓投资管理有限公司",
+   "en": "M&G Investment Management Limited",
+   "region": "英国",
+   "approved": "2022-09-26",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 681,
+   "cn": "拔萃国际资产管理有限公司",
+   "en": "BC Global Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2022-09-27",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 682,
+   "cn": "橄榄树资本市场有限公司",
+   "en": "OLIVE TREE CAPITAL MARKETS LIMITED",
+   "region": "塞浦路斯",
+   "approved": "2022-09-28",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 683,
+   "cn": "百润资本管理公司",
+   "en": "Baron Capital Management, Inc.",
+   "region": "美国",
+   "approved": "2022-09-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 684,
+   "cn": "BAMCO公司",
+   "en": "BAMCO, Inc.",
+   "region": "美国",
+   "approved": "2022-09-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 685,
+   "cn": "焦点视野FZCO",
+   "en": "FOCUS VISION FZCO",
+   "region": "阿联酋",
+   "approved": "2022-10-11",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 686,
+   "cn": "亚狮资本（香港）有限公司",
+   "en": "Asia Lion Capital (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2022-10-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 687,
+   "cn": "梅萨投资合伙公司",
+   "en": "Mesa Investment Partners, LLC",
+   "region": "美国",
+   "approved": "2022-10-26",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 688,
+   "cn": "领升基金管理公司",
+   "en": "COLLINSON FUNDS MANAGEMENT LIMITED",
+   "region": "新西兰",
+   "approved": "2022-11-01",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 689,
+   "cn": "圣彼得堡银行",
+   "en": "Bank Saint-Petersburg",
+   "region": "俄罗斯",
+   "approved": "2022-11-04",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 690,
+   "cn": "兴隆国际金业交易有限公司",
+   "en": "MTS GOLD GLOBAL TRADING PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2022-11-07",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 691,
+   "cn": "约翰街资本有限公司",
+   "en": "John Street Capital Limited",
+   "region": "英国",
+   "approved": "2022-11-07",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 692,
+   "cn": "亮点资本有限公司",
+   "en": "Bright Point Capital Pte Ltd",
+   "region": "新加坡",
+   "approved": "2022-11-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 693,
+   "cn": "威灵顿管理香港有限公司",
+   "en": "Wellington Management Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2022-11-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 694,
+   "cn": "复瑞渤商贸新加坡有限公司",
+   "en": "FREEPOINT COMMODITIES SINGAPORE PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2022-11-17",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 695,
+   "cn": "XTX市场有限公司",
+   "en": "XTX Markets Pte Limited",
+   "region": "新加坡",
+   "approved": "2022-11-21",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 696,
+   "cn": "古塔资本（新加坡）有限公司",
+   "en": "Graviton Research Capital (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2022-11-29",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 697,
+   "cn": "格林兰特投资管理",
+   "en": "Greenland Investment Management",
+   "region": "毛里求斯",
+   "approved": "2022-11-30",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 698,
+   "cn": "宽立资本有限公司",
+   "en": "Aspect Capital Limited",
+   "region": "英国",
+   "approved": "2022-12-04",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 699,
+   "cn": "部门基金服务股份公司",
+   "en": "Sector Fund Services AS",
+   "region": "挪威",
+   "approved": "2022-12-07",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 700,
+   "cn": "伊藤忠塑胶私人有限公司",
+   "en": "ITOCHU PLASTICS PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2022-12-30",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 701,
+   "cn": "传译趋势私人有限公司",
+   "en": "Transtrend B.V.",
+   "region": "荷兰",
+   "approved": "2022-12-30",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 702,
+   "cn": "联发科技股份有限公司",
+   "en": "MEDIATEK INC.",
+   "region": "中国台湾",
+   "approved": "2023-01-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 703,
+   "cn": "常春藤资产管理（香港）有限公司",
+   "en": "IvyRock Asset Management (HK) Limited",
+   "region": "中国香港",
+   "approved": "2023-01-16",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 704,
+   "cn": "英特佩克理财与投资顾问公司",
+   "en": "Interprac Financial Planning Pty Ltd",
+   "region": "澳大利亚",
+   "approved": "2023-01-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 705,
+   "cn": "凯穆私人有限公司",
+   "en": "Quadeye Pte Ltd",
+   "region": "新加坡",
+   "approved": "2023-01-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 706,
+   "cn": "城堡证券中国投资交易有限公司",
+   "en": "Citadel Securities PRC Trading Limited",
+   "region": "中国香港",
+   "approved": "2023-01-17",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 707,
+   "cn": "星河证券有限公司",
+   "en": "Star River Securities Limited",
+   "region": "中国香港",
+   "approved": "2023-01-20",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 708,
+   "cn": "金銮证券有限公司",
+   "en": "Kam Luen Securities Limited",
+   "region": "中国香港",
+   "approved": "2023-02-08",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 709,
+   "cn": "四邦实业有限公司",
+   "en": "FOUR BUNG INDUSTRIES LIMITED",
+   "region": "中国香港",
+   "approved": "2023-02-10",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 710,
+   "cn": "国际标准矢量资产管理",
+   "en": "iSAM Vector Management",
+   "region": "开曼群岛",
+   "approved": "2023-02-16",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 711,
+   "cn": "瑞再亚洲直接投资有限公司",
+   "en": "Swiss Re Principal Investments Company Asia Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-02-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 712,
+   "cn": "英格斯投资资产管理公司",
+   "en": "Ingosstrakh Investments Asset Management",
+   "region": "俄罗斯",
+   "approved": "2023-02-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 713,
+   "cn": "弘量研究有限公司",
+   "en": "Magnum Research Limited",
+   "region": "中国香港",
+   "approved": "2023-02-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 714,
+   "cn": "永丰金证券（亚洲）有限公司",
+   "en": "Sinopac Securities (Asia) Limited",
+   "region": "中国香港",
+   "approved": "2023-02-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 715,
+   "cn": "阿班斯全球有限公司",
+   "en": "Abans Global Limited",
+   "region": "英国",
+   "approved": "2023-02-16",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 716,
+   "cn": "东方艾克斯投资有限责任公司",
+   "en": "East X LLP",
+   "region": "英国",
+   "approved": "2023-02-16",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 717,
+   "cn": "瑞银资产管理瑞士股份公司",
+   "en": "UBS Asset Management Switzerland AG",
+   "region": "瑞士",
+   "approved": "2023-02-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 718,
+   "cn": "托克亚洲贸易私人有限公司",
+   "en": "TRAFIGURA ASIA TRADING PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2023-02-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 719,
+   "cn": "安磐资本（亚洲）私人投资有限公司",
+   "en": "Arisaig Partners (Asia) Pte Ltd",
+   "region": "新加坡",
+   "approved": "2023-03-02",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 720,
+   "cn": "西纳拉银行",
+   "en": "PUBLIC JOINT-STOCK COMPANY BANK SINARA",
+   "region": "俄罗斯",
+   "approved": "2023-03-14",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 721,
+   "cn": "博恩霍华德 (香港) 有限公司",
+   "en": "Brevan Howard (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2023-03-14",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 722,
+   "cn": "塔滃金融有限公司",
+   "en": "TAVIRA FINANCIAL LIMITED",
+   "region": "英国",
+   "approved": "2023-03-16",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 723,
+   "cn": "博裕资本管理（新加坡）有限公司",
+   "en": "BOYU CAPITAL MANAGEMENT (SINGAPORE) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2023-03-16",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 724,
+   "cn": "冠力资产管理有限公司",
+   "en": "Smart Grandly Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2023-03-20",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 725,
+   "cn": "道锐威新加坡私人有限公司",
+   "en": "DRW Singapore Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-04-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 726,
+   "cn": "矩点资本有限责任合伙企业",
+   "en": "Squarepoint Capital LLP",
+   "region": "英国",
+   "approved": "2023-04-11",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 727,
+   "cn": "全球统计资产管理资本有限责任合伙",
+   "en": "GSA Capital Partners LLP",
+   "region": "英国",
+   "approved": "2023-04-18",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 728,
+   "cn": "钜集资产管理有限公司",
+   "en": "Aggregate Asset Management Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-04-23",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 729,
+   "cn": "澳帝桦新加坡有限公司",
+   "en": "Optiver Singapore Trading Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-04-23",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 730,
+   "cn": "资本基金管理有限公司",
+   "en": "Capital Fund Management SA (\"CFM\")",
+   "region": "法国",
+   "approved": "2023-04-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 731,
+   "cn": "资本伙伴证券株式会社",
+   "en": "Capital Partners Securities Co., Ltd.",
+   "region": "日本",
+   "approved": "2023-04-26",
+   "trustee": "渣打银行"
+  },
+  {
+   "seq": 732,
+   "cn": "华态私人有限合伙企业",
+   "en": "Flowertech C.V.",
+   "region": "荷兰",
+   "approved": "2023-05-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 733,
+   "cn": "城堡投资亚洲有限公司",
+   "en": "Citadel Asia Limited",
+   "region": "中国香港",
+   "approved": "2023-05-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 734,
+   "cn": "新加坡瀚朗科技有限公司",
+   "en": "Headlands Technologies Singapore Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-06-07",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 735,
+   "cn": "十八里亚洲有限公司",
+   "en": "Safari Asia Limited",
+   "region": "中国香港",
+   "approved": "2023-06-07",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 736,
+   "cn": "凯石通投资顾问（香港）有限公司",
+   "en": "Capstone Investment Advisors (HK) Limited",
+   "region": "中国香港",
+   "approved": "2023-06-14",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 737,
+   "cn": "博行睿致投资管理有限责任合伙公司",
+   "en": "Broad Reach Investment Management LLP",
+   "region": "英国",
+   "approved": "2023-06-14",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 738,
+   "cn": "致富证券有限公司",
+   "en": "Chief Securities Limited",
+   "region": "中国香港",
+   "approved": "2023-06-19",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 739,
+   "cn": "逸兴资本有限公司",
+   "en": "POTUS CAPITAL PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2023-06-19",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 740,
+   "cn": "博灝香港有限公司",
+   "en": "Point72 Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2023-06-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 741,
+   "cn": "瑞士恩贝尔商业银行股份有限公司",
+   "en": "MBaer Merchant Bank AG",
+   "region": "瑞士",
+   "approved": "2023-07-13",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 742,
+   "cn": "大横琴股份（香港）有限公司",
+   "en": "DA HENG QIN (HONG KONG) COMPANY LIMITED",
+   "region": "中国香港",
+   "approved": "2023-07-13",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 743,
+   "cn": "白云投资有限公司",
+   "en": "Baiyun Investments Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-07-27",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 744,
+   "cn": "国际货币基金组织投资资金",
+   "en": "International Monetary Fund Investment Fund",
+   "region": "国际组织",
+   "approved": "2023-07-28",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 745,
+   "cn": "科氏石油炼制国际有限公司",
+   "en": "Koch Refining International Pte Ltd",
+   "region": "新加坡",
+   "approved": "2023-07-28",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 746,
+   "cn": "量锋资产管理私人有限公司",
+   "en": "Quantedge Capital Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-08-03",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 747,
+   "cn": "卡普拉投资管理公司",
+   "en": "Capula Investment Management LLP",
+   "region": "英国",
+   "approved": "2023-08-09",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 748,
+   "cn": "诺伊曼咨询香港有限公司",
+   "en": "Neumann Advisory Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2023-08-09",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 749,
+   "cn": "碧辟新加坡私人有限公司",
+   "en": "BP Singapore Pte. Limited",
+   "region": "新加坡",
+   "approved": "2023-08-17",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 750,
+   "cn": "太白投资有限公司",
+   "en": "Taibai Investments Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-08-25",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 751,
+   "cn": "易可达金融（新加坡）有限公司",
+   "en": "Engelhart CTP Financial (Singapore) Pte. Limited",
+   "region": "新加坡",
+   "approved": "2023-09-01",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 752,
+   "cn": "鹏特资本管理有限公司",
+   "en": "Penco Capital Management Private Limited",
+   "region": "新加坡",
+   "approved": "2023-09-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 753,
+   "cn": "红杉资本中国公开市场投资基金管理公司",
+   "en": "HCEP Management Limited",
+   "region": "中国香港",
+   "approved": "2023-09-11",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 754,
+   "cn": "博大资产管理(香港)有限公司",
+   "en": "Partners Asset Management (HK) Limited",
+   "region": "中国香港",
+   "approved": "2023-09-11",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 755,
+   "cn": "指南针亚洲合伙人有限合伙",
+   "en": "Compass Asia Partners, L.P.",
+   "region": "百慕大",
+   "approved": "2023-09-15",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 756,
+   "cn": "翌星资本私人有限公司",
+   "en": "Essentia Partners Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-09-19",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 757,
+   "cn": "中国银河证券新加坡私人有限公司",
+   "en": "CGS International Securities Singapore Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-09-22",
+   "trustee": "法国巴黎银行"
+  },
+  {
+   "seq": 758,
+   "cn": "吉尼斯资产管理有限公司",
+   "en": "Guinness Asset Management Limited",
+   "region": "英国",
+   "approved": "2023-09-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 759,
+   "cn": "德太资本新加坡有限公司",
+   "en": "TPG CAPITAL (S) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2023-10-07",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 760,
+   "cn": "希佰资有限公司",
+   "en": "C-Breeze Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-10-07",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 761,
+   "cn": "柏瑞投资亚洲有限公司",
+   "en": "PineBridge Investments Asia Limited",
+   "region": "百慕大",
+   "approved": "2023-10-10",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 762,
+   "cn": "奥地利瑞芬森银行封闭式股份公司",
+   "en": "Joint stock company \"Raiffeisenbank\"",
+   "region": "俄罗斯",
+   "approved": "2023-10-23",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 763,
+   "cn": "新加坡（热联）钢铁有限公司",
+   "en": "SINGAPORE (COGENERATION) STEEL PTE. LTD",
+   "region": "新加坡",
+   "approved": "2023-10-31",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 764,
+   "cn": "奥地利瑞芬森资本资产管理有限责任公司",
+   "en": "OOO Raiffeisen Capital Asset Management Company",
+   "region": "俄罗斯",
+   "approved": "2023-11-01",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 765,
+   "cn": "大象投资管理有限公司",
+   "en": "ELEPHAS INVESTMENT MANAGEMENT LIMITED",
+   "region": "中国香港",
+   "approved": "2023-11-06",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 766,
+   "cn": "富乔鑫资产管理（新加坡）有限公司",
+   "en": "JMC Capital Asset Management Singapore Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-11-07",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 767,
+   "cn": "能敬资本管理有限公司",
+   "en": "Powership Capital Management Limited",
+   "region": "中国香港",
+   "approved": "2023-11-09",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 768,
+   "cn": "五矿企荣有限公司",
+   "en": "Minmetals Cheerglory Limited",
+   "region": "中国香港",
+   "approved": "2023-11-09",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 769,
+   "cn": "东久新宜（开曼）投资第一控股有限公司",
+   "en": "DNE (Cayman) Investment I Holdings Limited",
+   "region": "开曼群岛",
+   "approved": "2023-11-14",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 770,
+   "cn": "安润嘉有限公司",
+   "en": "Arun Plus Co., Ltd.",
+   "region": "泰国",
+   "approved": "2023-11-18",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 771,
+   "cn": "招银国际(新加坡)私人有限公司",
+   "en": "CMBI (Singapore) Pte. Limited",
+   "region": "新加坡",
+   "approved": "2023-11-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 772,
+   "cn": "中银（新加坡）资产管理有限公司",
+   "en": "Bank of China Asset Management (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2023-11-22",
+   "trustee": "华夏银行"
+  },
+  {
+   "seq": 773,
+   "cn": "赢高银行股份公司",
+   "en": "Joint Stock Company Bank Ingo",
+   "region": "俄罗斯",
+   "approved": "2023-11-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 774,
+   "cn": "倍嵘资本有限公司",
+   "en": "APEIRON CAPITAL LIMITED",
+   "region": "中国香港",
+   "approved": "2023-11-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 775,
+   "cn": "复兴证券有限公司",
+   "en": "Renaissance Broker Limited",
+   "region": "俄罗斯",
+   "approved": "2023-12-04",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 776,
+   "cn": "太一资本管理有限公司",
+   "en": "One Heritage Capital Management Limited",
+   "region": "中国香港",
+   "approved": "2023-12-07",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 777,
+   "cn": "圆牧资本",
+   "en": "Ox Capital Management PTY LTD",
+   "region": "澳大利亚",
+   "approved": "2023-12-11",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 778,
+   "cn": "睿远基金(香港)有限公司",
+   "en": "Foresight Fund (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2023-12-12",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 779,
+   "cn": "浙商国际金融控股有限公司",
+   "en": "Zheshang International Financial Holdings Co.,Limited",
+   "region": "中国香港",
+   "approved": "2023-12-12",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 780,
+   "cn": "前诺投资管理有限公司",
+   "en": "Channel Investment Management Limited",
+   "region": "澳大利亚",
+   "approved": "2023-12-20",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 781,
+   "cn": "凯德商用产业有限公司",
+   "en": "CAPITALAND MALL ASIA LIMITED",
+   "region": "新加坡",
+   "approved": "2024-01-23",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 782,
+   "cn": "一翎资本私人有限公司",
+   "en": "Mainnet Capital Pte.Ltd",
+   "region": "新加坡",
+   "approved": "2024-01-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 783,
+   "cn": "国家共同基金管理有限公司",
+   "en": "National Mutual Funds Management Ltd.",
+   "region": "澳大利亚",
+   "approved": "2024-02-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 784,
+   "cn": "英国养老保障基金委员会",
+   "en": "The Board of the Pension Protection Fund",
+   "region": "英国",
+   "approved": "2024-02-28",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 785,
+   "cn": "金鹰研究资本（以色列）有限公司",
+   "en": "Eagle Labs Capital(Israel)Ltd",
+   "region": "以色列",
+   "approved": "2024-03-01",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 786,
+   "cn": "杰拉德金属（瑞士）有限公司",
+   "en": "Gerald Metals Sarl",
+   "region": "瑞士",
+   "approved": "2024-03-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 787,
+   "cn": "富瑞国际有限公司",
+   "en": "Jefferies International Limited",
+   "region": "英国",
+   "approved": "2024-03-15",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 788,
+   "cn": "量盈(香港)有限公司",
+   "en": "Quantsmile (HK) Limited",
+   "region": "中国香港",
+   "approved": "2024-03-21",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 789,
+   "cn": "赫区怡合伙人新加坡有限公司",
+   "en": "Hartree Partners Singapore Pte Limited",
+   "region": "新加坡",
+   "approved": "2024-03-21",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 790,
+   "cn": "佰利资产管理（新加坡）有限公司",
+   "en": "Balyasny Asset Management (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2024-03-26",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 791,
+   "cn": "梅沃利衍生品有限公司",
+   "en": "Maverick Derivatives B.V.",
+   "region": "荷兰",
+   "approved": "2024-04-07",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 792,
+   "cn": "伦敦大学退休金计划",
+   "en": "Superannuation Arrangements of the University of London",
+   "region": "英国",
+   "approved": "2024-04-07",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 793,
+   "cn": "华创永宣可再生能源解决方案有限公司",
+   "en": "Hcc Renewable Energy Solution Co.,Limited",
+   "region": "中国香港",
+   "approved": "2024-04-07",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 794,
+   "cn": "泰克瑟罗斯私人有限公司",
+   "en": "Tyxeros Trading Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2024-04-07",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 795,
+   "cn": "瑞士亚洲金融服务有限公司",
+   "en": "Swiss-Asia Financial Services Pte Ltd",
+   "region": "新加坡",
+   "approved": "2024-04-23",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 796,
+   "cn": "金儿商品贸易公司DMCC",
+   "en": "ABS COMMODITY TRADING COMPANY DMCC",
+   "region": "阿联酋",
+   "approved": "2024-04-23",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 797,
+   "cn": "力拓商业私人有限公司",
+   "en": "Rio Tinto Commercial Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2024-04-23",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 798,
+   "cn": "拓维冶金有限公司",
+   "en": "Caravel Metallurgical Limited",
+   "region": "中国香港",
+   "approved": "2024-04-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 799,
+   "cn": "圣福斯有限公司",
+   "en": "SUNFORTH PTE LTD",
+   "region": "新加坡",
+   "approved": "2024-05-06",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 800,
+   "cn": "亮点国际贸易（新加坡）私人有限公司",
+   "en": "BPI Trading (SG) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2024-05-07",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 801,
+   "cn": "长春证券有限公司",
+   "en": "Changchun Securities Limited",
+   "region": "中国香港",
+   "approved": "2024-05-09",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 802,
+   "cn": "晖煜资本集团有限公司",
+   "en": "Fides Capital Group Limited",
+   "region": "中国香港",
+   "approved": "2024-05-13",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 803,
+   "cn": "富强资产管理有限公司",
+   "en": "Fortune Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2024-05-14",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 804,
+   "cn": "旌安资产管理（香港）有限公司",
+   "en": "Jingan Asset Management (Hong Kong) Company Limited",
+   "region": "中国香港",
+   "approved": "2024-05-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 805,
+   "cn": "嘉悦国际（新加坡）有限公司",
+   "en": "JORYA INTERNATIONAL（SINGAPORE）PTE.LTD.",
+   "region": "新加坡",
+   "approved": "2024-05-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 806,
+   "cn": "卡塔尔国民银行公众股份公司",
+   "en": "Qatar National Bank （QNB）",
+   "region": "卡塔尔",
+   "approved": "2024-05-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 807,
+   "cn": "毅德新加坡资产管理有限公司",
+   "en": "ICHAM PTE.LTD.",
+   "region": "新加坡",
+   "approved": "2024-05-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 808,
+   "cn": "凯德中国信托管理有限公司",
+   "en": "CapitaLand China Trust Management Limited",
+   "region": "新加坡",
+   "approved": "2024-05-23",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 809,
+   "cn": "佩尔瓦亚管理公司股份公司",
+   "en": "First Asset Management, Joint Stock Company",
+   "region": "俄罗斯",
+   "approved": "2024-05-28",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 810,
+   "cn": "升涛资本投资有限公司",
+   "en": "COVE INVESTMENT PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2024-06-04",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 811,
+   "cn": "杭州热联（香港）有限公司",
+   "en": "Hangzhou Cogeneration (Hong Kong) Co., Ltd.",
+   "region": "中国香港",
+   "approved": "2024-06-06",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 812,
+   "cn": "恒力石化国际有限公司",
+   "en": "HENGLI PETROCHEMICAL INTERNATIONAL PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2024-06-11",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 813,
+   "cn": "康达投资有限公司",
+   "en": "CONDA CAPITAL PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2024-06-11",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 814,
+   "cn": "阿曼投资局",
+   "en": "OMAN INVESTMENT AUTHORITY",
+   "region": "阿曼",
+   "approved": "2024-06-17",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 815,
+   "cn": "阿拉瓦利资产管理公司",
+   "en": "Aravali Asset Management Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2024-06-21",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 816,
+   "cn": "迪维交易公司（加拿大）",
+   "en": "DV Trading Canada Inc.",
+   "region": "加拿大",
+   "approved": "2024-06-28",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 817,
+   "cn": "华安证券（香港）资产管理有限公司",
+   "en": "Huaan Securities (Hong Kong) Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2024-07-02",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 818,
+   "cn": "维多亚太商贸有限公司",
+   "en": "VITOL APAC COMMODITIES PTE.LTD.",
+   "region": "新加坡",
+   "approved": "2024-07-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 819,
+   "cn": "德高股份有限公司",
+   "en": "Duferco SA",
+   "region": "瑞士",
+   "approved": "2024-07-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 820,
+   "cn": "雅宝资产管理有限公司",
+   "en": "Jabal Asset Management LLC",
+   "region": "阿曼",
+   "approved": "2024-07-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 821,
+   "cn": "安博中国投资有限公司",
+   "en": "PLD China Investment Company LLC",
+   "region": "美国",
+   "approved": "2024-07-19",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 822,
+   "cn": "莱茵资产管理有限公司",
+   "en": "Rhine Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2024-07-24",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 823,
+   "cn": "金马投资管理有限公司",
+   "en": "Golden Horse Fund Management Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2024-07-29",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 824,
+   "cn": "新庚资本私人有限公司",
+   "en": "GENK CAPITAL PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2024-08-07",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 825,
+   "cn": "景和资本有限公司",
+   "en": "Green Harmony Capital Limited",
+   "region": "中国香港",
+   "approved": "2024-08-08",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 826,
+   "cn": "复星资产管理有限公司",
+   "en": "Fosun Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2024-08-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 827,
+   "cn": "东建资产管理有限公司",
+   "en": "OCI Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2024-08-15",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 828,
+   "cn": "英皇资产管理有限公司",
+   "en": "Emperor Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2024-08-21",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 829,
+   "cn": "卡迪安投资（韩国）有限公司",
+   "en": "Kardian Asset Management Co.,Ltd.",
+   "region": "韩国",
+   "approved": "2024-08-21",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 830,
+   "cn": "全球德尔塔资本有限责任公司",
+   "en": "Global Delta Capital, LLC",
+   "region": "美国",
+   "approved": "2024-08-23",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 831,
+   "cn": "基数研究有限公司",
+   "en": "Xidar Research LLC",
+   "region": "开曼群岛",
+   "approved": "2024-09-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 832,
+   "cn": "摩科瑞大宗商品市场有限公司",
+   "en": "Mercuria Commodity Markets SA",
+   "region": "瑞士",
+   "approved": "2024-09-14",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 833,
+   "cn": "莱佛麦金属贸易公司DMCC",
+   "en": "LEVMET TRADING DMCC",
+   "region": "阿联酋",
+   "approved": "2024-09-14",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 834,
+   "cn": "兴隆资产有限公司",
+   "en": "MTS Capital Co.,Ltd.",
+   "region": "泰国",
+   "approved": "2024-09-18",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 835,
+   "cn": "艾美希亚太有限公司",
+   "en": "IMC ASIA PACIFIC LIMITED",
+   "region": "中国香港",
+   "approved": "2024-09-23",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 836,
+   "cn": "大道基金资产管理有限公司",
+   "en": "TRUTH ASSETS MANAGEMENT (S) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2024-09-26",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 837,
+   "cn": "虎丘独立投资组合有限公司",
+   "en": "TH SPC Limited",
+   "region": "开曼群岛",
+   "approved": "2024-09-29",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 838,
+   "cn": "信和资产管理有限公司",
+   "en": "Sino Financial Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2024-10-06",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 839,
+   "cn": "吉萨洛资本管理有限责任公司",
+   "en": "Ghisallo Capital Management LLC",
+   "region": "美国",
+   "approved": "2024-10-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 840,
+   "cn": "梅瑞兹证券",
+   "en": "Meritz Securities Co., Ltd.",
+   "region": "韩国",
+   "approved": "2024-10-12",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 841,
+   "cn": "伊塔乌资产管理公司",
+   "en": "Itaú Asset Management",
+   "region": "巴西",
+   "approved": "2024-10-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 842,
+   "cn": "斯特恩资本私人有限公司",
+   "en": "STERN CAPITAL PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2024-11-04",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 843,
+   "cn": "圆通环球资产管理有限公司",
+   "en": "Yuan Tong Global Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2024-11-04",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 844,
+   "cn": "星光资产管理有限公司",
+   "en": "Starlight Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2024-11-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 845,
+   "cn": "亚丁金融集团有限公司",
+   "en": "Aden Financial Group Limited",
+   "region": "中国香港",
+   "approved": "2024-11-20",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 846,
+   "cn": "圆通环球证券有限公司",
+   "en": "Yuan Tong Global Securities Limited",
+   "region": "中国香港",
+   "approved": "2024-11-25",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 847,
+   "cn": "自由资产管理（亚洲）有限公司",
+   "en": "Freedom Asset Management (Asia) Limited",
+   "region": "中国香港",
+   "approved": "2024-11-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 848,
+   "cn": "瀚嘉(泰国)资产管理有限公司",
+   "en": "FIRST PLUS ASSET MANAGEMENT (THAILAND) COMPANY LIMITED",
+   "region": "泰国",
+   "approved": "2024-11-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 849,
+   "cn": "慧衍集团",
+   "en": "SAPIEN GROUP PTY LTD",
+   "region": "澳大利亚",
+   "approved": "2024-11-29",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 850,
+   "cn": "鼎鑫（证券）有限公司",
+   "en": "Dingxin (Securities) Limited",
+   "region": "中国香港",
+   "approved": "2024-11-29",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 851,
+   "cn": "洲际资源有限公司",
+   "en": "Intercontinental Resources HK Co.,Limited",
+   "region": "中国香港",
+   "approved": "2024-12-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 852,
+   "cn": "睿势国际资本公司",
+   "en": "Wise Will International Capital Ltd.",
+   "region": "英属维尔京群岛",
+   "approved": "2024-12-25",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 853,
+   "cn": "杭实国贸新加坡有限公司",
+   "en": "HONORS COMMODITY SINGAPORE PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-01-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 854,
+   "cn": "华赢东方（亚洲）控股有限公司",
+   "en": "SOLOMON JFZ(ASIA) HOLDINGS LIMITED",
+   "region": "中国香港",
+   "approved": "2025-01-21",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 855,
+   "cn": "欧道华丰资产管理简易股份公司",
+   "en": "ODDO BHF ASSET MANAGEMENT SAS",
+   "region": "法国",
+   "approved": "2025-01-24",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 856,
+   "cn": "蓝盒证券有限公司",
+   "en": "Blue Box Securities Limited",
+   "region": "中国香港",
+   "approved": "2025-02-12",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 857,
+   "cn": "磐石资产管理有限公司",
+   "en": "BANDS Capital Management Limited",
+   "region": "中国香港",
+   "approved": "2025-02-13",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 858,
+   "cn": "艾克投资管理有限公司",
+   "en": "Aikya Investment Management Limited",
+   "region": "英国",
+   "approved": "2025-02-21",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 859,
+   "cn": "Kiwoom证券株式会社",
+   "en": "Kiwoom Securities Co. Ltd",
+   "region": "韩国",
+   "approved": "2025-02-24",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 860,
+   "cn": "美泰乐科技集团",
+   "en": "Metalor Technologies SA",
+   "region": "瑞士",
+   "approved": "2025-03-03",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 861,
+   "cn": "中信里昂证券日本株式会社",
+   "en": "CLSA Securities Japan Co., Ltd.",
+   "region": "日本",
+   "approved": "2025-03-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 862,
+   "cn": "东方汇财证券有限公司",
+   "en": "ORIENT SECURITIES LIMITED",
+   "region": "中国香港",
+   "approved": "2025-03-06",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 863,
+   "cn": "启叶资产管理有限公司",
+   "en": "TURNING LEAF ASSET MANAGEMENT PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-03-06",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 864,
+   "cn": "旷赫资源有限公司",
+   "en": "CONCORD RESOURCES LIMITED",
+   "region": "英国",
+   "approved": "2025-03-19",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 865,
+   "cn": "星洲狮威实业有限公司",
+   "en": "GALLANTLION RESOURCES PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-03-24",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 866,
+   "cn": "海洋能源有限公司",
+   "en": "OCEAN ENERGY PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-03-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 867,
+   "cn": "南华金融（英国）有限公司",
+   "en": "Nanhua Financial (UK) Co Limited",
+   "region": "英国",
+   "approved": "2025-04-07",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 868,
+   "cn": "嘉利高集团有限公司",
+   "en": "Czarnikow Group Limited",
+   "region": "英国",
+   "approved": "2025-04-14",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 869,
+   "cn": "敦和国际基金管理有限公司",
+   "en": "DH International Fund Management Limited",
+   "region": "中国香港",
+   "approved": "2025-04-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 870,
+   "cn": "东证期货国际（新加坡）私人有限公司",
+   "en": "Orient Futures International (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2025-04-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 871,
+   "cn": "王道商业银行",
+   "en": "O-Bank Co., Ltd.",
+   "region": "中国台湾",
+   "approved": "2025-04-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 872,
+   "cn": "旌泰物产有限公司",
+   "en": "Gent Commodity Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2025-04-29",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 873,
+   "cn": "海腾金属贸易有限公司",
+   "en": "HITENT METALS TRADING PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-05-16",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 874,
+   "cn": "川润资源有限公司",
+   "en": "CRSCM Resource Co., Limited",
+   "region": "中国香港",
+   "approved": "2025-05-23",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 875,
+   "cn": "欧亚资产管理私人有限公司",
+   "en": "EURO ASIA ASSET MANAGEMENT PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-05-23",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 876,
+   "cn": "香港扬子江资产管理有限公司",
+   "en": "HongKong Yangtze River Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2025-05-23",
+   "trustee": "招商银行"
+  },
+  {
+   "seq": 877,
+   "cn": "盈泰国际（新加坡）有限公司",
+   "en": "INTOP INTERNATIONAL (SINGAPORE) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-06-12",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 878,
+   "cn": "梅德国际贸易有限公司",
+   "en": "Mayday International Trading Limited",
+   "region": "中国香港",
+   "approved": "2025-06-12",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 879,
+   "cn": "荣晖资本有限公司",
+   "en": "Theme Capital Limited",
+   "region": "中国香港",
+   "approved": "2025-06-12",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 880,
+   "cn": "澳门发展银行股份有限公司",
+   "en": "Macao Development Bank Limited",
+   "region": "中国澳门",
+   "approved": "2025-06-12",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 881,
+   "cn": "三广能源（英国）有限公司",
+   "en": "Tricon Energy UK Limited",
+   "region": "英国",
+   "approved": "2025-06-12",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 882,
+   "cn": "瑞迪安特世界商品股份公司",
+   "en": "Radiant World Commodities SA",
+   "region": "瑞士",
+   "approved": "2025-06-12",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 883,
+   "cn": "中信建投（国际）资产管理有限公司",
+   "en": "China Securities (International) Asset Management Company Limited",
+   "region": "中国香港",
+   "approved": "2025-06-13",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 884,
+   "cn": "玛克士庞博股份有限公司",
+   "en": "MKS PAMP SA",
+   "region": "瑞士",
+   "approved": "2025-06-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 885,
+   "cn": "米拉博资产管理（欧洲）股份有限公司",
+   "en": "Mirabaud Asset Management (Europe) S.A.",
+   "region": "卢森堡",
+   "approved": "2025-06-19",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 886,
+   "cn": "雾凇资本有限公司",
+   "en": "Rime Capital Limited",
+   "region": "中国香港",
+   "approved": "2025-07-01",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 887,
+   "cn": "第一资产管理有限公司",
+   "en": "One Asset Management Limited",
+   "region": "泰国",
+   "approved": "2025-07-01",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 888,
+   "cn": "鼎值基金管理有限公司",
+   "en": "PRIME VALUE ASSET MANAGEMENT LIMITED",
+   "region": "澳大利亚",
+   "approved": "2025-07-01",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 889,
+   "cn": "路华资产管理有限公司",
+   "en": "ROOFER ASSET MANAGEMENT LIMITED",
+   "region": "中国香港",
+   "approved": "2025-07-15",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 890,
+   "cn": "杭实国贸香港有限公司",
+   "en": "HONORS COMMODITY HONG KONG COMPANY LIMITED",
+   "region": "中国香港",
+   "approved": "2025-07-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 891,
+   "cn": "中金汇理资产管理（香港）有限公司1",
+   "en": "SINOIF Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2025-07-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 892,
+   "cn": "阿尔法格雷普英国有限公司",
+   "en": "AlphaGrep UK Limited",
+   "region": "英国",
+   "approved": "2025-07-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 893,
+   "cn": "大西部证券（香港）有限公司",
+   "en": "Global West Securities (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2025-08-08",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 894,
+   "cn": "教保证券株式会社",
+   "en": "Kyobo Securities Co., Ltd",
+   "region": "韩国",
+   "approved": "2025-08-13",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 895,
+   "cn": "上润通商资本有限公司",
+   "en": "Liberal Cosmerce Capital Limited",
+   "region": "英属维尔京群岛",
+   "approved": "2025-08-19",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 896,
+   "cn": "东华能源（新加坡）国际贸易有限公司",
+   "en": "ORIENTAL ENERGY (SINGAPORE) INTERNATIONAL TRADING PTE LTD",
+   "region": "新加坡",
+   "approved": "2025-08-19",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 897,
+   "cn": "香港海亮铜贸易有限公司",
+   "en": "HONG KONG HAILIANG METAL TRADING LIMITED",
+   "region": "中国香港",
+   "approved": "2025-08-26",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 898,
+   "cn": "卓汇投资(香港)有限公司",
+   "en": "EXCEL INVESTMENT (HK) LIMITED",
+   "region": "中国香港",
+   "approved": "2025-08-27",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 899,
+   "cn": "香港天逸国际控股有限公司",
+   "en": "HONGKONG TIANYI INTERNATIONAL HOLDING COMPANY LIMITED",
+   "region": "中国香港",
+   "approved": "2025-08-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 900,
+   "cn": "海亮（新加坡）有限公司",
+   "en": "HAILIANG (SINGAPORE) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-09-01",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 901,
+   "cn": "高盛欧洲银行",
+   "en": "Goldman Sachs Bank Europe SE",
+   "region": "德国",
+   "approved": "2025-09-01",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 902,
+   "cn": "华瑞证券有限公司",
+   "en": "Huarui Securities Limited",
+   "region": "中国香港",
+   "approved": "2025-09-06",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 903,
+   "cn": "香港德辅投资有限责任公司",
+   "en": "DES VOEUX PARTNERS LIMITED",
+   "region": "中国香港",
+   "approved": "2025-09-18",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 904,
+   "cn": "易方达资产管理（新加坡）有限公司",
+   "en": "E Fund Management (Singapore) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2025-09-24",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 905,
+   "cn": "宝达投资（香港）有限公司",
+   "en": "POINTER INVESTMENT (HONG KONG) LIMITED",
+   "region": "中国香港",
+   "approved": "2025-09-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 906,
+   "cn": "华凯资产管理有限公司",
+   "en": "WealthQuay Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2025-10-09",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 907,
+   "cn": "迈睿资产管理有限公司",
+   "en": "Merit Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2025-10-14",
+   "trustee": "农业银行"
+  },
+  {
+   "seq": 908,
+   "cn": "沙迦资产管理控股有限公司",
+   "en": "Sharjah Asset Management (Holding) PER Person Company. LLC.",
+   "region": "阿联酋",
+   "approved": "2025-10-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 909,
+   "cn": "诚港金融股份有限公司",
+   "en": "CANTON MUTUAL FINANCIAL LIMITED",
+   "region": "中国香港",
+   "approved": "2025-10-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 910,
+   "cn": "艾威意供应与贸易亚太有限公司",
+   "en": "RWE Supply & Trading Asia-Pacific Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2025-10-22",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 911,
+   "cn": "山东港口国际贸易集团（香港）有限公司",
+   "en": "SHANDONG PORT INTERNATIONAL TRADE GROUP (HONG KONG) CO., LIMITED.",
+   "region": "中国香港",
+   "approved": "2025-10-27",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 912,
+   "cn": "凯华投资英国有限公司",
+   "en": "Fiera Capital (UK) Limited",
+   "region": "英国",
+   "approved": "2025-10-30",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 913,
+   "cn": "出光国际（亚洲）有限公司",
+   "en": "Idemitsu International (Asia) Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2025-10-31",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 914,
+   "cn": "华福国际资产管理有限公司",
+   "en": "Huafu International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2025-11-07",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 915,
+   "cn": "方法量化亚太私人有限公司",
+   "en": "METHOD QUANT APAC PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-11-07",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 916,
+   "cn": "博满资管有限公司",
+   "en": "BOMAN ASSET MANAGEMENT PTY LTD",
+   "region": "澳大利亚",
+   "approved": "2025-11-14",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 917,
+   "cn": "三菱商事金属贸易（国际）有限公司",
+   "en": "Mitsubishi Corporation RtM International Pte Ltd",
+   "region": "新加坡",
+   "approved": "2025-11-17",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 918,
+   "cn": "富曼拓商贸私人有限公司",
+   "en": "FOMENTO COMMODITIES PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2025-11-19",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 919,
+   "cn": "中国银行（香港）有限公司",
+   "en": "Bank of China (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2025-11-24",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 920,
+   "cn": "欧力士亚洲资产管理有限公司",
+   "en": "ORIX Asia Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2025-11-26",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 921,
+   "cn": "爱普森资本管理有限公司",
+   "en": "IPS Capital Ltd.",
+   "region": "哈萨克斯坦",
+   "approved": "2025-11-26",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 922,
+   "cn": "伊斯投资证券股份公司",
+   "en": "IS YATIRIM MENKUL DEGERLER ANONIM SIRKETI",
+   "region": "土耳其",
+   "approved": "2025-11-28",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 923,
+   "cn": "申投证券有限公司",
+   "en": "Centaur Securities Limited",
+   "region": "中国香港",
+   "approved": "2025-12-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 924,
+   "cn": "阿联酋国际资源控股公司",
+   "en": "IRH Global Trading Ltd.",
+   "region": "阿联酋",
+   "approved": "2025-12-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 925,
+   "cn": "弗雷姆亚洲资源私人有限公司",
+   "en": "Flame Asia Resources Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2025-12-09",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 926,
+   "cn": "云铜香港有限公司",
+   "en": "YUNNAN COPPER H.K LIMITED",
+   "region": "中国香港",
+   "approved": "2025-12-11",
+   "trustee": "星展银行"
+  },
+  {
+   "seq": 927,
+   "cn": "越航贸易有限公司",
+   "en": "YUE HANG TRADING CO., LIMITED",
+   "region": "中国香港",
+   "approved": "2025-12-11",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 928,
+   "cn": "立桥银行股份有限公司",
+   "en": "Banco Well Link, S.A.",
+   "region": "中国澳门",
+   "approved": "2025-12-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 929,
+   "cn": "恒盛资产管理公司",
+   "en": "Persistent Asset Partners Limited",
+   "region": "中国香港",
+   "approved": "2025-12-25",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 930,
+   "cn": "城堡顾问新加坡有限公司",
+   "en": "Citadel Advisors Singapore Pte. Limited",
+   "region": "新加坡",
+   "approved": "2025-12-29",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 931,
+   "cn": "三河投资香港有限公司",
+   "en": "3Rivers Trading Hong Kong Limited",
+   "region": "中国香港",
+   "approved": "2026-01-09",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 932,
+   "cn": "辉立大宗商品私人有限公司",
+   "en": "PHILLIP COMMODITIES PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-01-12",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 933,
+   "cn": "韩国资产投资证券株式会社",
+   "en": "Korea Asset investment Securities Co.,Ltd.",
+   "region": "韩国",
+   "approved": "2026-01-13",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 934,
+   "cn": "嘉民中国发展",
+   "en": "Goodman China Developments",
+   "region": "开曼群岛",
+   "approved": "2026-01-16",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 935,
+   "cn": "河钢国际控股有限公司",
+   "en": "HBIS GROUP INTERNATIONAL HOLDING CO., LIMITED",
+   "region": "中国香港",
+   "approved": "2026-01-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 936,
+   "cn": "澳新金属私人有限公司",
+   "en": "Ausinmet Pte Ltd",
+   "region": "新加坡",
+   "approved": "2026-01-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 937,
+   "cn": "紫金（新加坡）国际矿业有限公司",
+   "en": "ZIJIN (SINGAPORE) INTERNATIONAL MINING PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-01-20",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 938,
+   "cn": "复瑞渤大宗商品欧洲有限责任合伙",
+   "en": "FREEPOINT COMMODITIES EUROPE LLP",
+   "region": "英国",
+   "approved": "2026-01-23",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 939,
+   "cn": "铂金游隼有限公司",
+   "en": "Platinum Peregrine A 2012 RSC Limited",
+   "region": "阿联酋",
+   "approved": "2026-01-23",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 940,
+   "cn": "MFC资产管理有限公司",
+   "en": "MFC Asset Management Public Company Limited",
+   "region": "泰国",
+   "approved": "2026-01-28",
+   "trustee": "花旗银行"
+  },
+  {
+   "seq": 941,
+   "cn": "中国公寓迈博控股有限公司",
+   "en": "China Multifamily Marble Holdings Limited",
+   "region": "中国香港",
+   "approved": "2026-01-28",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 942,
+   "cn": "维港证券国际有限公司",
+   "en": "Victoria Harbour Securities International Limited",
+   "region": "中国香港",
+   "approved": "2026-02-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 943,
+   "cn": "布莱尔路资本私人有限公司",
+   "en": "Blair Road Capital Pte Ltd.",
+   "region": "新加坡",
+   "approved": "2026-02-05",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 944,
+   "cn": "大道资本（香港）有限公司",
+   "en": "TRUTH CAPITAL (HONG KONG) LIMITED",
+   "region": "中国香港",
+   "approved": "2026-02-07",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 945,
+   "cn": "诺宝国际商业公司",
+   "en": "NOBORU INTERNATIONAL FZCO",
+   "region": "阿联酋",
+   "approved": "2026-02-10",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 946,
+   "cn": "糖人贸易有限公司",
+   "en": "E D & F MAN SUGAR LIMITED",
+   "region": "英国",
+   "approved": "2026-02-10",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 947,
+   "cn": "协联合资有限公司",
+   "en": "SYNERGY LINK CAPITAL PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-03-04",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 948,
+   "cn": "香港海纳投资集团有限公司",
+   "en": "HONG KONG HIGH INVESTMENT GROUP CO., LIMITED",
+   "region": "中国香港",
+   "approved": "2026-03-06",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 949,
+   "cn": "华承资本（新加坡）有限公司",
+   "en": "CHCC CAPITAL (SINGAPORE) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-03-05",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 950,
+   "cn": "艾克斯莱特资本有限公司",
+   "en": "Axight Capital Limited",
+   "region": "阿联酋",
+   "approved": "2026-03-06",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 951,
+   "cn": "必添金融有限公司",
+   "en": "BTA Finance Limited",
+   "region": "阿联酋",
+   "approved": "2026-03-10",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 952,
+   "cn": "迪赛姆信息投资公司",
+   "en": "DCM Systematic SA",
+   "region": "瑞士",
+   "approved": "2026-03-10",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 953,
+   "cn": "智享股份有限公司",
+   "en": "Smartshares Limited",
+   "region": "新西兰",
+   "approved": "2026-03-13",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 954,
+   "cn": "卡夫投资有限责任公司",
+   "en": "KAAF INVESTMENTS LLC",
+   "region": "阿联酋",
+   "approved": "2026-03-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 955,
+   "cn": "玄龙资产管理有限公司",
+   "en": "Black Dragon Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2026-03-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 956,
+   "cn": "雷普索尔贸易有限公司",
+   "en": "REPSOL TRADING, S.A.",
+   "region": "西班牙",
+   "approved": "2026-03-17",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 957,
+   "cn": "贝塔国际证券有限公司",
+   "en": "BETA INTERNATIONAL SECURITIES LIMITED",
+   "region": "中国香港",
+   "approved": "2026-03-17",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 958,
+   "cn": "瑞德资产管理有限公司",
+   "en": "Reed Capital Partners Pte Ltd",
+   "region": "新加坡",
+   "approved": "2026-03-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 959,
+   "cn": "值成资本有限公司",
+   "en": "CVG CAPITAL CO,LIMITED",
+   "region": "中国香港",
+   "approved": "2026-03-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 960,
+   "cn": "金山（香港）国际矿业有限公司",
+   "en": "Gold Mountains (H.K.) International Mining Company Limited",
+   "region": "中国香港",
+   "approved": "2026-03-19",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 961,
+   "cn": "昱光资源有限公司",
+   "en": "LUMIER RESOURCES PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-03-19",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 962,
+   "cn": "银辉投资有限公司",
+   "en": "SilverCape Investments Limited",
+   "region": "开曼群岛",
+   "approved": "2026-03-21",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 963,
+   "cn": "淞港国际资产管理有限公司",
+   "en": "SunRiver International Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2026-03-25",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 964,
+   "cn": "中鑫资本（香港）管理有限公司",
+   "en": "Central Wealth Capital (HK)Management Limited",
+   "region": "中国香港",
+   "approved": "2026-04-07",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 965,
+   "cn": "金利实业（香港）国际有限公司",
+   "en": "JIN LI INDUSTRIAL (HONG KONG) INTERNATIONAL LIMITED",
+   "region": "中国香港",
+   "approved": "2026-04-09",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 966,
+   "cn": "英美资源营销有限公司",
+   "en": "ANGLO AMERICAN MARKETING LIMITED",
+   "region": "英国",
+   "approved": "2026-04-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 967,
+   "cn": "老使命欧洲有限责任合伙企业",
+   "en": "Old Mission Europe LLP",
+   "region": "英国",
+   "approved": "2026-04-16",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 968,
+   "cn": "摩根士丹利投资管理企业",
+   "en": "Morgan Stanley Investment Management Company",
+   "region": "新加坡",
+   "approved": "2026-04-20",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 969,
+   "cn": "环球富盛理财有限公司",
+   "en": "GL0BAL PROSPERITY FINANCIAL COMPANY LIMITED",
+   "region": "中国香港",
+   "approved": "2026-04-20",
+   "trustee": "交通银行"
+  },
+  {
+   "seq": 970,
+   "cn": "未来财富集团股份有限公司",
+   "en": "Future Wealth Group AG",
+   "region": "瑞士",
+   "approved": "2026-04-20",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 971,
+   "cn": "瑭明资本管理有限公司",
+   "en": "TOPAZ CAPITAL MANAGEMENT LIMITED",
+   "region": "中国香港",
+   "approved": "2026-04-21",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 972,
+   "cn": "澳星资本有限公司",
+   "en": "AUSTAR CAPITAL PTY LTD",
+   "region": "澳大利亚",
+   "approved": "2026-04-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 973,
+   "cn": "山东黄金（新加坡）国际矿业有限公司",
+   "en": "SD GOLD (SINGAPORE) INTERNATIONAL MINING PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-04-24",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 974,
+   "cn": "嘉玉控股有限责任公司",
+   "en": "Jade Holding LLC",
+   "region": "卡塔尔",
+   "approved": "2026-05-08",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 975,
+   "cn": "哈菲特资本有限公司",
+   "en": "Hafeet Capital Limited",
+   "region": "阿联酋",
+   "approved": "2026-05-09",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 976,
+   "cn": "世通金融私人有限公司",
+   "en": "StoneX Financial Pte Ltd",
+   "region": "新加坡",
+   "approved": "2026-05-11",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 977,
+   "cn": "凯希投资有限责任公司",
+   "en": "KIC INVESTMENTS L.L.C",
+   "region": "阿联酋",
+   "approved": "2026-05-12",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 978,
+   "cn": "怡创全球资产管理私人有限公司",
+   "en": "ITUS ASSET MANAGEMENT PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-05-14",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 979,
+   "cn": "富地财富管理(香港)有限公司",
+   "en": "Bendura Wealth Management (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2026-05-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 980,
+   "cn": "博致集团有限公司",
+   "en": "Plentiful Compact Holdings Limited",
+   "region": "中国香港",
+   "approved": "2026-05-21",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 981,
+   "cn": "佳富资本有限公司",
+   "en": "GAVEKAL CAPITAL LIMITED",
+   "region": "中国香港",
+   "approved": "2026-06-03",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 982,
+   "cn": "格林威治金属商品贸易有限公司",
+   "en": "GMI Commodities SA",
+   "region": "瑞士",
+   "approved": "2026-06-17",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 983,
+   "cn": "晨方投资有限公司",
+   "en": "AM SQUARED LIMITED",
+   "region": "中国香港",
+   "approved": "2026-06-17",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 984,
+   "cn": "奥达金垒财富管理有限公司",
+   "en": "Orda Wealth Management Ltd",
+   "region": "哈萨克斯坦",
+   "approved": "2026-06-18",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 985,
+   "cn": "阿方投资管理有限公司",
+   "en": "R Squared Limited",
+   "region": "中国香港",
+   "approved": "2026-06-18",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 986,
+   "cn": "纵盈资本（香港）有限公司",
+   "en": "Y-Intercept (Hong Kong) Limited",
+   "region": "中国香港",
+   "approved": "2026-06-23",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 987,
+   "cn": "富盛国际实业有限公司",
+   "en": "RICH FORTUNE INT'L INDUSTRIAL LIMITED",
+   "region": "中国香港",
+   "approved": "2026-06-24",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 988,
+   "cn": "国贸新加坡有限公司",
+   "en": "ITG RESOURCES (SINGAPORE) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-06-26",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 989,
+   "cn": "中基资源新加坡有限公司",
+   "en": "CHINA-BASE RESOURCE SINGAPORE PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-06-29",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 990,
+   "cn": "金柏资产管理有限公司",
+   "en": "Complus Asset Management Limited",
+   "region": "中国香港",
+   "approved": "2026-06-29",
+   "trustee": "德意志银行"
+  },
+  {
+   "seq": 991,
+   "cn": "恩吉斯养老金私人有限公司",
+   "en": "NGS Super Pty Limited",
+   "region": "澳大利亚",
+   "approved": "2026-07-01",
+   "trustee": "工商银行"
+  },
+  {
+   "seq": 992,
+   "cn": "灵戈托投资管理有限责任公司",
+   "en": "Lingotto Investment Management LLP",
+   "region": "英国",
+   "approved": "2026-07-07",
+   "trustee": "汇丰银行"
+  },
+  {
+   "seq": 993,
+   "cn": "盛邦恒昌物产（新加坡）有限公司",
+   "en": "THRIVBON RESOURCE (SINGAPORE) PTE. LTD.",
+   "region": "新加坡",
+   "approved": "2026-07-08",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 994,
+   "cn": "水龙头管理有限公司",
+   "en": "TAP capital limited",
+   "region": "中国香港",
+   "approved": "2026-07-16",
+   "trustee": "中国银行"
+  },
+  {
+   "seq": 995,
+   "cn": "中燃远邦石油化工有限公司",
+   "en": "Chimbusco Pan Nation Petro-Chemical Co., Ltd.",
+   "region": "中国香港",
+   "approved": "2026-07-22",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 996,
+   "cn": "新加坡特利思有限公司",
+   "en": "Trismegist Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2026-07-20",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 997,
+   "cn": "德信资产管理有限公司",
+   "en": "Duxton Asset Management Pte. Ltd.",
+   "region": "新加坡",
+   "approved": "2026-07-24",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 998,
+   "cn": "迪亚琦华有限公司",
+   "en": "DIJLLAH JEWELLERY FZE",
+   "region": "阿联酋",
+   "approved": "2026-07-27",
+   "trustee": "建设银行"
+  },
+  {
+   "seq": 999,
+   "cn": "睿目投资管理有限公司",
+   "en": "AI-SQUARED MANAGEMENT LIMITED",
+   "region": "中国香港",
+   "approved": "2026-07-31",
+   "trustee": "建设银行"
+  }
+ ]
+}

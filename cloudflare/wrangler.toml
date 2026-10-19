@@ -1,0 +1,8 @@
+name = "rkstock"
+pages_build_output_dir = "public"
+compatibility_date = "2026-09-21"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rkstock-db"
+database_id = "cbd1ae2e-b403-4d76-b5af-cf6b101e230e"

@@ -1,0 +1,44 @@
+# ---------- 本地数据与凭据（绝对不要提交）----------
+# data/ 下有：
+#   workbench.db       本地 SQLite 数据库（体积大、由程序自动生成）
+#   cloudflare.json    含 Cloudflare API 令牌（敏感！）
+#   *.log              运行日志
+#   qfii_*.xls         原始下载文件
+data/*
+!data/.gitkeep
+
+# 凭据文件（任意位置）
+cloudflare.json
+*.token
+secrets.json
+
+# ---------- Python ----------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---------- 构建产物 ----------
+cloudflare/public/
+cloudflare/.wrangler/
+build/
+dist/
+
+# ---------- 日志 ----------
+*.log
+*.log.*
+
+# ---------- 数据库滚动文件 ----------
+*.db
+*.db-wal
+*.db-shm
+
+# ---------- 编辑器/系统 ----------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

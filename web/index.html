@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- __MODE__ 由服务端/构建脚本替换：local=本地(可更新) / cloud=Cloudflare只读副本 -->
+<meta name="rk-mode" content="__MODE__">
+<title>Stock INDUSTRY INTELLIGENCE</title>
+<link rel="stylesheet" href="/assets/vendor/ag-grid.min.css">
+<link rel="stylesheet" href="/assets/vendor/ag-theme-balham.min.css">
+<link rel="stylesheet" href="/assets/vendor/agGridBalhamFont.css">
+<link rel="stylesheet" href="/assets/style.css?v=__BUILD__">
+</head>
+<body>
+<header id="topbar">
+  <div class="brand">
+    <span class="brand-name">Stock INDUSTRY INTELLIGENCE</span>
+    <span class="brand-sub">产业与基本面监控工作台</span>
+  </div>
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-tab="performance">业绩监控</button>
+    <button class="tab" data-tab="holders">重要股东监控</button>
+  </div>
+  <div class="topbar-right">
+    <div id="update-status" class="update-status">
+      <span id="last-updated" class="last-updated">尚未更新</span>
+      <span id="ui-build" class="ui-build" title="界面构建版本（每次改动前端自动变化）"></span>
+    </div>
+    <button id="btn-update" title="更新股票池成分（沪深300+创业板指+科创50）、行情、财务、估值、重要股东与YTD">
+      <span class="icon">&#8635;</span> 更新数据
+    </button>
+  </div>
+</header>
+
+<div id="update-panel" class="update-panel hidden">
+  <div class="update-panel-head">
+    <span id="update-title">正在更新数据...</span>
+    <button id="btn-close-panel" class="panel-close">&times;</button>
+  </div>
+  <ul id="update-steps"></ul>
+</div>
+
+<main id="layout">
+  <aside id="sidebar">
+    <div class="sidebar-head">INDUSTRIES</div>
+    <div class="sidebar-search">
+      <input id="quick-filter" type="text" placeholder="搜索代码 / 名称...">
+    </div>
+    <nav id="industry-tree"></nav>
+    <div class="sidebar-foot" id="sidebar-foot"></div>
+  </aside>
+  <section id="content">
+    <div class="content-head">
+      <span id="current-view" class="current-view">全部股票池</span>
+      <span id="view-count" class="view-count"></span>
+    </div>
+    <div id="stock-grid" class="ag-theme-balham"></div>
+  </section>
+</main>
+
+<main id="holder-layout" class="hidden">
+  <aside id="holder-sidebar">
+    <div class="sidebar-head">IMPORTANT SHAREHOLDERS</div>
+    <div class="sidebar-search">
+      <input id="holder-filter" type="text" placeholder="搜索股东...">
+    </div>
+    <nav id="holder-list"></nav>
+    <div class="sidebar-foot">口径：十大流通股东 · 仅列本期有增持/新进（≥2000万）者</div>
+  </aside>
+  <section id="holder-content">
+    <div class="content-head">
+      <span id="holder-view" class="current-view">全部重要股东</span>
+      <span id="holder-count" class="view-count"></span>
+    </div>
+    <div id="holder-grid" class="ag-theme-balham"></div>
+  </section>
+</main>
+
+<script src="/assets/vendor/ag-grid-community.min.js"></script>
+<script src="/assets/app.js?v=__BUILD__"></script>
+</body>
+</html>
